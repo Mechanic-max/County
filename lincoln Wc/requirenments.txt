@@ -1,0 +1,4 @@
+scrapy==1.6
+fake_useragent
+selenium
+
