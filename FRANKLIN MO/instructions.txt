@@ -1,0 +1,25 @@
+Follow the instructions to get the whole Delinquent Tax List.
+1. Website to use: http://collector.franklinmo.net/
+
+2. See Screenshot 1
+	*Type 2018 in Tax Year Search box
+	*Check Real property only
+	*search
+
+3. Click Paid Column to sort the result to unpaid first.
+
+3. Scrape the following: 
+	*Paid/Unpaid Column
+	*Parcel ID
+	*Owner Name 1
+	*Owner Name 2
+	*Situs
+	*Tax Yr
+	*Acct #
+
+
+(Finish all the pages then move to next letter)
+
+4. NEXT: Type 2018 in Tax Yr then search, scrape data up to Tax Yr 2020.
+
+

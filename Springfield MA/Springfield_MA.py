@@ -18,7 +18,7 @@ count = 0
 #     writer = csv.writer(file)
 #     writer.writerow(["Parcel ID","owner_name","site_address","city","state","zip","mail_address","m_city","m_state","m_zip","sale_date","sale_price","land_value","bldg_value","total_accessed_value","living_area","property_type","built_year","baths"])
 
-ul = "https://www.springfield-ma.gov/finance/assessors/main.php?option=results"
+ul = "https://www.springfield-ma.gov/finance/assessors-search/"
 
 
 def scrap(count,a0,a1,a2,a3,a4,a5,a6,a7):

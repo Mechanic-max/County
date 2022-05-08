@@ -1,0 +1,775 @@
+ACCT No,Site Address,Owner,Mail Address,Mail City,Mail Zip,Property Type,Land value,Bldg Value,Total Accessed Value,Sale Date,Sale Amount,Living Area,Year Built,Bedrooms,Full Bath,Half Bath
+600000047,421 N Main St,"Realty Income Properties 4, LLC",11995 El Camino Real,['San'],['92130-2539'],UC,"$2,788,070 ","$2,428,240 ","$5,225,330 ",10/19/2010,"$5,550,000 ","49,093 sf",1993,0,0,0
+600000059,910 S Adams St,"Kaiser Properties, LLC",7107 E 150th St N,['Collinsville'],['74021-4097'],UR,"$12,500 ","$48,030 ","$60,530 ",1/7/2003,$0 ,"1,240 sf",1940,4,2,0
+600000079,4810 W 6th Ave,"4810 W 6TH, LLC",916 N Main St,['Stillwater'],['74075-3621'],UC,"$634,910 ","$501,160 ","$2,137,260 ",11/30/2010,$0 ,"3,978 sf",1998,0,0,0
+600000100,4710 W 56th St,"Chehrehgosha, Ray & Tricia Revoc Trust",1506 E 3rd Ave,['Stillwater'],['74074-3906'],RA,"$18,170 ",$0 ,"$31,013 ",6/4/2014,$0 ,-,-,0,0,0
+600000101,5209 S Washington Rd,"Priest, Sarah N",5209 S Washington St,['Stillwater'],['74074-5911'],RR,"$43,510 ","$112,490 ","$156,530 ",12/31/2020,"$155,000 ","2,114 sf",1997,4,2,1
+600000108,10701 S Washington Rd,"Cundiff, Steven F & Mary L",10701 S Washington,['Perkins'],['74059-4080'],RA,"$46,230 ","$563,340 ","$666,082 ",-,-,"4,558 sf",1999,4,5,0
+600000114,6023 N Washington Rd,"D & C Properties, LLC",PO Box 101,['Morrison'],['73061-0101'],RC,"$130,870 ","$578,130 ","$725,900 ",1/4/2005,$0 ,"2,520 sf",2006,0,0,0
+600000121,10522 N Washington Rd,"Williams, James E & Lynda L CO-TTEE",24100 County Road 220,['Morrison'],['73061-9561'],RA,"$33,280 ",$0 ,"$136,567 ",6/15/2005,$0 ,,,,,
+600000145,1220 E Texaco,"Phillips Texas Pipeline Comp Eagles 2, LLC",PO Box 4428,['Houston'],['77210-4428'],RC,"$121,350 ","$108,900 ","$246,490 ",10/14/2016,$0 ,"3,600 sf",2007,0,0,0
+600000160,3220 S Little Ave,"Enbridge Storage (Cushing), LLC",PO Box 2629,['Addison'],['75001-2629'],RC,"$434,130 ","$897,230 ","$1,403,090 ",10/30/2014,$0 ,"2,328 sf",1994,0,0,0
+600000170,E 68th St,Schroeder Family Trust,8617 E 140th St,['Perkins'],['74059-3645'],RA,"$29,530 ",$0 ,"$29,530 ",8/6/2019,$0 ,-,-,0,0,0
+600000171,E Hwy 33,"KW Investments, LLC",PO Box 399,['Perkins'],['74059-0399'],UC,"$139,390 ",$0 ,"$139,390 ",6/15/2018,$0 ,-,-,0,0,0
+600000172,603 S Bethel Rd,"Woodall Exchange, LLC",18000 NE 23rd St,['Harrah'],['73045-8100'],RR,$450 ,$0 ,$450 ,11/15/2011,$0 ,-,-,0,0,0
+600000178,4800 N Perkins Rd,"Sunnybrook Christian Church, Inc",421 E Richmond Rd,['Stillwater'],['74075-1646'],CH,"$320,450 ","$5,208,920 ","$5,570,270 ",3/30/1994,$0 ,0 sf,1966,3,2,0
+600000179,1100 W Graham Ave,"Decker, William M Revoc Tr",1100 W Graham Ave,['Stillwater'],['74075-2705'],UR,"$45,000 ","$217,080 ","$262,080 ",12/21/2007,"$253,000 ","2,399 sf",1997,3,2,1
+600000185,112 E Richmond Rd,"Sunnybrook Christian Church, Inc",421 E Richmond Rd,['Stillwater'],['74075-1646'],CH,"$80,780 ","$1,107,030 ","$1,188,445 ",3/3/2015,"$800,000 ","16,650 sf",1991,0,0,0
+600000208,63 Yellow Brick Dr,"Materer, Nicholas F & Boyd, Julia B",63 Yellow Brick Dr,['Stillwater'],['74074-1733'],UR,"$50,000 ","$249,330 ","$299,330 ",4/30/2013,"$250,500 ","2,974 sf",2000,5,3,0
+600000241,10520 E 19th St,"Smith, Larry M",10520 E 19th Ave,['Stillwater'],['74074-6515'],RR,"$14,240 ","$47,450 ","$71,036 ",12/16/2020,"$135,000 ","2,200 sf",2000,4,2,1
+600000269,6409 S Prairie Rd,"AWN Investments Management, LLC",6409 S Prairie Rd,['Stillwater'],['74074'],RA,"$35,760 ","$171,590 ","$255,355 ",5/1/2018,"$465,000 ","1,894 sf",2003,3,2,0
+600000275,4620 E 122nd St,"Smith, James W & Angela E",PO Box 293,['Carney'],['74832-0293'],RA,"$44,140 ","$43,500 ","$152,144 ",3/24/2006,"$80,000 ","1,056 sf",2007,3,2,0
+600000281,816 N Main St,"Amaciula, LLC",1222 S Fairway Dr,['Stillwater'],['74074-1316'],UC,"$20,000 ","$12,150 ","$32,150 ",8/19/1999,"$44,000 ","1,952 sf",1951,0,0,0
+600000282,5123 N Ripley Rd,"Red Dirt Acres, LLC",PO Box 275,['Tonkawa'],['74653-0275'],RR,"$29,860 ","$34,200 ","$68,105 ",11/20/2013,$0 ,985 sf,1920,2,1,0
+600000288,2112 S Main St,"Moms on Main, LLC",PO Box 368,['Stillwater'],['74076-0368'],UC,"$34,310 ","$7,860 ","$52,160 ",6/10/2019,"$6,351 ","7,398 sf",1974,0,0,6
+600000293,1015 N Boomer Rd,"Cowboy Custard B1, LLC",6103 E 127th Pl S,['Bixby'],['74008-2692'],UC,"$696,260 ","$669,450 ","$1,365,710 ",1/19/2012,"$350,000 ","3,215 sf",2012,0,0,0
+600000294,1322 S Karsten Creek Rd,"Insite Towers Development, LLC","1199 N Fairfax St, Ste 700",['Alexandria'],['22314'],RC,"$1,130 ",$0 ,"$1,130 ",9/18/2020,$0 ,-,-,0,0,0
+600000296,1800 W Lakeview Rd,"Still North, LLC",621 S Husband St,['Stillwater'],['74074-4033'],UC,"$78,410 ","$563,360 ","$704,300 ",11/1/2013,$0 ,"5,911 sf",1984,0,0,0
+600000297,908 E Texaco,"BKEP Crude Storage, LLC","6060 American Plz, Ste 600",['Tulsa'],['74135'],RC,"$37,560 ",$0 ,"$37,560 ",2/22/2021,$0 ,-,-,0,0,0
+600000300,S Washington Rd,"Sasser, Betty Virginia",23923 E 1048 Rd,['Weatherford'],['73096-8100'],RR,"$61,510 ",$0 ,"$61,510 ",3/4/1991,$0 ,-,-,0,0,0
+600000305,2101 S Linwood Ave,"Enbridge Storage (Cushing), LLC",PO Box 2629,['Addison'],['75001-2629'],RC,"$358,640 ","$6,346,540 ","$7,652,880 ",10/30/2014,$0 ,"28,425 sf",2014,0,0,0
+600000310,203 N Young St,Bible Baptist Church,PO Box 1985,['Stillwater'],['74076-1985'],CH,"$93,600 ","$171,830 ","$312,053 ",-,-,"1,650 sf",1930,3,1,0
+600000312,W 9th St,"Tackett, Gary Lee & Jamie M",8907 W 9th St,['Ripley'],['74062-6384'],RA,"$1,520 ",$0 ,"$1,520 ",-,-,-,-,0,0,0
+600000318,E Noble Rd,"Murphy Family Investments, LLC",482 Hickory St,['San'],['94102-5607'],RA,"$16,970 ",$0 ,"$16,970 ",9/13/2011,$0 ,-,-,0,0,0
+600000320,E 44th St,Restricted Indian Land,0,['None'],[],RSIL,"$15,360 ",$0 ,"$15,360 ",11/28/2012,$0 ,-,-,0,0,0
+600000337,8222 S Mt Vernon Rd,Morris Revocable Trust,8222 N Mt Vernon,['Cushing'],['74023-6096'],RA,"$27,200 ","$133,010 ","$195,459 ",9/25/2013,$0 ,390 sf,2004,1,1,0
+600000351,2023 E Connell Ct,"Shao, David C & Laurel L 2019 Living Trust",1508 S Range Rd,['Stillwater'],['74074-1097'],UR,"$30,000 ","$124,130 ","$155,190 ",5/17/2019,$0 ,"1,381 sf",1993,3,1,1
+600000356,613 N Wedgewood Dr,"Thompson, Paul A & Linda L",613 Wedgewood Dr,['Stillwater'],['74075-8240'],UR,"$30,000 ","$125,660 ","$155,660 ",10/14/1993,"$12,000 ","1,586 sf",1994,3,2,0
+600000373,1600 S Oak Grove,"Smith, Kimberly S & Joseph E II",1600 S Oak Grove Rd,['Cushing'],['74023-6278'],RR,"$12,600 ","$185,090 ","$197,690 ",1/14/2002,$0 ,"1,994 sf",2003,3,2,0
+600000379,320 E McElroy,"109 Boomer Creek, LLC","1417 E 1-30, Ste 1",['Garland'],['75043'],UC,"$893,490 ","$1,534,590 ","$2,441,520 ",1/7/2021,"$3,875,000 ","15,780 sf",2005,0,0,0
+600000381,1111 N Lewis St,"Banks, Michael D & Matoy, Elizabeth Anne","215 W McElroy Rd, Ste 4",['Stillwater'],['74075-3537'],UR,"$32,000 ",$0 ,"$32,000 ",9/24/2004,$0 ,-,-,0,0,0
+600000397,11716 S Greenbriar Ln,"Sasser, William David Family Trust",222 N Main St,['Perkins'],['74059-3630'],RA,"$14,830 ","$172,080 ","$197,240 ",8/30/2018,$0 ,"3,276 sf",1949,4,2,1
+600000401,2698 E McElroy,Albright Living Trust,2615 E McElroy Rd,['Stillwater'],['74075-8520'],UA,"$87,230 ",$0 ,"$222,267 ",9/11/2006,"$385,000 ",-,-,0,0,0
+600000403,4814 N Perkins Rd,"Sunnybrook Christian Church, Inc",421 E Richmond Rd,['Stillwater'],['74075-1646'],CH,"$43,430 ",$0 ,"$43,430 ",9/2/2004,"$27,500 ",-,-,0,0,0
+600000414,,Restricted Indian Land,0,['None'],[],RSIL,"$9,330 ",$0 ,"$9,330 ",-,-,-,-,0,0,0
+600000417,118 S Payne St,"ED'Z, LLC",633 N Husband St,['Stillwater'],['74075-5244'],UR,"$20,000 ","$100,690 ","$120,690 ",8/10/2020,$0 ,"1,266 sf",1999,3,1,1
+600000419,2015 E Virginia Ave,Korean Baptist Church,2015 E Virginia Ave,['Stillwater'],['74075-8237'],CH,"$31,300 ","$671,220 ","$703,628 ",6/5/1990,$0 ,"5,410 sf",1991,0,0,0
+600000422,W Cherry St,"FHA Holdings, LLC",PO Box 1030,['Cushing'],['74023-2966'],UR,"$3,000 ",$0 ,"$3,000 ",9/28/2015,$0 ,-,-,0,0,0
+600000427,2722 S Oxford Dr,Brighton Homeowners Association,PO Box 1064,['Stillwater'],['74076-1064'],NA,$0 ,$0 ,$0 ,6/14/2010,$0 ,-,-,0,0,0
+600000428,2521 W 26th Ave,Brighton Homeowners Association,PO Box 1064,['Stillwater'],['74076-1064'],NA,$0 ,$0 ,$0 ,6/14/2010,$0 ,-,-,0,0,0
+600000440,6110 N Washington Rd,"Meftahi, Connie J",6110 N Washington St,['Stillwater'],['74075-1246'],RR,"$11,970 ","$53,780 ","$75,455 ",5/21/2007,"$93,000 ","1,243 sf",1940,3,1,1
+600000442,609 N Wildwood Acres Dr,"Smith, Douglas E",609 Wildwood Acres Dr,['Stillwater'],['74075-1813'],RC,"$45,800 ","$136,370 ","$233,372 ",1/12/2018,$0 ,"1,152 sf",1930,3,2,0
+600000456,202 N Perkins Rd,"Carpar Property I, LLC",PO Box 6116,['Chicago'],['60606-0116'],UC,"$509,900 ","$580,260 ","$1,090,160 ",12/29/2000,"$562,849 ","7,976 sf",1995,0,0,0
+600000462,9115 E Glencoe Rd,"Kuhn, James T And/Or Darlene Living Trust",9115 E Glencoe Rd,['Glencoe'],['74032-3011'],RR,"$39,300 ","$90,120 ","$154,130 ",8/3/1993,$0 ,"2,001 sf",1925,3,2,0
+600000473,1008 E Kirk Ave,"Town of Perkins, Oklahoma A Municipal Corporation",PO Box 9,['Perkins'],['74059-0009'],CI,"$137,750 ",$0 ,"$149,536 ",2/11/2020,$0 ,-,-,0,0,0
+600000474,S Brethren Rd,"Roberts, Neal & Kim Co-TTEE ETAL",5601 NW 111th St,['Oklahoma'],['73162-3516'],RA,"$20,090 ",$0 ,"$20,090 ",9/17/2014,$0 ,-,-,0,0,0
+600000498,8008 N Washington Rd,"Desert Eagle III Properties, LLC",1930 Avenue L,['Ely'],['89301'],RC,"$17,930 ","$35,030 ","$86,370 ",3/6/2020,"$52,500 ","2,155 sf",1982,0,0,0
+600000498,8008 N Washington Rd,"Desert Eagle III Properties, LLC",1930 Avenue L,['Ely'],['89301'],RC,"$17,930 ","$35,030 ","$86,370 ",3/6/2020,"$52,500 ","2,155 sf",1982,0,0,0
+600000514,18907 W 44th St,"Siegenthaler, Grace M Family Trust",5901 Rosemont Ct,['Arlington'],['76017-4744'],RA,"$30,370 ",$0 ,"$40,870 ",6/1/2013,$0 ,,,,,
+600000529,306 W Main St,"Glencoe Spirit & Truth Church, Inc",PO Box 74,['Glencoe'],['74032-0074'],CH,"$4,640 ","$114,320 ","$120,920 ",9/6/2016,$0 ,"3,536 sf",1975,0,0,0
+600000537,1600 E North St,Faith Baptist Church The,1600 E North St,['Cushing'],['74023-2999'],CH,"$20,190 ","$193,780 ","$214,390 ",2/23/1989,$0 ,"2,960 sf",1988,0,0,0
+600000547,E Main St,"Giddeon, Janet F Revoc Trust",7609 E Eseco Rd,['Cushing'],['74023-6295'],RR,"$17,050 ",$0 ,"$17,050 ",2/3/2016,$0 ,-,-,0,0,0
+600000559,106 N Donaldson St,"Roberts, William D & Hannah R",106 N Donaldson Dr,['Stillwater'],['74075-7938'],UR,"$23,000 ","$180,920 ","$208,840 ",7/11/2016,"$150,000 ","1,764 sf",1999,3,2,0
+600000629,2909 S Washington St,"Cameron, Eric J & Connie J",2909 S Washington St,['Stillwater'],['74074-6930'],UA,"$21,620 ","$149,090 ","$204,588 ",4/26/2010,"$80,000 ","2,378 sf",2001,3,2,1
+600000632,3625 N Washington St,City of Stillwater,P O Box 1449,['Stillwater'],['74076'],CI,"$125,040 ",$0 ,"$125,040 ",-,-,-,-,0,0,0
+600000635,2600 N Washington St,City of Stillwater,P O Box 1449,['Stillwater'],['74076'],CI,"$354,860 ",$0 ,"$354,860 ",4/30/1959,$0 ,-,-,0,0,0
+600000637,3001 N Washington St,City of Stillwater,P O Box 1449,['Stillwater'],['74076'],CI,"$204,940 ",$0 ,"$204,940 ",-,-,-,-,0,0,0
+600000666,8215 N Ripley Rd,"Murphy Family Investments, LLC",482 Hickory St,['San'],['94102-5607'],RA,"$8,340 ",$0 ,"$8,340 ",9/13/2011,$0 ,-,-,0,0,0
+600000668,5405 E Main St,Restricted Indian Land,0,['None'],[],RSIL,"$38,730 ",$0 ,"$38,730 ",-,-,-,-,0,0,0
+600000680,4725 E Wild Turkey Rd,"Smith, Gary E & Linda L",1917 Richmond Dr,['Bartlesville'],['74006-6953'],RR,"$36,810 ","$163,090 ","$202,583 ",7/19/2002,"$20,000 ","1,784 sf",2003,3,2,0
+600000694,5920 W 53rd St,"KAR Properties, LLC",PO Box 2467,['Stillwater'],['74076-2467'],RR,"$55,000 ","$377,030 ","$440,952 ",2/24/2015,"$376,500 ","3,323 sf",1996,5,2,1
+600000697,S Washington St,"Caldwell, Jimmy Dale",1120 W 68th St,['Stillwater'],['74074-5923'],RA,"$5,340 ",$0 ,"$5,340 ",9/24/2019,$0 ,-,-,0,0,0
+600000711,W Pine St,"May, Dan S",1212 N Country Club Rd,['Stillwater'],['74075-9574'],UR,$500 ,$0 ,$500 ,6/14/2010,$0 ,-,-,0,0,0
+600000723,10402 W 104th St,"White, Jeffery L & Stacie S",10402 W 104th St,['Coyle'],['73027-3012'],RA,"$27,170 ","$160,440 ","$204,826 ",5/23/2008,"$230,000 ","2,936 sf",1920,4,3,0
+600000729,399 E Mohawk Ave,"Shedrick Management, LLC",222 E 7th Ave,['Stillwater'],['74074-4072'],UR,"$315,330 ",$0 ,"$315,330 ",2/6/2002,$0 ,-,-,0,0,0
+600000736,N Washington Rd,"Luter, Patty Jo & Dannie Lee",21700 County Road 280,['Morrison'],['73061-9533'],RA,"$43,370 ",$0 ,"$43,370 ",4/8/1988,$0 ,-,-,0,0,0
+600000737,10602 N Washington Rd,"Walters, Dallan E & Barbara J",10602 N Washington Rd,['Stillwater'],['74075-1793'],RR,"$45,470 ","$246,430 ","$291,900 ",10/22/1997,$0 ,"2,549 sf",1949,3,1,1
+600000803,1815 S Rockview Dr,"Gambill, Almeda L",1815 S Rockview Dr,['Agra'],['74824-6220'],RR,"$89,130 ","$28,440 ","$120,136 ",6/26/2007,$0 ,"1,216 sf",1999,3,1,0
+600000837,0 N Bethel Rd,"Murphy Family Investments, LLC",482 Hickory St,['San'],['94102-5607'],RA,"$6,140 ",$0 ,"$6,140 ",9/13/2011,$0 ,,,,,
+600000838,1221 N Ramsey St,"MJJ Investments, LLC",15736 N 2850 Rd,['Kingfisher'],['73750-7064'],UR,"$35,000 ","$127,000 ","$162,000 ",4/27/2018,"$172,500 ","1,517 sf",2006,3,3,0
+600000882,S Washington Rd,"Sampson, Kent & Shelia Co-TTEE",616 N Sangre Rd,['Stillwater'],['74075-1957'],RR,"$95,190 ",$0 ,"$95,190 ",11/16/2015,$0 ,-,-,0,0,0
+600000976,7107 E Idlewild Acres,Opdyke Family Trust,7107 Idlewild Acres,['Stillwater'],['74074-7053'],RR,"$40,980 ","$261,920 ","$309,268 ",3/2/2006,$0 ,"2,675 sf",1996,4,3,0
+600001042,E Vine St,"Mcpheters, Lynda J",110 E Vine St,['Cushing'],['74023-2224'],UR,$500 ,$0 ,$500 ,4/7/2021,$0 ,-,-,0,0,0
+600001045,112 E Vine St,City of Cushing,PO Box 311,['Cushing'],['74023-0311'],CI,$500 ,$0 ,$500 ,-,-,-,-,0,0,0
+600001047,110 E Vine St,"McPheters, Raymond L & Lynda",110 E Vine St,['Cushing'],['74023-2224'],UR,$500 ,"$52,890 ","$53,638 ",6/14/2010,$0 ,887 sf,1989,2,1,0
+600001049,106 E Vine St,"Johnson, Loretta & Brown, May Evelyn (M&D)",3516 Morcom Ave,['Oakland'],['94619-2610'],UR,$500 ,$0 ,$500 ,-,-,-,-,0,0,0
+600001064,N Cleveland Ave,MT Olive Baptist Church,PO Box 809,['Cushing'],['74023-0809'],CH,"$2,140 ","$16,660 ","$19,270 ",2/20/2015,$0 ,"1,024 sf",1980,0,0,0
+600001066,1001 N Central Ave,First Baptist North Church,1001 N Central Ave,['Cushing'],['74023-2107'],CH,$0 ,"$120,070 ","$120,070 ",-,-,"2,444 sf",1985,0,0,0
+600001139,S Ingalls-Oak St,"Wells, Martha C",PO Box 691715,['Stockton'],['95269-1715'],RR,"$1,760 ",$0 ,"$1,760 ",5/27/2015,$0 ,-,-,0,0,0
+600001143,S Ingalls-Oak St,"Wells, Martha C",PO Box 691715,['Stockton'],['95269-1715'],RR,"$3,520 ",$0 ,"$3,520 ",5/27/2015,$0 ,-,-,0,0,0
+600001155,S Ingalls-Oak St,"Wells, Martha C",PO Box 691715,['Stockton'],['95269-1715'],RR,"$3,520 ",$0 ,"$3,520 ",5/27/2015,$0 ,-,-,0,0,0
+600001162,S Ingalls-Oak St,"Wells, Martha C",PO Box 691715,['Stockton'],['95269-1715'],RR,"$7,520 ",$0 ,"$7,520 ",5/27/2015,$0 ,-,-,0,0,0
+600001164,S Ingalls-Walnut St,"Wells, Martha C",PO Box 691715,['Stockton'],['95269-1715'],RR,"$3,840 ",$0 ,"$3,840 ",5/27/2015,$0 ,-,-,0,0,0
+600001168,S Ingalls-Walnut St,"Wells, Martha C",PO Box 691715,['Stockton'],['95269-1715'],RR,"$3,840 ",$0 ,"$3,840 ",5/27/2015,$0 ,-,-,0,0,0
+600001169,1107 N Central Ave,"Davis, Thomas M",517 W Main St,['Stroud'],['74079-3615'],UC,$500 ,$0 ,$500 ,8/27/2020,$257 ,,,,,
+600001189,E Hickory St,"Boyd, Flora E Revocable Living Trust",121 W Vine St,['Cushing'],['74023-2141'],UR,$500 ,$0 ,$500 ,9/8/2016,$0 ,-,-,0,0,0
+600001189,E Hickory St,"Boyd, Flora E Revocable Living Trust",121 W Vine St,['Cushing'],['74023-2141'],UR,$500 ,$0 ,$500 ,9/8/2016,$0 ,-,-,0,0,0
+600001191,S Ingalls-Walnut St,Ingalls Baptist Church,2011 S Ingalls Main,['Stillwater'],['74074-7404'],RR,"$4,800 ",$0 ,"$4,800 ",-,-,-,-,0,0,0
+600001257,318 W Pine St,"Holmby, Charles D & Ellen J",334816 E 955 Rd,['Wellston'],['74881-7022'],UR,"$1,000 ","$56,480 ","$57,480 ",12/23/2020,"$29,500 ","1,920 sf",2009,3,2,0
+600001287,224 W Cypress St,"Hayes, Juanita Porter & Gragg, Brenda Lois",517 Lindenwood Dr,['Bartlesville'],['74003-1431'],UR,"$1,000 ","$18,100 ","$21,759 ",1/4/2001,$0 ,"1,068 sf",1935,3,1,1
+600001391,704 S Timberridge Dr,"M & M Capital Investments, LLC",PO Box 902,['Broken'],['74013-0902'],UR,"$12,500 ","$134,780 ","$149,597 ",9/9/2020,"$154,000 ","1,821 sf",1983,3,2,0
+600001394,614 S Timberridge Dr,"Murrell, Kenneth C & Kristi A Living Trust",614 S Timberridge Dr,['Cushing'],['74023-5410'],UR,"$16,250 ","$120,200 ","$136,450 ",4/17/2014,$0 ,"1,557 sf",2000,3,2,0
+600001422,1909 S Rose Rd,"Edwards, Bobby D & Marlena G",1909 S Rose Rd,['Stillwater'],['74074-7064'],RR,"$39,830 ","$7,750 ","$55,124 ",3/14/2005,$0 ,"1,634 sf",1900,3,1,1
+600001423,711 E Maple St,"Harris, Kenneth & Tina Kay",711 E Maple St,['Cushing'],['74023-2720'],UR,"$5,000 ","$28,600 ","$33,600 ",1/13/1997,"$15,000 ","1,739 sf",1920,3,1,1
+600001448,707 E Walnut St,"Greene, Robert E",707 E Walnut St,['Cushing'],['74023-2732'],UR,"$5,000 ","$25,740 ","$47,232 ",3/13/2000,"$8,000 ","1,197 sf",1914,3,1,1
+600001448,707 E Walnut St,"Greene, Robert E",707 E Walnut St,['Cushing'],['74023-2732'],UR,"$5,000 ","$25,740 ","$47,232 ",3/13/2000,"$8,000 ","1,197 sf",1914,3,1,1
+600001469,725 E Walnut St,Holley Family Revoc Liv Trust,4804 E Wild Turkey Rd,['Stillwater'],['74075-8676'],UR,"$5,000 ","$45,180 ","$50,576 ",3/8/2012,"$7,500 ",956 sf,1922,2,1,0
+600001469,725 E Walnut St,Holley Family Revoc Liv Trust,4804 E Wild Turkey Rd,['Stillwater'],['74075-8676'],UR,"$5,000 ","$45,180 ","$50,576 ",3/8/2012,"$7,500 ",956 sf,1922,2,1,0
+600001515,726 E Walnut St,"Fourshadow Investments, LLC",PO Box 1209,['Cushing'],['74023-1209'],UR,"$5,000 ","$29,970 ","$34,970 ",1/22/2009,$0 ,"1,059 sf",1914,3,1,1
+600001518,16201 E 6th St,"Hayes, Jimmy L & Alma A",16201 E 6th St,['Yale'],['74085-6489'],RA,"$17,610 ","$152,060 ","$192,485 ",11/21/1998,"$105,000 ","1,972 sf",1981,3,2,0
+600001696,7700 E 32nd St,"Spiva, James G & Diana L",7700 E 32nd St,['Ripley'],['74062-6280'],RR,"$32,530 ","$134,570 ","$187,520 ",2/29/2016,$0 ,"1,758 sf",1975,3,1,1
+600001702,7806 E 32nd St,"Spiva, James G & Diana L",7700 E 32nd St,['Ripley'],['74062-6280'],RA,"$18,200 ",$0 ,"$29,721 ",2/29/2016,$0 ,,,,,
+600001715,301 E 2nd St,"McFadden, Nadine A & Smith, Lisa",PO Box 261,['Cushing'],['74023-0261'],UR,"$4,000 ","$28,180 ","$33,055 ",11/22/2010,$0 ,"1,078 sf",1916,3,1,1
+600001716,305 E 2nd St,"McFadden, Nadine A & Smith, Lisa",PO Box 261,['Cushing'],['74023-0261'],UR,"$2,000 ",$0 ,"$2,000 ",11/22/2010,$0 ,-,-,0,0,0
+600001724,319 E 2nd St,"C & R Manufacturing & Supply, Inc",3221 S Fox Ledge Dr,['Stillwater'],['74074-1721'],UR,"$2,000 ",$0 ,"$2,000 ",4/15/2019,$0 ,,,,,
+600001769,3108 N Priscilla Ave,"Niccum, James B & Patricia L",707 Redbud Ln,['Cushing'],['74023-1925'],UR,"$15,600 ","$20,510 ","$36,110 ",9/18/2013,$0 ,"1,020 sf",1952,3,1,1
+600001817,1710 N Country Club Rd,"Renegade Investments, LLC",512 Chisholm Trl,['Watonga'],['73772-2641'],RR,"$16,000 ","$120,900 ","$137,500 ",8/5/2019,$0 ,"2,129 sf",1977,4,2,0
+600001900,707 E Redbud,"Niccum, James B & Patricia L",707 Redbud Ln,['Cushing'],['74023-1925'],UR,"$22,440 ","$108,700 ","$136,564 ",3/25/1994,"$56,000 ","2,314 sf",1954,3,2,0
+600001951,3102 N Little Ave,"Herring, Roy J & Patricia Life Est",3102 N Little Ave,['Cushing'],['74023-1929'],UR,"$19,200 ","$74,110 ","$98,597 ",5/2/2008,$0 ,"1,143 sf",1959,3,1,1
+600001975,3913 S Timberline Dr,"Welp, Thomas W & Barbara J TTEE",3913 Timberline Dr,['Stillwater'],['74074-9252'],RR,"$45,000 ","$316,920 ","$382,095 ",1/20/2006,$0 ,"3,327 sf",1989,4,3,0
+600001995,3803 S Timberline Dr,"Field, Kenneth L Jr & Brenda A TTEE",3803 Timberline Dr,['Stillwater'],['74074-9235'],RR,"$45,000 ","$491,570 ","$545,314 ",8/22/2019,$0 ,"4,893 sf",1994,5,4,0
+600002002,205 W Vine St,First Baptist Church North,1001 N Central Ave,['Cushing'],['74023-2107'],UR,"$1,000 ",$0 ,"$1,000 ",4/6/2015,$500 ,-,-,0,0,0
+600002004,N Central Ave,First Baptist Church North,1001 N Central Ave,['Cushing'],['74023-2107'],UR,"$1,000 ",$0 ,"$1,000 ",10/11/1991,$0 ,-,-,0,0,0
+600002011,121 W Vine St,"Boyd, Flora E Revocable Living Trust",121 W Vine St,['Cushing'],['74023-2141'],UR,"$1,000 ","$112,180 ","$113,180 ",9/8/2016,$0 ,"1,776 sf",1985,3,1,1
+600002011,121 W Vine St,"Boyd, Flora E Revocable Living Trust",121 W Vine St,['Cushing'],['74023-2141'],UR,"$1,000 ","$112,180 ","$113,180 ",9/8/2016,$0 ,"1,776 sf",1985,3,1,1
+600002059,8706 W Dodrill Cir,"Poole, Edwina & John",818 N Parotte,['Ripley'],['74062-6353'],RA,"$36,220 ","$20,390 ","$119,136 ",6/8/2020,$0 ,"1,060 sf",1953,2,1,0
+600002059,8706 W Dodrill Cir,"Poole, Edwina & John",818 N Parotte,['Ripley'],['74062-6353'],RA,"$36,220 ","$20,390 ","$119,136 ",6/8/2020,$0 ,"1,060 sf",1953,2,1,0
+600002100,909 N Noble Ave,"Anderson, Ronnie & Judy & Anderson, Steven",PO Box 1013,['Cushing'],['74023-1013'],UR,"$1,600 ","$12,590 ","$15,359 ",1/8/2021,$0 ,742 sf,1920,2,1,0
+600002102,402 S Cleveland Ave,"Medlin, Richard & Mary",402 S Cleveland,['Cushing'],['74023'],UR,"$6,400 ","$104,920 ","$128,042 ",1/15/2016,"$77,000 ","1,434 sf",1904,2,1,0
+600002103,9201 W Burr Oak,"Grady, Joan C Revoc Trust",9201 Burr Oak St,['Stillwater'],['74074-8346'],RR,"$50,000 ","$151,590 ","$203,145 ",8/23/2018,$0 ,"2,212 sf",1977,3,2,0
+600002171,4609 E Clayton Ln,"Brake, Kenneth N & Vonda J CO-TTEE",4609 Clayton Ln,['Stillwater'],['74075-3032'],RR,"$31,460 ","$153,350 ","$198,994 ",11/5/2008,$0 ,"2,145 sf",1983,3,2,0
+600002174,4610 E Clayton Ln,"Andrews, Peter A & Sharon",4610 Clayton Ln,['Stillwater'],['74075-3033'],RR,"$44,100 ","$20,720 ","$81,180 ",12/29/2000,"$45,000 ","1,344 sf",1982,3,1,1
+600002188,W Vista Ln,"Summit Homeowners Association of Payne County, Inc",3609 W Vista Ln,['Stillwater'],['74074-7603'],NA,$0 ,$0 ,$0 ,1/23/1992,$0 ,-,-,0,0,0
+600002222,703 S Harrison Ave,Kimmel Properties LLC,PO Box 1673,['Cushing'],['74023-1673'],UR,"$4,600 ","$23,170 ","$28,595 ",8/16/2004,"$12,000 ","1,276 sf",1928,3,1,1
+600002228,602 S Cleveland Ave,P A Systems Incorporated,PO Box 7,['Yale'],['74085-0007'],UR,"$4,000 ",$0 ,"$4,000 ",5/1/2013,"$1,000 ",-,-,0,0,0
+600002286,1002 S Harrison Ave,Restricted Indian Land,0,['None'],[],RSIL,"$5,200 ",$0 ,"$5,200 ",-,-,-,-,0,0,0
+600002329,2220 E 56th St,"Casey, Thomas P & Pamela H",2220 E 56th Ave,['Stillwater'],['74074-8369'],RR,"$64,820 ","$136,570 ","$226,359 ",1/18/2002,$0 ,969 sf,1968,2,1,0
+600002407,122 E Katy St,"Thompson, Kenneth",122 E Katy St,['Cushing'],['74023-2634'],UR,"$1,300 ","$4,890 ","$6,190 ",-,-,587 sf,1910,1,1,0
+600002526,1435 S Johnson Dr,"Morgan, Glynn A Jr",1310 S Little Ave,['Cushing'],['74023-4821'],UR,"$7,500 ","$97,460 ","$104,960 ",5/10/2013,"$147,500 ","1,795 sf",1976,3,1,1
+600002535,3110 W Timberlake Dr,"Apblett, Allen W & Menzies, Natalie E",3110 Timberlake Dr,['Stillwater'],['74075-9305'],RR,"$55,000 ","$413,200 ","$496,103 ",10/26/2011,"$345,000 ","4,242 sf",1994,5,4,0
+600002542,3404 W Live Oak Ln,"Smith, Robert A & Geraldine",3404 Live Oak Ln,['Stillwater'],['74075-9309'],RR,"$55,000 ","$253,750 ","$329,510 ",2/28/1999,$0 ,"2,438 sf",1998,3,2,1
+600002546,E Greenlee St,"Crouch, Minnie E Trustee",816 E 6th St,['Cushing'],['74023-4427'],UR,"$1,690 ",$0 ,"$1,690 ",12/10/2019,$0 ,-,-,0,0,0
+600002555,N Highland Ave,"Mid-Continent Development Company, LLC",PO Box 1368,['Cushing'],['74023-1368'],RA,"$230,500 ",$0 ,"$230,500 ",6/6/2008,"$100,000 ",-,-,0,0,0
+600002586,N Michigan Ave,"Hogrefe, Karen B & Williams, Richard",748 E Cherry St,['Cushing'],['74023-4046'],UR,"$20,100 ",$0 ,"$20,100 ",7/29/2016,$0 ,-,-,0,0,0
+600002618,600 W Cherry St,"Cushing Metals, Inc",PO Box 916,['Muskogee'],['74402-0916'],UC,"$38,020 ","$36,840 ","$89,240 ",2/25/1991,$0 ,"1,680 sf",1962,0,0,0
+600002624,1600 E North St,Faith Baptist Church,1600 E North St,['Cushing'],['74023-2999'],CH,"$26,400 ","$7,320 ","$43,950 ",12/27/1996,"$15,000 ","1,064 sf",1981,3,1,1
+600002632,N Depot Ave,"Cushing Chamber Foundation For Progress, Inc",1301 E Main St,['Cushing'],['74023-3049'],CI,"$44,100 ","$90,830 ","$134,930 ",3/31/2014,$0 ,"6,419 sf",1908,0,0,0
+600002632,N Depot Ave,"Cushing Chamber Foundation For Progress, Inc",1301 E Main St,['Cushing'],['74023-3049'],CI,"$44,100 ","$90,830 ","$134,930 ",3/31/2014,$0 ,"6,419 sf",1908,0,0,0
+600002664,123 W Broadway Ave,"Gould Realty, Inc",PO Box 1345,['Cushing'],['74023-1345'],UC,"$1,400 ","$74,120 ","$75,520 ",-,-,"3,984 sf",1915,0,0,0
+600002691,105 E Broadway Ave,"Cimarron Players, Inc",PO Box 414,['Cushing'],['74023-0414'],CO,"$2,800 ","$201,320 ","$204,120 ",8/18/1994,$0 ,"9,000 sf",1935,0,0,0
+600002698,109 E Broadway Ave,"Cimarron Players, Inc",PO Box 414,['Cushing'],['74023-0414'],CO,"$1,400 ","$56,630 ","$58,030 ",12/31/2003,$0 ,"6,502 sf",1927,0,0,0
+600002705,N Linwood Ave,Cushing Industrial Foundation Inc,PO Box 22,['Cushing'],['74023-0022'],UC,$830 ,$0 ,$830 ,1/27/2014,"$922,500 ",-,-,0,0,0
+600002750,311 E Broadway Ave,"Thmrc, Inc",924 E Broadway St,['Cushing'],['74023-3538'],UC,"$2,800 ","$42,960 ","$45,760 ",10/31/2002,"$151,000 ","9,450 sf",1955,0,0,0
+600002751,311 E Broadway Ave,"Thmrc, Inc",924 E Broadway St,['Cushing'],['74023-3538'],UC,"$3,360 ",$0 ,"$5,484 ",10/31/2002,"$151,000 ",-,-,0,0,0
+600002775,1732 N Little Ave,"Todd, Russell L & Susan J",1732 N Little Ave,['Cushing'],['74023-1922'],UR,"$19,580 ","$126,230 ","$198,515 ",2/7/1997,"$3,500 ","2,458 sf",1941,3,2,0
+600002800,402 E Broadway Ave,"Matherly & Tank Funerals, Inc",402 E Broadway St,['Cushing'],['74023-3340'],UC,"$11,200 ","$203,430 ","$216,610 ",12/30/2020,"$666,667 ","7,097 sf",1940,0,0,0
+600002809,306 E Broadway Ave,Hubs Vending Corporation,713 Manvel Ave,['Chandler'],['74834-2842'],UC,"$16,800 ","$174,820 ","$205,380 ",6/8/2004,"$140,000 ","21,098 sf",1965,0,0,0
+600002817,214 E Broadway Ave,"Cushing Housing, Inc",214 E Broadway St,['Cushing'],['74023-3314'],UC,"$8,400 ","$1,384,560 ","$1,392,960 ",-,-,"30,362 sf",1920,46,46,0
+600002822,202 E Broadway Ave,"Maveric Mini Marts, Inc",PO Box 1489,['Cushing'],['74023-1489'],UC,"$2,800 ","$91,110 ","$93,910 ",3/21/1991,"$75,000 ","13,264 sf",1935,0,0,0
+600002852,9502 E Meadowbrook Ln,"Kelsey, John C",9502 E Meadow Brook Ln,['Stillwater'],['74075-8832'],RR,"$52,050 ","$374,790 ","$455,963 ",6/9/2009,"$218,000 ","3,280 sf",1986,4,3,0
+600002856,9606 E Meadowbrook Ln,"Shell, Charles C & Elizabeth R",9606 E Meadow Brook Ln,['Stillwater'],['74075-8836'],RR,"$37,000 ","$161,710 ","$240,638 ",7/28/2006,"$189,500 ","2,366 sf",1969,3,2,0
+600002857,9618 E Meadowbrook Ln,"Presley, Mitchell",9618 E Meadow Brook Ln,['Stillwater'],['74075-8836'],RR,"$37,100 ","$146,810 ","$229,259 ",3/15/2013,"$173,000 ","1,760 sf",1979,3,2,0
+600002861,9722 E Meadowbrook Ln,"Tabor, Kenneth W & Shannon M",9722 E Meadow Brook Ln,['Stillwater'],['74075-8833'],RR,"$57,140 ","$143,410 ","$225,911 ",7/26/2013,"$151,000 ","1,819 sf",1974,3,2,0
+600002865,113 N Harrison Ave,"Beasley Technology, Inc",1030 E 13th St,['Cushing'],['74023-5224'],UC,"$1,400 ","$58,210 ","$61,670 ",12/30/2013,$0 ,"1,600 sf",1935,0,0,0
+600002867,115 N Harrison Ave,"Beasley Technology, Inc",1030 E 13th St,['Cushing'],['74023-5224'],UC,"$1,120 ","$78,390 ","$83,790 ",12/30/2013,$0 ,"1,600 sf",1935,0,0,0
+600002869,117 N Harrison Ave,"Beasley Technology, Inc",1030 E 13th St,['Cushing'],['74023-5224'],UC,"$1,400 ","$70,800 ","$72,730 ",1/27/2014,$0 ,"2,000 sf",1935,0,0,0
+600002870,119 N Harrison Ave,"Beasley Technology, Inc",1030 E 13th St,['Cushing'],['74023-5224'],UC,"$1,400 ","$75,000 ","$76,800 ",12/30/2013,$0 ,"2,000 sf",1935,0,0,0
+600002877,9819 E Meadowbrook Ln,"Hiner, Mark & Tiffany Roberts",9819 E Meadow Brook Ln,['Stillwater'],['74075-8834'],RR,"$39,000 ","$202,460 ","$267,333 ",7/21/2017,"$224,000 ","2,201 sf",1977,3,2,0
+600002927,203 W Moses St,Love Inc of Greater Cushing,203 W Moses St,['Cushing'],['74023-3237'],CO,"$5,600 ","$52,420 ","$58,320 ",6/2/2010,"$65,000 ","5,714 sf",1950,0,0,0
+600002929,201 W Moses St,"Anderson, Ronnie & Judy & Anderson, Steven",PO Box 1013,['Cushing'],['74023-1013'],UC,"$7,000 ","$10,070 ","$24,570 ",1/8/2021,$0 ,"1,792 sf",1950,0,0,0
+600002934,116 N Depot Ave,"Cushing Wholesale, Inc",825 S Thompson Pl,['Cushing'],['74023-4431'],UC,"$2,800 ","$44,180 ","$46,980 ",-,-,"2,107 sf",1958,0,0,0
+600002951,0 S Pucket Ave,"Cushing Metals, Inc",PO Box 916,['Muskogee'],['74402-0916'],UC,"$39,560 ",$0 ,"$41,949 ",2/25/1991,$0 ,-,-,0,0,0
+600002999,211 W Oak St,"Maveric Mini Marts, Inc",PO Box 1489,['Cushing'],['74023-1489'],UC,"$2,800 ","$18,070 ","$24,590 ",11/28/1995,$500 ,"1,500 sf",2010,0,0,0
+600003001,201 W Oak St,"Maveric Mini Marts, Inc",PO Box 1489,['Cushing'],['74023-1489'],UC,"$5,600 ","$29,330 ","$36,630 ",3/21/1991,"$35,000 ","3,000 sf",1985,0,0,0
+600003008,700 E Grandstaff Rd,"Fowler, Kenneth & Phillips, Annette 1/2 Int Each Life EST",613 SW 149th Pl,['Oklahoma'],['73170-7505'],UA,"$7,900 ","$25,520 ","$44,862 ",8/21/2002,$0 ,"1,386 sf",1920,3,1,1
+600003014,124 W Moses St,"Caledonian Capital Group, LLC",11217 N May Ave,['Oklahoma'],['73120-6320'],UC,"$9,800 ","$31,440 ","$45,060 ",9/9/2019,"$50,000 ",357 sf,1945,0,0,0
+600003087,4700 S Sherman Lake Dr,Eslinger Family Trust of 2014,4700 Sherman Lake Dr,['Stillwater'],['74074-9500'],RR,"$35,000 ","$239,970 ","$274,970 ",10/17/2014,$0 ,"2,648 sf",1996,4,2,1
+600003211,123 S Edna Dr,"Stark, James Phillip & Deborah",123 S Edna Dr,['Stillwater'],['74075-8622'],RR,"$12,000 ","$120,960 ","$133,235 ",12/29/1989,"$42,000 ",0 sf,1983,3,2,0
+600003278,917 W Moses St,"Holley Family Trust Holley, Jimmy D & Redena L TTEES",4804 E Wild Turkey Rd,['Stillwater'],['74075-8676'],UR,"$3,200 ","$36,810 ","$40,010 ",5/12/2020,$0 ,904 sf,1953,2,1,0
+600003293,8519 W Deep Rock Rd,"Miller, Mark S",8519 W Deeprock,['Ripley'],['74062-6462'],RA,"$14,330 ","$25,370 ","$85,566 ",4/13/2000,"$80,000 ","1,131 sf",1930,2,1,0
+600003337,1111 S Wilson Ave,"Duff, Michael W & Chanon B",PO Box 25514,['Dallas'],['75225-1514'],UR,"$5,150 ","$92,560 ","$99,759 ",1/23/2020,"$88,500 ","1,364 sf",1974,2,2,0
+600003360,803 E 11th St,"Sims, William C & Lela L",803 E 11th St,['Cushing'],['74023-5109'],UR,"$6,980 ","$38,500 ","$47,135 ",-,-,725 sf,1962,2,1,0
+600003489,1504 S Little Ave,"Key, John C (TOD)",1504 S Little Ave,['Cushing'],['74023-4800'],UR,"$33,660 ","$79,390 ","$118,393 ",10/29/2013,$0 ,"1,537 sf",1960,3,1,1
+600003506,1603 E Timberridge Trl,"Smith, David A",1603 E Timberridge Dr,['Cushing'],['74023-5458'],UR,"$8,000 ","$136,100 ","$144,100 ",9/23/2019,"$129,000 ","1,524 sf",2013,3,2,0
+600003516,3815 S Jardot Rd,AR Development LLC,6180 Boucher Dr,['Edmond'],['73034-9251'],RA,"$56,700 ","$58,380 ","$115,080 ",1/29/2021,"$400,000 ","1,201 sf",1973,3,1,1
+600003540,810 S Parkview Dr,"Stevens, Mary J Trustee of Mary J Stevens Living Trust",810 Parkview Dr,['Cushing'],['74023-4423'],UR,"$9,000 ","$87,110 ","$98,039 ",7/31/1997,"$47,000 ","1,198 sf",1977,3,1,1
+600003659,1010 W Maple St,Park Place Baptist Church,321 N Hartman Ave,['Cushing'],['74023-3117'],CH,"$1,000 ","$74,480 ","$79,920 ",-,-,"1,654 sf",1945,3,1,1
+600003670,W Oak St,Park Place Baptist Church,321 N Hartman Ave,['Cushing'],['74023-3117'],CH,"$21,600 ",$0 ,"$21,600 ",3/30/2010,"$4,000 ",-,-,0,0,0
+600003676,1121 W Maple St,Park Place Baptist Church,321 N Hartman Ave,['Cushing'],['74023-3117'],CH,"$1,600 ",$0 ,"$35,260 ",2/16/2010,"$14,000 ",-,-,0,0,0
+600003677,321 N Hartman Ave,Park Place Baptist Church,321 N Hartman Ave,['Cushing'],['74023-3117'],CH,"$21,600 ","$718,330 ","$773,470 ",3/17/1996,$0 ,"4,680 sf",1950,0,0,0
+600003700,403 N Violet Ave,Restricted Indian Land,0,['None'],[],RSIL,"$1,000 ",$0 ,"$1,000 ",-,-,-,-,0,0,0
+600003715,310 N Luella Ave,"Fuqua, Dorothy L & Sims, William E",310 N Luella Ave,['Cushing'],['74023-3128'],UR,"$1,000 ","$18,720 ","$21,114 ",7/29/1991,$0 ,816 sf,1935,2,1,0
+600003716,302 N Luella Ave,"Smith, Michael D & Patricia A",302 N Luella Ave,['Cushing'],['74023-3128'],UR,"$1,600 ","$23,350 ","$28,500 ",2/22/2002,"$8,000 ","1,612 sf",1935,3,1,1
+600003749,1110 E 9th Pl,"Wilson, Michael J & Shelly M",1110 E 9th Pl,['Cushing'],['74023-4512'],UR,"$15,130 ","$141,510 ","$156,640 ",5/23/2003,"$98,000 ","3,033 sf",1950,3,2,0
+600003774,1108 E 8th St,"First United Methodist Church, Inc",930 LITTLE Ave,['Cushing'],['74023'],CH,"$10,180 ","$139,660 ","$158,420 ",3/2/2018,$0 ,"2,315 sf",1981,3,2,0
+600003820,E 74th St,"West, Harold & Mary Revoc Living  Trust",132 Spunky Creek Dr,['Catoosa'],['74015-2312'],RA,"$2,690 ",$0 ,"$2,690 ",6/3/2020,$0 ,-,-,0,0,0
+600003837,127 E 32nd St,"Warden, Jeremy",1206 E 19th Ave,['Stillwater'],['74074-6000'],RR,"$27,600 ","$30,330 ","$57,930 ",11/5/2001,"$15,000 ",780 sf,1960,2,1,0
+600003917,949 E 6th St,"Sommer, Natalie J & Vinson, Phillip",949 E 6th St,['Cushing'],['74023-4557'],UR,"$9,600 ","$70,350 ","$80,999 ",6/28/2012,"$62,000 ","1,397 sf",1957,3,1,1
+600003961,524 S Gray St,"Orange State Properties, LLC",PO Box 1155,['Guymon'],['73942-1155'],UR,"$78,410 ","$42,580 ","$121,500 ",6/6/2017,"$125,500 ",922 sf,1929,2,1,0
+600003972,508 S Gray St,"Executive Residential Group, LLC",PO Box 521209,['Tulsa'],['74152-0018'],UC,"$78,410 ","$334,090 ","$412,500 ",1/26/2016,"$160,000 ","3,421 sf",2016,5,4,0
+600004048,524 W 56th St,"Roark, Dale O & Joyce A Living Trust",524 W 56th Ave,['Stillwater'],['74074-5943'],RR,"$145,290 ","$167,850 ","$332,034 ",11/24/2003,$0 ,"1,551 sf",1975,3,2,0
+600004049,404 W 56th St,"Taylor, Robert H & Katherine M",9718 S Union Rd,['Stillwater'],['74074-8425'],RA,"$4,210 ",$0 ,"$4,210 ",3/10/1997,"$48,000 ",-,-,0,0,0
+600004055,507 S Wilson Ave,"Todd, Michael D & Lori D",750 S Linwood Ave,['Cushing'],['74023-4632'],UR,"$6,000 ","$53,590 ","$63,015 ",1/22/1999,"$29,000 ","1,213 sf",1952,3,1,1
+600004141,721 W 26th Ave,"Streeter, Robert N & Susan Revoc Living Trust",2709 S Washington St,['Stillwater'],['74074-6959'],UA,"$18,670 ",$0 ,"$24,938 ",10/20/2006,$0 ,,,,,
+600004181,2500 E McElroy,Albright Living Trust,2615 E McElroy Rd,['Stillwater'],['74075-8520'],UR,"$46,130 ",$0 ,"$48,532 ",9/11/2006,"$385,000 ",-,-,0,0,0
+600004197,2199 W 19th Ave,"Andrews, Walter Sue Living Trust Etal",2201 S Western Rd,['Stillwater'],['74074-6837'],UA,"$10,590 ",$0 ,"$10,590 ",7/28/2017,$0 ,-,-,0,0,0
+600004223,4599 W 6th Ave,"Traden Development, LLC ETAL",2919 S Isabell Pointe Dr,['Stillwater'],['74074-7315'],NA,$0 ,$0 ,$0 ,10/30/2015,$0 ,-,-,0,0,0
+600004232,4300 W 6th Ave,"TMAG Real Estate, LLC",1300 N Harvey Ave,['Oklahoma'],['73103-3715'],UC,"$1,253,000 ","$1,281,430 ","$3,096,770 ",12/5/2019,$0 ,"17,664 sf",1997,0,0,0
+600004233,4310 W 6th Ave,"Liautaud Development Group, LLC",2212 Fox Dr,['Champaign'],['61820-7532'],UC,"$352,840 ",$0 ,"$352,840 ",5/5/2016,"$400,000 ",-,-,0,0,0
+600004275,6603 S Bethel Rd,"Kachner, Steven J & Colinda Y Revoc Living Trust",6603 S Bethel Rd,['Ripley'],['74062-6318'],RR,"$32,560 ","$92,280 ","$137,171 ",6/23/2011,$0 ,"1,577 sf",1981,3,1,1
+600004277,512 S Morton Ave,Government Capital Corporation,345 Miron Dr,['Southlake'],['76092-7826'],SC,"$17,620 ","$36,540 ","$55,040 ",12/7/2010,$0 ,"5,250 sf",1979,0,0,0
+600004278,502 S Morton Ave,"Ford, Dale Living Trust",9300 Ford Dr,['Ripley'],['74062-6421'],UR,"$6,400 ","$83,700 ","$104,573 ",5/13/2016,"$62,000 ","1,944 sf",1965,3,3,0
+600004312,420 E Beaumont Ave,"JSK Real Estate, LLC",21721 E 6th St,['Yale'],['74085-6475'],UC,"$10,940 ","$14,900 ","$35,420 ",1/9/2020,$0 ,600 sf,1920,1,1,0
+600004347,5809 N Country Club Rd,"Smith, Franklin Monroe Jr & Linda J",5809 N Country Club Rd,['Stillwater'],['74075-2039'],RR,"$92,380 ","$179,420 ","$281,873 ",3/21/1990,"$89,000 ",0 sf,1985,3,2,1
+600004367,215 S Dale,"JSK Real Estate, LLC",21721 E 6th St,['Yale'],['74085-6475'],UR,"$3,580 ",$0 ,"$4,498 ",1/9/2020,$0 ,,,,,
+600004373,430 E Beaumont Ave,"JSK Real Estate, LLC",21721 E 6th St,['Yale'],['74085-6475'],UR,"$2,880 ","$28,070 ","$30,950 ",1/9/2020,$0 ,"1,007 sf",1920,2,1,0
+600004448,5704 N Washington Rd,Grace Missionary Baptist Church,5704 N Washington St,['Stillwater'],['74075-1244'],CH,"$132,000 ","$683,460 ","$825,619 ",1/3/2014,$0 ,"2,010 sf",1978,3,2,0
+600004463,E 44th St,"Lafrance, C Gary Living Trust",201 S Payne St,['Stillwater'],['74074-6222'],RA,"$11,190 ",$0 ,"$24,277 ",9/13/2013,$0 ,,,,,
+600004723,500 E Knipe Ave,First Baptist Church,500 Knipe Ave,['Perkins'],['74059'],CH,"$54,000 ","$1,996,440 ","$2,125,360 ",-,-,"15,060 sf",1974,0,0,0
+600004812,624 N Shallow Brook,"Taylor, Michael & Brenda",624 N Shallow,['Stillwater'],['74075'],RR,"$31,440 ","$152,450 ","$242,408 ",6/16/1993,"$49,500 ","1,540 sf",1976,3,2,0
+600004817,W Main St,"Davis, Thomas M",517 W Main St,['Stroud'],['74079-3615'],UR,"$10,440 ",$0 ,"$10,440 ",8/27/2020,$750 ,-,-,0,0,0
+600004827,6008 E Sac & Fox,Calvary Baptist Church,715 N Highland Ave,['Cushing'],['74023-2315'],CH,"$17,140 ","$67,830 ","$86,640 ",-,-,"4,780 sf",1900,0,0,0
+600005136,6005 E 15th Ave,"Harris, Christopher K & Eilene",6005 E 15th Ave,['Stillwater'],['74074-8646'],RR,"$57,790 ","$98,310 ","$160,215 ",6/17/2013,$0 ,"1,652 sf",2011,3,2,0
+600005166,524 E 17th Ave,"Jackson, James & Clara",524 E 17th Ave,['Stillwater'],['74074-7909'],UR,"$15,000 ","$55,660 ","$75,867 ",-,-,"1,467 sf",1938,3,1,1
+600005220,1706 S Perkins Rd,"Palacios, Alma",1215 N Klein Ave,['Oklahoma'],['73106-4616'],UR,"$15,000 ","$45,640 ","$62,989 ",12/22/2020,"$42,500 ",900 sf,1948,3,1,0
+600005302,435 E Anna St,Cedar Lane Apartments Limited Partnership,1401 S Main St,['Stillwater'],['74074-5836'],UC,"$63,670 ","$1,868,250 ","$1,970,550 ",5/13/2004,$0 ,"5,074 sf",2005,0,6,0
+600005305,N Smith Ave,"Ward, Steven L & Cooper, Shirley K",501 N Smith,['Cushing'],['74023-3002'],UR,"$14,630 ",$0 ,"$14,630 ",10/24/2002,"$73,000 ",-,-,0,0,0
+600005305,N Smith Ave,"Ward, Steven L & Cooper, Shirley K",501 N Smith,['Cushing'],['74023-3002'],UR,"$14,630 ",$0 ,"$14,630 ",10/24/2002,"$73,000 ",-,-,0,0,0
+600005305,N Smith Ave,"Ward, Steven L & Cooper, Shirley K",501 N Smith,['Cushing'],['74023-3002'],UR,"$14,630 ",$0 ,"$14,630 ",10/24/2002,"$73,000 ",-,-,0,0,0
+600005305,N Smith Ave,"Ward, Steven L & Cooper, Shirley K",501 N Smith,['Cushing'],['74023-3002'],UR,"$14,630 ",$0 ,"$14,630 ",10/24/2002,"$73,000 ",-,-,0,0,0
+600005309,501 N Smith Ave,"Ward, Steven L & Shirley K",501 N Smith,['Cushing'],['74023-3002'],UR,"$13,500 ","$148,550 ","$167,819 ",4/17/2006,$0 ,"1,928 sf",1985,3,2,0
+600005309,501 N Smith Ave,"Ward, Steven L & Shirley K",501 N Smith,['Cushing'],['74023-3002'],UR,"$13,500 ","$148,550 ","$167,819 ",4/17/2006,$0 ,"1,928 sf",1985,3,2,0
+600005309,501 N Smith Ave,"Ward, Steven L & Shirley K",501 N Smith,['Cushing'],['74023-3002'],UR,"$13,500 ","$148,550 ","$167,819 ",4/17/2006,$0 ,"1,928 sf",1985,3,2,0
+600005364,3819 E Dripping Springs Rd,"Seever, Kenneth B & Romelle",PO Box 921,['Cushing'],['74023-0921'],RR,"$30,840 ","$137,300 ","$185,771 ",3/11/1994,"$85,000 ","1,638 sf",1982,3,1,1
+600005365,3819 E Dripping Springs Rd,"Seever, Kenneth B & Romelle",PO Box 921,['Cushing'],['74023-0921'],RR,"$20,840 ",$0 ,"$38,130 ",3/11/1994,"$85,000 ",-,-,0,0,0
+600005371,301 S Harmony Rd,"Showalter, Lois I Living Trust",301 S Harmony Rd,['Cushing'],['74023-6405'],UR,"$22,500 ","$155,800 ","$182,660 ",10/14/1999,$0 ,0 sf,1981,3,2,0
+600005386,N Smith Ave,"Mid-Continent Development Company, LLC",PO Box 1368,['Cushing'],['74023-1368'],UA,"$3,380 ",$0 ,"$3,380 ",6/28/2008,"$180,000 ",-,-,0,0,0
+600005449,3612 E Shady Brook Dr,"Smith, Kathleen Louise Rev Family Trust",3612 E Shady Brook Dr,['Cushing'],['74023-8797'],RR,"$26,630 ","$109,480 ","$141,182 ",10/14/2015,$0 ,"1,410 sf",1977,3,1,1
+600005489,502 E Brissey St,"Pawnee Development Foundation, Inc",PO Box 491,['Pawnee'],['74058-0491'],UR,"$33,960 ",$0 ,"$33,960 ",2/10/2004,"$25,000 ",-,-,0,0,0
+600005503,E Judy Dr,"Brown, Joel F & Phyllis M",6907 Thunder Rd,['Stillwater'],['74074-7442'],RC,"$22,500 ",$0 ,"$69,149 ",10/18/2005,$0 ,-,-,0,0,0
+600005552,E North St,First Free Will Baptist Church-Cushing,PO Box 304,['Cushing'],['74023-0304'],CH,"$14,400 ","$581,650 ","$604,190 ",7/20/2005,$0 ,"10,000 sf",2006,0,0,0
+600005554,E Katy St,First Free Will Baptist Church-Cushing,PO Box 304,['Cushing'],['74023-0304'],CH,"$1,000 ",$0 ,"$1,000 ",11/9/2005,$0 ,-,-,0,0,0
+600005558,1120 E Katy St,First Free Will Baptist Church-Cushing,PO Box 304,['Cushing'],['74023-0304'],CH,"$1,000 ",$0 ,"$1,000 ",7/21/2011,"$1,500 ",-,-,0,0,0
+600005561,1114 E Katy St,"High, L J & Cushing First Free Will Baptist Church",PO Box 304,['Cushing'],['74023-0304'],UR,"$1,000 ",$0 ,"$1,000 ",7/21/2011,"$2,000 ",-,-,0,0,0
+600005563,2510 W Deep Rock Rd,"Greene, Robert E & Jamie L",2510 W Deep Rock Rd,['Cushing'],['74023'],RR,"$33,490 ","$140,740 ","$180,245 ",5/31/2018,"$173,000 ","2,050 sf",1978,3,2,0
+600005587,E Main St,Restricted Indian Land,0,['None'],[],RSIL,"$27,080 ",$0 ,"$27,080 ",-,-,-,-,0,0,0
+600005588,1201 E Greenlee St,First Free Will Baptist Church-Cushing,PO Box 304,['Cushing'],['74023-0304'],CH,"$2,320 ",$0 ,"$23,522 ",7/20/2005,"$10,000 ",,,,,
+600005596,1401 N Euchee Valley,Restricted Indian Land,0,['None'],[],RSIL,"$28,640 ","$49,640 ","$81,770 ",-,-,924 sf,1930,2,1,0
+600005603,E Main St,Restricted Indian Land,0,['None'],[],RSIL,"$26,030 ",$0 ,"$26,030 ",-,-,-,-,0,0,0
+600005605,1202 N Schlegal,Restricted Indian Land,0,['None'],[],RSIL,"$29,490 ","$25,920 ","$75,150 ",-,-,"1,075 sf",1974,3,1,1
+600005652,E Grandstaff Rd,Restricted Indian Land,0,['None'],[],RSIL,"$25,640 ",$0 ,"$25,640 ",-,-,-,-,0,0,0
+600005654,N Norfolk Rd,Restricted Indian Land,0,['None'],[],RSIL,"$23,900 ",$0 ,"$23,900 ",-,-,-,-,0,0,0
+600005719,E Sac & Fox,Restricted Indian Land,0,['None'],[],RSIL,"$36,030 ",$0 ,"$36,030 ",-,-,-,-,0,0,0
+600005757,4520 N Euchee Valley,Restricted Indian Land,0,['None'],[],RSIL,"$47,940 ","$274,520 ","$357,780 ",6/19/2020,$0 ,"1,300 sf",1974,3,1,1
+600005760,4306 E Fairlawn,Restricted Indian Land,0,['None'],[],RSIL,"$38,690 ","$68,920 ","$112,950 ",-,-,"1,278 sf",1974,3,1,1
+600005774,824 N Harmony Rd,"T B White Properties, LLC",PO Box 190,['Cushing'],['74023-0190'],RC,"$30,430 ","$454,190 ","$540,720 ",2/11/2010,"$25,000 ","3,600 sf",2010,0,0,0
+600005922,9221 E 2nd St,"Smith, Barbara A & Caudie, Robert W",9221 E 2nd St,['Stillwater'],['74075-8845'],RR,"$25,500 ","$40,080 ","$107,834 ",12/8/2020,$0 ,"1,488 sf",1980,3,2,0
+600005933,1008 E 12th St,"Brown, David Earnest",1008 E 12th St,['Cushing'],['74023-5230'],UR,"$13,070 ","$91,950 ","$107,022 ",2/17/1998,$0 ,"1,466 sf",1970,3,1,1
+600005934,305 E Grandstaff Rd,Cushing Industrial Foundation Inc,PO Box 22,['Cushing'],['74023-0022'],RC,"$36,600 ","$4,710 ","$85,010 ",3/7/1988,"$40,000 ",320 sf,2011,0,0,0
+600005961,9306 E 6th St,"Star Max Investments, Inc",4806 N Perkins Rd,['Stillwater'],['74075-1710'],RC,"$57,100 ","$202,490 ","$259,590 ",10/14/2010,$0 ,"4,590 sf",1981,0,0,0
+600006187,819 E Cherry St,"Anthony Harkleroad Rentals, LLC",818 Sherwood Dr,['Richardson'],['75080-5905'],UR,"$5,000 ","$37,000 ","$42,000 ",6/29/2017,$0 ,860 sf,1945,2,1,0
+600006225,112 S Thompson Ave,"Struble, Kenneth R & Elizabeth R Johnston TTEE",357108 E 780 Rd,['Cushing'],['74023-6766'],UR,"$8,900 ","$122,670 ","$132,700 ",11/24/2018,$0 ,"1,155 sf",1940,3,2,0
+600006259,2129 E Main St,"Phillips, James V & Blanch C Co-TTEE",2129 E Main St,['Cushing'],['74023-2908'],UC,"$49,680 ","$124,900 ","$186,880 ",1/9/2020,$0 ,"2,039 sf",1958,3,1,1
+600006270,2005 E Main St,"Phillips, James V & Blanch C Co-TTEE",2129 E Main St,['Cushing'],['74023-2908'],UR,"$30,350 ","$42,900 ","$76,186 ",1/9/2020,$0 ,"1,208 sf",1950,2,1,0
+600006275,S Timberline Dr,Timberline West Estates Homeowners Association,3803 Timberline Dr,['Stillwater'],['74074-9235'],NA,"$30,860 ",$0 ,"$30,860 ",10/12/2016,$0 ,-,-,0,0,0
+600006371,3021 W 32nd St,"Harris, Ronald L & Donna K TTEE",4301 NW 53rd St,['Oklahoma'],['73112-2103'],RA,"$41,160 ","$134,670 ","$176,373 ",1/28/2009,$0 ,"1,382 sf",1964,3,1,1
+600006539,1138 E Cherry St,"Brown, Linda K Life Est",1138 E Cherry St,['Cushing'],['74023-4103'],UR,"$6,500 ","$48,790 ","$71,206 ",4/27/2017,$0 ,"1,013 sf",1950,2,1,0
+600006591,2211 W Fairlawn,"Bryant, John Augustus Trust Indenture",2211 W Fairlawn,['Cushing'],['74023-2392'],RA,"$40,640 ","$269,030 ","$477,904 ",12/31/2002,$0 ,"3,719 sf",1980,4,3,0
+600006619,112 S Highland Ave,"White, Leslie W & Jerry E",5617 N Linwood Ave,['Cushing'],['74023-5779'],UC,"$6,500 ","$110,930 ","$122,250 ",-,-,"2,040 sf",1978,0,0,0
+600006621,1408 E 3rd Ave,"LeGrand Group, LLC",809 S Redlands Rd,['Stillwater'],['74074-1095'],UR,"$20,000 ","$50,980 ","$70,980 ",1/18/2018,$0 ,638 sf,1955,2,1,0
+600006666,2320 W Fairlawn,"Bryant, John A TTEE Etal",2211 W Fairlawn,['Cushing'],['74023-2392'],RA,"$24,440 ",$0 ,"$28,465 ",12/12/2019,"$400,000 ",-,-,0,0,0
+600006719,5617 N Linwood Ave,"White, Leslie W & Jerry E",5617 N Linwood Ave,['Cushing'],['74023-5779'],RA,"$37,980 ","$283,790 ","$386,273 ",-,-,"4,066 sf",1965,4,2,1
+600006730,3906 N Washington St,"Hornberger, Charles R",3906 N Washington St,['Stillwater'],['74075-1441'],UR,"$39,530 ","$52,730 ","$92,566 ",7/16/2019,$0 ,"1,415 sf",1930,2,1,0
+600006741,1404 E Eastern Ave,"LeGrand Group, LLC",809 S Redlands Rd,['Stillwater'],['74074-1095'],UR,"$20,000 ","$91,730 ","$111,730 ",1/18/2018,$0 ,"1,056 sf",1957,3,1,1
+600006748,323 N Kings Hwy,"Todd, Betty L",910 S Meyers Ave,['Cushing'],['74023-4749'],UR,"$2,500 ","$39,770 ","$42,370 ",3/22/2006,$0 ,"1,155 sf",1929,3,1,1
+600006749,S Country Club Rd,"Student Insurance Group, LLC",PO Box 2287,['Stillwater'],['74076-2287'],RA,"$1,680 ",$0 ,"$1,680 ",5/7/2015,"$1,280,000 ",,,,,
+600006754,E Dunkin Rd,Restricted Indian Land,0,['None'],[],RSIL,"$31,100 ",$0 ,"$31,100 ",-,-,-,-,0,0,0
+600006761,4700 N Washington St,"Veatch, Stephen T & Vicki L",4700 N Washington St,['Stillwater'],['74075-1267'],UA,"$53,890 ","$390,330 ","$543,779 ",5/14/2015,"$422,000 ",0 sf,2002,3,3,0
+600006782,1305 E Maple Ave,"LeGrand Group, LLC",809 S Redlands Rd,['Stillwater'],['74074-1095'],UR,"$20,000 ","$80,070 ","$100,070 ",1/18/2017,$0 ,"1,138 sf",1962,3,1,1
+600006850,W Dunkin Rd,Restricted Indian Land,0,['None'],[],RSIL,"$15,840 ",$0 ,"$15,840 ",-,-,-,-,0,0,0
+600006903,1211 E Maple St,"Leonard, Jackie C & Linda K",PO Box 932,['Cushing'],['74023-0932'],UR,"$6,500 ","$52,950 ","$86,155 ",10/16/2013,"$55,000 ","2,040 sf",1951,3,1,1
+600006904,1219 E Maple St,"Leonard, Jackie C & Linda K",PO Box 932,['Cushing'],['74023-0932'],UR,"$5,880 ",$0 ,"$5,880 ",10/16/2013,"$55,000 ",-,-,0,0,0
+600006955,2501 E 6th Ave,"Townsend Group Properties, LLC",3223 N Hydraulic Ave,['Wichita'],['67219-3803'],UC,"$205,420 ","$357,080 ","$562,500 ",11/25/2020,"$600,000 ","7,500 sf",1995,0,0,0
+600006958,5221 W Lakeview Rd,"Smith, Charles E & Linda R Keyser",5221 W Lakeview Rd,['Stillwater'],['74075-2048'],RA,"$9,090 ","$234,510 ","$275,713 ",4/11/2007,"$154,000 ","3,645 sf",1973,4,3,0
+600006958,5221 W Lakeview Rd,"Smith, Charles E & Linda R Keyser",5221 W Lakeview Rd,['Stillwater'],['74075-2048'],RA,"$9,090 ","$234,510 ","$275,713 ",4/11/2007,"$154,000 ","3,645 sf",1973,4,3,0
+600007060,2519 N Taylor Ln,"Vinyard, Greg A & Jennifer L",2519 N Taylor Ln,['Stillwater'],['74075-0951'],RR,"$35,500 ","$253,500 ","$365,867 ",10/3/2007,"$237,500 ","3,119 sf",1977,4,3,0
+600007081,2417 E 6th Ave,"Central Church of Christ of Stillwater, Inc",PO Box 711,['Stillwater'],['74076-0711'],CH,"$153,850 ","$151,400 ","$348,990 ",12/15/1997,$0 ,"2,696 sf",1973,0,0,0
+600007110,S Euchee Valley,"Wilkinson, Barbara Living Trust",5315 W 44th St,['Stillwater'],['74074-2047'],RA,$700 ,$0 ,$700 ,12/6/2005,$0 ,-,-,0,0,0
+600007127,S Euchee Valley,Restricted Indian Land,0,['None'],[],RSIL,"$8,290 ",$0 ,"$8,290 ",-,-,-,-,0,0,0
+600007134,401 N Jardot Rd,"North Jardot Church of Christ, Inc",3401 N Rose Rd,['Stillwater'],['74075-8754'],CH,"$51,980 ","$185,600 ","$237,580 ",8/15/2001,"$10,000 ","2,553 sf",1975,0,0,0
+600007151,3303 N Country Club Rd,"Mebane, Jerry D Living Trust",16405 E 33rd St S,['Independence'],['64055-2924'],RC,"$142,150 ","$134,490 ","$311,520 ",6/25/2015,$0 ,"1,678 sf",1983,3,1,1
+600007215,5115 E 9th St,Restricted Indian Land,0,['None'],[],RSIL,"$49,590 ","$75,930 ","$143,000 ",-,-,"1,057 sf",1930,3,1,0
+600007235,W 32nd St,"Logan, John L TTEE of martha H Logan Rev Trust",13913 Kirkland Ridge,['Edmond'],['73013'],RA,"$11,080 ",$0 ,"$13,246 ",3/29/2019,$0 ,,,,,
+600007251,S Cottonwood Rd,"Logan, John L TTEE of martha H Logan Rev Trust",13913 Kirkland Ridge,['Edmond'],['73013'],RA,"$9,760 ",$0 ,"$9,760 ",3/28/2019,$0 ,-,-,0,0,0
+600007333,1408 E Scott Ave,"Moore, Kevin G & Suzanne L",1408 E Scott Ave,['Stillwater'],['74075-7819'],UR,"$25,000 ","$130,900 ","$159,304 ",11/15/2012,$0 ,"1,656 sf",1961,3,1,1
+600007361,300 S Euchee Valley,Restricted Indian Land,0,['None'],[],RSIL,"$7,680 ","$32,970 ","$42,890 ",-,-,792 sf,1900,2,1,0
+600007408,1798 N Young St,"Ochoa, Juan Jose Torres",1418 N Ramsey St,['Stillwater'],['74075-3323'],UR,"$15,000 ",$0 ,"$15,000 ",3/9/2021,"$40,000 ",-,-,0,0,0
+600007497,9015 W 2nd Ave,"Washington, Nancy G & Miller, Terry (H&W)",9015 W 2nd Ave,['Stillwater'],['74074-6775'],RR,"$67,000 ","$211,420 ","$278,420 ",1/22/2014,$0 ,"2,934 sf",1983,4,3,0
+600007516,8902 W 2nd Ave,"Austin, David A & Natalie R",8902 W 2nd Ave,['Stillwater'],['74074-6757'],RR,"$88,190 ","$162,410 ","$287,720 ",8/26/2000,"$127,000 ","2,077 sf",1978,4,3,0
+600007518,3700 S Kings Hwy,Corrections Corporation of America,PO Box 460169,['Houston'],['77056-8169'],UC,"$312,180 ","$60,624,400 ","$61,926,100 ",5/3/2016,$0 ,"123,280 sf",1996,-,-,-
+600007543,8415 W Virginia Ave,"Venable, Bobby L",304 N Donaldson Dr,['Stillwater'],['74075-7905'],RA,"$24,840 ",$0 ,"$42,938 ",8/2/2015,$0 ,,,,,
+600007586,1301 E Main St,"Cushing Chamber Foundation For Progress, Inc",1301 E Main St,['Cushing'],['74023-3049'],CI,"$26,250 ","$161,440 ","$226,310 ",12/28/1999,"$60,000 ","3,140 sf",1976,0,0,0
+600007774,1401 E Connell Ave,"Lee, Danny P & Lisa M",1401 E Connell Ave,['Stillwater'],['74075-7806'],UR,"$25,000 ","$100,060 ","$127,678 ",2/28/1991,"$54,500 ","1,558 sf",1963,3,1,1
+600007786,3720 E 47th St,"Ramsey, Michael B Sr & Gina G Living Trust",3720 E 47th St,['Stillwater'],['74074-6388'],RR,"$57,790 ","$190,370 ","$255,712 ",9/9/2013,$0 ,"1,875 sf",1994,3,2,0
+600007805,5003 S Brush Creek Rd,"Miller, Steven A & Carolyn J TTEE",5003 S Brush Creek Rd,['Stillwater'],['74074-8575'],RA,"$40,080 ","$271,200 ","$427,712 ",4/19/2016,$0 ,"3,257 sf",1979,4,3,0
+600007837,915 E Main St,"Michael Properties, LLC",911 E Main St,['Cushing'],['74023-2837'],UC,"$26,250 ","$171,530 ","$222,180 ",7/5/2017,$0 ,961 sf,1920,0,0,0
+600007843,929 E Main St,"BKW Properties, LLC",1015 S Ridgeview Dr,['Cushing'],['74023-5287'],UC,"$25,110 ","$519,690 ","$544,800 ",2/4/2019,$0 ,"2,124 sf",2017,0,0,0
+600007888,528 N Stallard St,"Wilson, Michael G & Marie P",528 N Stallard St,['Stillwater'],['74075-8203'],UR,"$25,000 ","$132,730 ","$157,730 ",11/27/2012,"$115,000 ","1,459 sf",1965,3,1,1
+600007902,804 E Main St,"Wilson Property Investments, LLC",5320 E 6th Ave,['Stillwater'],['74074-6462'],UC,"$13,130 ","$23,030 ","$42,470 ",12/28/2015,$0 ,"1,800 sf",1976,0,0,0
+600007904,E Main St,"Due North Properties, LLC",PO Box 1425,['Cushing'],['74023-1425'],UR,"$5,750 ",$0 ,"$5,750 ",11/7/2012,"$85,000 ",-,-,0,0,0
+600007906,810 E Main St,"Due North Properties, LLC",PO Box 1425,['Cushing'],['74023-1425'],UR,"$7,250 ",$0 ,"$7,250 ",11/7/2012,"$85,000 ",-,-,0,0,0
+600007919,418 N Manning St,"The Rucker Group, LLC",219 Wellesley Lndg,['Shavano'],['78231-2273'],UR,"$25,000 ","$123,030 ","$148,030 ",3/10/2021,"$132,000 ","1,300 sf",1964,3,1,1
+600007929,1010 E Main St,"Phantom Properties, LLC",PO Box 365,['Cushing'],['74023-0365'],UC,"$11,000 ","$13,590 ","$27,420 ",12/19/2018,$0 ,"1,525 sf",1978,0,0,0
+600007972,723 N Manning St,"Bwashi, Juvenal & Buzingo, Suzanne",723 N Manning St,['Stillwater'],['74075-7816'],UR,"$25,000 ","$127,300 ","$152,300 ",12/15/2006,$0 ,"1,285 sf",2006,3,1,1
+600007992,2324 W 26th Ave,"Corporation of The President, Church of Jesus Christ of Latter Day Saint","50 E North Temple, Rm 2223",['Salt'],['84150-9001'],CH,"$188,870 ","$2,622,300 ","$2,901,929 ",4/3/2008,$0 ,"17,438 sf",2008,0,0,0
+600007994,2416 S August Dr,"Anderson, John A & Kim P(TOD)",2416 S August St,['Stillwater'],['74074-2100'],UR,"$51,200 ","$167,580 ","$222,300 ",9/2/2020,$0 ,"1,869 sf",1995,3,2,0
+600008022,2901 S Washington St,"Lawson, Charles B & B Jean",2901 S Washington St,['Stillwater'],['74074-6930'],UR,"$72,420 ","$113,720 ","$194,236 ",9/6/1988,"$76,500 ","2,107 sf",1966,3,1,1
+600008070,934 E Cherry St,"Smith, Ronald D & Betsy L",934 E Cherry St,['Cushing'],['74023-4153'],UR,"$8,000 ","$77,660 ","$88,070 ",12/21/1989,"$36,000 ","1,329 sf",1955,3,1,1
+600008165,510 W 22nd Ave,"Smith, David M Trust",33230 Sherwood Dr,['Lake'],['92530-5446'],UR,"$81,000 ","$26,042 ","$124,970 ",10/20/1999,$0 ,"1,380 sf",1930,3,1,1
+600008201,2010 S Main St,"Beverage Properties, LLC","801 S Main St, Ste 1",['Stillwater'],['74074-4630'],UC,"$32,010 ","$89,460 ","$124,160 ",10/25/2019,"$228,000 ","6,750 sf",1969,0,0,0
+600008203,605 S Cleveland Ave,"TC Trammel Group, LLC",PO Box 2241,['Owasso'],['74055-9541'],UR,"$6,400 ","$33,670 ","$40,070 ",1/4/2019,"$21,500 ",942 sf,1935,2,1,0
+600008231,303 S Cleveland Ave,"Smith, Saundra & Straczuk, Michael S",303 S Cleveland Ave,['Cushing'],['74023-3723'],UR,"$4,000 ","$42,270 ","$49,279 ",9/28/2017,$0 ,925 sf,1948,2,1,0
+600008329,714 S Holmes Ave,"Smith, Eddie A & Lisa G",PO Box 346,['Perkins'],['74059-0346'],UR,"$12,500 ","$109,860 ","$123,197 ",8/16/2017,"$120,000 ","1,667 sf",1979,3,1,1
+600008358,212 S Norfolk Rd,"Brennan, Thomas J & Barbara K TTEE",1318 Locust Ln,['Edmond'],['73013-6112'],RR,"$18,990 ","$30,520 ","$50,148 ",7/6/2010,$0 ,940 sf,1925,2,1,0
+600008466,1624 E 9th St,"Anderson, Michael E & Redonna L",1000 S Pine Crest Ln,['Cushing'],['74023-2360'],UR,"$16,250 ","$154,210 ","$170,460 ",5/10/2011,"$128,000 ","1,750 sf",1998,3,2,0
+600008478,0 W 9th St,"Williams, Larry B & Pamela S Revo Living Trust",3637 S Trenton Ave,['Tulsa'],['74105-3233'],RR,"$37,190 ",$0 ,"$37,190 ",7/21/2000,$0 ,-,-,0,0,0
+600008492,5915 W 9th St,"Williams, Larry B & Pamela S Revo Living Trust",3637 S Trenton Ave,['Tulsa'],['74105-3233'],RA,"$22,250 ","$103,000 ","$162,098 ",6/27/2016,$0 ,"1,734 sf",1943,3,1,1
+600008574,914 S Lakeview Dr,"Miller, Mary J McCoy & Pinkerton, Sue C (M&D)",1701 E Fairlawn,['Cushing'],['74023-5755'],UR,"$12,500 ","$140,230 ","$155,113 ",3/14/2014,$0 ,"1,750 sf",1983,3,2,0
+600008636,827 S Holmes Ave,"Miller, Mary Ellen TTEE",827 Holmes Ave,['Cushing'],['74023-4705'],UR,"$12,500 ","$97,660 ","$110,757 ",5/17/2018,$0 ,"1,491 sf",1978,3,1,1
+600008695,613 E Main St,Kimmel Properties LLC,PO Box 1673,['Cushing'],['74023-1673'],UR,"$5,000 ","$40,160 ","$45,160 ",6/5/2014,"$40,000 ","1,404 sf",1920,3,1,0
+600008698,615 E Main St,"Kimmel Properties, LLC",PO Box 1673,['Cushing'],['74023-1673'],UR,"$5,750 ","$34,740 ","$40,490 ",2/7/2012,"$21,000 ","1,213 sf",1920,3,2,0
+600008699,623 E Main St,"Kimmel Properties, LLC",PO Box 1673,['Cushing'],['74023-1673'],UR,"$5,000 ","$19,020 ","$24,020 ",1/14/2009,"$112,000 ",914 sf,1920,2,1,0
+600008729,622 E Oak St,"Masters, Dale A & Terrie L",622 E Oak St,['Cushing'],['74023-3424'],UR,"$5,750 ","$35,660 ","$45,309 ",4/16/2007,"$65,000 ","1,450 sf",1900,3,1,1
+600008744,604 E Oak St,"Phillips, James T & Angela M",521 E Maple,['Cushing'],['74023'],UR,"$8,000 ","$49,910 ","$58,059 ",5/8/2018,"$11,000 ","1,735 sf",1915,3,1,0
+600008766,5618 E Hidden Springs Dr,"Robinson, Kenneth G II & Darci P",5618 E Hidden Springs Dr Blvd,['Perkins'],['74059'],RR,"$29,910 ","$175,020 ","$209,864 ",5/29/2020,"$215,000 ","2,281 sf",1983,4,2,1
+600008804,10023 S Paradise Dr,"Anderson, Robert E & Carolyn A",10023 S Paradise Dr,['Coyle'],['73027-3006'],RA,"$15,130 ","$150,380 ","$195,247 ",1/7/1994,"$10,000 ","2,175 sf",2017,3,2,0
+600008829,10023 S Coyle Rd,"Anderson, Robert E & Carolyn A",10023 S Paradise Dr,['Coyle'],['73027-3006'],RA,"$10,920 ","$11,780 ","$27,853 ",1/9/2014,"$47,500 ","1,056 sf",1981,2,1,1
+600008862,621 E Broadway Ave,"White, Dale & Julia",67 RR 1,['Hooker'],['73945-9739'],UR,"$8,000 ","$115,760 ","$131,160 ",9/4/2014,$0 ,"3,090 sf",1926,4,2,1
+600008941,5025 W Loper Ave,"Brown, Terry N & Pamela U",5025 Loper Ave,['Stillwater'],['74074-1343'],UR,"$40,000 ","$212,070 ","$258,441 ",5/24/1993,$0 ,"2,875 sf",1984,4,3,0
+600009018,1409 S Western Rd,"Fountain Square Group, LLC","1120 N Duck St, Ste B",['Stillwater'],['74075-3648'],UC,"$523,610 ","$4,693,760 ","$5,259,470 ",2/13/2003,"$375,000 ","15,656 sf",2004,0,0,0
+600009029,521 E Maple St,"Phillips, James &/or Angie",521 E Maple St,['Cushing'],['74023-2716'],UR,"$6,500 ","$22,060 ","$32,614 ",2/6/2012,"$27,000 ","1,020 sf",1920,3,1,1
+600009111,11705 W 104th St,"Bailey, William H Jr & Deen, Cari M",11705 W 104th St,['Coyle'],['73027-3015'],RA,"$20,470 ","$317,640 ","$353,502 ",11/3/2010,"$240,000 ","4,906 sf",1985,4,4,0
+600009177,9619 S Prairie Rd,"Taylor, Robert Dale & Mabel F",9619 S Prairie Rd,['Perkins'],['74059-3703'],RA,"$31,090 ","$175,520 ","$319,480 ",1/15/1999,$0 ,"2,560 sf",1978,4,2,1
+600009188,S Union Rd,"Taylor, Robert H & Katherine M",9718 S Union Rd,['Stillwater'],['74074-8425'],RA,"$11,080 ",$0 ,"$11,080 ",4/15/1991,$0 ,-,-,0,0,0
+600009197,9718 S Union Rd,"Taylor, Robert H & Katherine M",9718 S Union Rd,['Stillwater'],['74074-8425'],RA,"$22,970 ","$106,390 ","$382,622 ",3/14/1994,$0 ,"1,558 sf",1900,3,1,1
+600009221,1824 S Fiddlers Hill St,"Fiddlers Hill Homeowners Association, Inc",1722 Fiddlers Hl,['Stillwater'],['74074'],UC,"$45,000 ","$87,720 ","$132,720 ",10/30/2018,$0 ,978 sf,2010,0,0,0
+600009227,8607 S Prairie Rd,"Taylor, Robert H & Katherine M",9718 S Union Rd,['Stillwater'],['74074-8425'],RA,"$13,350 ",$0 ,"$13,350 ",-,-,-,-,0,0,0
+600009421,8907 W 9th St,"Tackett, Gary Lee & Jamie M",8907 W 9th St,['Ripley'],['74062-6384'],RA,"$16,720 ","$155,700 ","$178,018 ",7/13/1987,"$47,000 ","1,968 sf",1978,3,2,0
+600009491,10104 W Eseco Rd,"Greenfield, Almyra M",10104 W Eseco,['Agra'],['74824-6401'],RR,"$43,940 ","$125,880 ","$181,252 ",3/12/1997,$0 ,"1,509 sf",1978,3,1,1
+600009497,2220 S LJ Dr,"Greenfield, Almyra M TTEE",10104 W Eseco,['Agra'],['74824-6401'],RR,"$44,660 ",$0 ,"$44,660 ",7/19/2002,$0 ,-,-,0,0,0
+600009567,6805 S Thunder Rd,"Brown, Joel F & Phyllis M",6907 Thunder Rd,['Stillwater'],['74074-7442'],RR,"$35,820 ","$26,950 ","$114,780 ",10/18/2005,$0 ,"1,700 sf",2008,-,-,-
+600009587,8419 S Meridian Rd,"Faulkner, Troy Lee & Marieca (TOD)",8419 S Meridian Rd,['Coyle'],['73027-5301'],RA,"$6,580 ","$32,130 ","$42,229 ",2/23/2012,$0 ,"1,978 sf",1982,3,2,0
+600009610,5715 W 6th Ave,UH Storage Limited Partnership,PO Box 29046,['Phoenix'],['85038-9046'],UC,"$1,065,780 ","$764,540 ","$1,953,490 ",3/31/2004,$0 ,"14,000 sf",1995,0,0,0
+600009622,12610 W 80th St,"Johnson, Greg A",12610 W 80th St,['Coyle'],['73027-5404'],RA,"$19,800 ","$70,130 ","$113,577 ",1/9/1997,"$40,000 ","2,128 sf",2003,3,2,0
+600009870,5302 W 6th Ave,Stover Family Limited Partnership,PO Box 2056,['Stillwater'],['74076-2056'],UC,"$352,780 ","$837,280 ","$1,288,310 ",12/31/2008,$0 ,"5,400 sf",1989,0,0,0
+600009977,598 S Windsor Dr,Stover Family Limited Partnership,PO Box 2056,['Stillwater'],['74076-2056'],UC,"$471,760 ",$0 ,"$471,760 ",1/2/1998,$0 ,-,-,0,0,0
+600010066,1544 E Main St,"M Properties, LLC",PO Box 368,['Stillwater'],['74076-0368'],UC,"$30,980 ","$138,640 ","$271,600 ",7/9/2020,"$333,500 ","2,572 sf",1977,0,0,0
+600010089,13504 W 56th St,"Anderson, Donald M & Lisa O",13504 W 56th St,['Mulhall'],['73063-2707'],RA,"$11,300 ","$149,730 ","$174,818 ",5/25/1994,"$34,000 ","1,689 sf",1996,3,2,0
+600010172,10018 S Washington Rd,"Focht, David R & Alma",10018 S Washington,['Perkins'],['74059-4077'],RR,"$58,050 ","$27,040 ","$90,107 ",-,-,"1,568 sf",1996,2,2,0
+600010385,9801 S Perkins Rd,"Hall, James F & Regina (TOD)",9801 S Perkins Rd,['Perkins'],['74059-4033'],RR,"$60,250 ","$148,140 ","$215,122 ",8/29/2018,$0 ,"1,889 sf",1982,3,2,0
+600010415,840 E 3rd St,"Wright, Tracy L & Regina R",PO Box 656,['Cushing'],['74023-0656'],UR,"$6,000 ","$33,670 ","$39,670 ",12/13/2018,$0 ,600 sf,1922,1,1,0
+600010528,218 S Lowry St,"Paige, Kyle & Hardesty, Natalie",8114 S Coyle Rd,['Coyle'],['73027-5302'],UR,"$30,000 ","$63,660 ","$94,057 ",5/8/2013,"$75,000 ",684 sf,1939,2,1,0
+600010531,518 W 92nd St,"Oyler, J Mack & Mary J Revo Trust",PO Box 452528,['Grove'],['74345-2528'],RR,"$98,750 ","$43,940 ","$178,653 ",6/17/2003,$0 ,967 sf,1935,2,1,0
+600010618,W Scotthaven Dr,"ScottHaven Owners Association, Inc",5907 S Prairie Rd,['Stillwater'],['74074-6257'],NA,$0 ,$0 ,$0 ,3/1/2019,$0 ,-,-,0,0,0
+600010618,W Scotthaven Dr,"ScottHaven Owners Association, Inc",5907 S Prairie Rd,['Stillwater'],['74074-6257'],NA,$0 ,$0 ,$0 ,3/1/2019,$0 ,-,-,0,0,0
+600010645,919 E Moses St,"Miller, Mary J McCoy & Pinkerton, Sue C (M&D)",1701 E Fairlawn,['Cushing'],['74023-5755'],UR,"$5,000 ","$78,290 ","$84,588 ",3/14/2014,$0 ,"1,743 sf",1950,3,1,1
+600010647,933 E Moses St,"Cline, Charles D & Miller, Mary J CO-TTEE",PO Box 1307,['Cushing'],['74023-1307'],UR,"$6,500 ","$33,490 ","$40,184 ",12/2/2019,$0 ,0 sf,1920,3,2,0
+600010778,723 N Main St,"Ask Properties, LLC",17801 Chisholm,['Stillwater'],['74075-0833'],UC,"$330,950 ","$157,450 ","$591,650 ",7/18/2017,$0 ,"8,720 sf",1940,0,0,0
+600010883,1124 E 4th St,"Wilson, Johnny L & Rebecca A & Wilson, Michael J & Shelly M",1124 E 4th St,['Cushing'],['74023-4113'],UR,"$6,000 ","$67,710 ","$76,712 ",9/27/2013,"$58,000 ","1,312 sf",1949,3,1,1
+600011017,110 N Perkins Rd,"SNB Investment Group, LLC",PO Box 574,['Stillwater'],['74076-0574'],UC,"$635,210 ",$0 ,"$636,350 ",12/27/2012,"$450,000 ",-,-,0,0,0
+600011092,507 E 64th St,"Brown, James R & Tracie J L",6120 S Perkins Rd,['Stillwater'],['74074-8243'],RC,"$88,000 ",$0 ,"$126,263 ",6/1/2012,"$60,000 ",-,-,0,0,0
+600011136,6120 S Perkins Rd,"Brown, James R & Tracie J L",6120 S Perkins Rd,['Stillwater'],['74074-8243'],RR,"$46,080 ","$145,410 ","$222,814 ",4/30/1993,"$9,000 ",828 sf,1970,2,1,0
+600011285,2821 W 56th St,"Roden, Terry Dale & Sherry R",PO Box 164,['Stillwater'],['74076-0164'],RA,"$34,960 ","$304,530 ","$427,674 ",5/2/2018,$0 ,"2,417 sf",2018,3,2,1
+600011446,E 140th St,Restricted Indian Land,0,['None'],[],RSIL,"$5,670 ",$0 ,"$5,670 ",-,-,-,-,0,0,0
+600011508,E 152nd St,Restricted Indian Land C/O John Springer ETAL,0,['None'],[],RSIL,"$3,980 ",$0 ,"$3,980 ",-,-,-,-,0,0,0
+600011545,1419 E Broadway Ave,"Smith, Ronald J & Nadyne F (TOD)",1419 E Broadway St,['Cushing'],['74023-3615'],UR,"$6,100 ","$92,800 ","$103,692 ",2/22/2016,$0 ,"1,716 sf",1954,3,1,1
+600011582,1442 E Broadway Ave,"Wright, Phillip E & Tracy L",1442 E Broadway St,['Cushing'],['74023-3616'],UR,"$5,130 ","$69,290 ","$74,420 ",8/14/2020,"$70,000 ",936 sf,1957,3,1,0
+600011593,1402 S Bell Creek Dr,"Williams, Andrew J & Connie A Etal",1402 Bell Creek Dr,['Cushing'],['74023-5202'],UR,"$15,000 ","$132,770 ","$152,244 ",12/17/2019,$0 ,"1,854 sf",1975,3,2,0
+600011605,1412 S Bell Creek Dr,"Nguyen, Matthew V & Anh Kim",1412 Bell Creek Dr,['Cushing'],['74023-5202'],UR,"$15,000 ","$174,420 ","$189,420 ",3/7/2014,"$145,000 ","2,095 sf",1973,5,2,0
+600011631,718 E Krayler Ave,AP Cedar Rapids Limited Partnership,"12770 Coit Rd, Ste 970",['Dallas'],['75251-1365'],UC,"$334,330 ",$0 ,"$334,330 ",5/29/2007,$0 ,-,-,0,0,0
+600011634,1909 N Perkins Rd,AP Stillwater Limited Partnership,"12770 Coit Rd, Ste 970",['Dallas'],['75251-1365'],UC,"$2,471,700 ","$426,680 ","$2,961,370 ",9/11/2007,$0 ,"20,311 sf",1985,0,0,0
+600011718,603 E Kirk Ave,"Smith, Eddie A & Lisa G",PO Box 346,['Perkins'],['74059-0346'],UA,"$12,230 ","$140,430 ","$162,294 ",6/5/1998,"$115,000 ","2,093 sf",1969,3,1,1
+600011889,14303 S Country Club Rd,"Wall, Robert & Penny",14303 S Country Club Rd,['Perkins'],['74059-3568'],RA,"$47,930 ","$33,210 ","$104,187 ",8/30/1993,"$90,000 ","1,868 sf",1906,3,1,1
+600011891,14909 S Country Club Rd,"Wall, Robert & Penny",14303 S Country Club Rd,['Perkins'],['74059-3568'],RA,"$58,880 ","$58,010 ","$129,968 ",11/21/2014,"$418,000 ","1,216 sf",1946,3,1,1
+600011993,S Washington Rd,"Wall, Charles Eldon",3500 W 146th St,['Perkins'],['74059-3932'],RA,"$21,690 ",$0 ,"$21,690 ",5/31/2010,$0 ,-,-,0,0,0
+600012017,415 E Walnut St,"Worthy, Steven N & Vassar Residential, LLC",3717 E 9th St,['Cushing'],['74023-6375'],UR,"$1,500 ","$10,260 ","$11,760 ",12/10/2018,$0 ,616 sf,1920,2,1,0
+600012159,13400 S Cottonwood Rd,"Phillips, Natalie A & Terry M",13400 S Cottonwood Rd,['Coyle'],['73027-4404'],RR,"$34,250 ","$106,970 ","$144,810 ",4/24/2020,"$140,000 ","1,610 sf",1983,3,2,0
+600012270,221 W French Ave,"Smith, James Charles IV",221 W French St,['Perkins'],['74059-3626'],UR,"$20,000 ","$20,000 ","$66,396 ",12/8/1989,$0 ,972 sf,1909,2,1,0
+600012313,4708 N Prairie Rd,"Smith, Robert W & Barbara E CO-TTEE Ella R Smith Trust",404 E Maple Ave,['Stillwater'],['74074-3631'],RA,"$19,850 ",$0 ,"$30,077 ",8/31/2010,$0 ,,,,,
+600012402,221 NE 2nd St,"Savory, Betty & McIntire, Larry D (M&S)",221 NE 2nd St,['Perkins'],['74059-3205'],UR,"$10,000 ","$89,640 ","$104,874 ",6/1/2000,$0 ,"1,090 sf",2012,2,1,1
+600012405,207 E Kenworthy Ave,"Harper, Betty J Life Est",PO Box 324,['Perkins'],['74059-0324'],UR,"$10,000 ","$45,070 ","$58,495 ",10/9/2004,$0 ,988 sf,1950,2,1,0
+600012437,221 E French Ave,"Warden, Arthur D & Betty L",3616 E 68th St,['Stillwater'],['74074-6143'],UR,"$20,000 ","$82,180 ","$108,015 ",12/8/2001,"$53,000 ","1,610 sf",1958,3,1,1
+600012451,424 N Main St,"Foresman, Edward J Jr & Linda G",424 N Main St,['Perkins'],['74059-3632'],UR,"$15,000 ","$42,840 ","$58,164 ",12/27/1990,"$32,000 ","1,228 sf",1953,3,1,0
+600012493,323 E Knipe Ave,"Hill, Kenneth L & Nola Gayle Life Est",323 E Knipe Ave,['Perkins'],['74059-3314'],UR,"$20,000 ","$53,760 ","$78,268 ",6/15/1995,$0 ,"1,580 sf",1940,3,1,0
+600012549,1101 N Lewis St,"Banks, Michael D Trustee","215 W McElroy Rd, Ste 4",['Stillwater'],['74075-3537'],UR,"$39,380 ","$129,330 ","$194,300 ",5/15/1997,$0 ,"2,161 sf",1950,4,2,0
+600012580,1717 W Lakeview Rd,"Lorenzi, Edward M & Gloria G",1717 W Lakeview Rd,['Stillwater'],['74075-2747'],UR,"$64,490 ","$153,730 ","$230,070 ",1/7/2019,"$230,000 ","1,842 sf",1955,3,2,0
+600012849,1008 E Crozier St,"Sweeten, Kenneth",1008 Crozier St,['Perkins'],['74059-9300'],UR,"$25,000 ","$155,380 ","$185,398 ",6/12/2016,$0 ,"1,754 sf",2006,3,2,0
+600012901,704 Tony Ave,"Wimberely, Marlin T & Betty D TTEE",4408 E 116th St,['Perkins'],['74059-3717'],UR,"$25,000 ","$131,860 ","$156,860 ",9/12/2016,"$137,000 ","1,418 sf",2005,3,2,0
+600012958,805 N Methodist Ave,"Wimberely, Marlin T & Betty D TTEE",4408 E 116th St,['Perkins'],['74059-3717'],UR,"$25,000 ","$122,540 ","$147,540 ",12/16/2016,"$125,000 ","1,274 sf",2009,3,2,0
+600013187,227 S West St,"Executive Residential Group, LLC",PO Box 521209,['Tulsa'],['74152-0018'],UC,"$181,100 ",$0 ,"$181,100 ",1/4/2016,"$310,000 ",,,,,
+600013217,122 E Lewis St,"Krajacic, Charles A & Krajacic, Barbara S",122 Lewis St,['Perkins'],['74059-4100'],UR,"$20,000 ","$114,180 ","$134,180 ",3/13/2017,"$105,000 ","1,560 sf",1983,4,2,1
+600013273,902 N Sharp St,"Allen, Cassandra Ann Oliver & Allen, Kenneth (H&W)",902 Sharp St,['Perkins'],['74059-9387'],UR,"$20,000 ","$96,130 ","$118,940 ",5/4/2006,"$89,500 ","1,511 sf",1981,3,1,1
+600013279,808 N Sharp St,"Smith, Kenneth W",808 Sharp St,['Perkins'],['74059-9385'],UR,"$20,000 ","$93,400 ","$116,257 ",5/24/2018,$0 ,"1,189 sf",1981,3,1,1
+600013412,405 E Newport St,"DRB Properties, LLC",1302 W 92nd,['Perkins'],['74059'],UR,"$20,000 ","$82,570 ","$102,570 ",10/15/2008,"$70,000 ","1,140 sf",1982,3,1,1
+600013605,1402 S Surrey Dr,"Mantini, Lisa Ann",1402 S Surrey Dr,['Stillwater'],['74074-1846'],UR,"$40,250 ","$139,010 ","$179,260 ",10/30/2002,$0 ,"2,069 sf",1976,3,1,1
+600013610,107 W Lakeview Rd,"MPH Investments Properties, LLC",PO Box 578,['Stillwater'],['74076-0578'],UR,"$35,000 ","$183,750 ","$218,750 ",9/18/2020,"$213,500 ","2,520 sf",2008,4,5,0
+600013648,1720 S August Dr,"Johnson, Kenneth W & Barbara A",1720 S August St,['Stillwater'],['74074-1839'],UR,"$35,000 ","$138,720 ","$173,720 ",8/27/2005,"$102,000 ","1,914 sf",1975,4,2,0
+600013901,401 S Oakdale Dr,"Kraybill Property, LLC",PO Box 1844,['Stillwater'],['74076-1844'],UR,"$35,000 ","$202,500 ","$237,500 ",3/14/2014,$0 ,"2,772 sf",2008,6,4,0
+600013943,409 S Stanley St,"LeGrand Group, LLC",809 S Redlands Rd,['Stillwater'],['74074-1095'],UR,"$112,500 ","$70,020 ","$182,520 ",1/18/2018,$0 ,965 sf,1950,3,2,0
+600013948,419 S Stanley St,"LeGrand Group, LLC",809 S Redlands Rd,['Stillwater'],['74074-1095'],UR,"$171,000 ","$92,110 ","$263,110 ",1/18/2018,$0 ,"1,677 sf",1940,3,2,0
+600014029,1702 S Surrey Dr,"Hall, Rahmah F & James L",1702 S Surrey Dr,['Stillwater'],['74074-1852'],UR,"$35,000 ","$135,530 ","$192,519 ",9/18/2013,"$152,000 ","1,583 sf",1972,3,2,0
+600014039,2205 W Arrowhead Ave,"Brown, David W & Karen B TTEE",2205 W Arrowhead Dr,['Stillwater'],['74074-2512'],UR,"$50,000 ","$95,490 ","$150,153 ",9/17/2014,$0 ,"1,430 sf",1954,3,2,0
+600014079,218 NE 6th St,"McKnight, Johnnie Ray Jr",PO Box 113,['Perkins'],['74059-0113'],UR,"$18,000 ","$72,710 ","$90,710 ",11/30/1992,"$27,500 ","1,106 sf",1975,3,1,1
+600014099,2807 W 18th Ave,"Conway, Kenneth Edward & Cynthia A",2807 W 18th Ave,['Stillwater'],['74074-1800'],UR,"$35,000 ","$128,330 ","$164,634 ",-,-,"1,975 sf",1968,3,1,1
+600014164,2125 W Sunset Dr,"LeGrand Group, LLC",809 S Redlands Rd,['Stillwater'],['74074-1095'],UR,"$45,000 ","$80,890 ","$125,890 ",1/18/2018,$0 ,"1,642 sf",1950,3,1,1
+600014298,502 S Perry Ave,"Glencoe Village Apartments, Limited Partnership",PO Box 153,['Inola'],['74036-0153'],UC,"$24,280 ","$437,570 ","$462,460 ",7/9/1998,$0 ,"3,016 sf",1980,8,4,0
+600014309,5224 W 2nd Ave,"Andrews, William E & Sydney",5224 W 2nd Ave,['Stillwater'],['74074-6730'],UR,"$35,000 ","$138,800 ","$177,147 ",9/16/2020,$0 ,"1,530 sf",1993,3,2,0
+600014320,303 W Burkhart St,"Laznik, Terry L & Karen Miller",PO Box 15,['Stillwater'],['74076-0015'],UR,"$9,480 ","$25,450 ","$46,286 ",7/15/2019,$0 ,"1,588 sf",1910,3,1,1
+600014371,208 S Windsor Dr,"Marquardt, Richard E & Mary E Trustees","823 S Range Rd, Apt 115",['Stillwater'],['74074-1942'],UR,"$35,000 ","$151,900 ","$186,900 ",9/30/1999,"$128,500 ","1,737 sf",1995,3,2,0
+600014538,424 S Washington St,"Smith, Charles C & Brenda K",7207 S Prairie Rd,['Stillwater'],['74074'],UC,"$134,750 ","$217,670 ","$361,570 ",9/16/1994,"$28,000 ","2,340 sf",1994,0,0,0
+600014538,424 S Washington St,"Smith, Charles C & Brenda K",7207 S Prairie Rd,['Stillwater'],['74074'],UC,"$134,750 ","$217,670 ","$361,570 ",9/16/1994,"$28,000 ","2,340 sf",1994,0,0,0
+600014538,424 S Washington St,"Smith, Charles C & Brenda K",7207 S Prairie Rd,['Stillwater'],['74074'],UC,"$134,750 ","$217,670 ","$361,570 ",9/16/1994,"$28,000 ","2,340 sf",1994,0,0,0
+600014546,423 S Jefferson St,"Executive Residential Group, LLC",PO Box 521209,['Tulsa'],['74152-0018'],UR,"$97,370 ",$0 ,"$97,370 ",2/5/2016,"$1,000,000 ",,,,,
+600014548,419 S Jefferson St,"Executive Residential Group, LLC",PO Box 521209,['Tulsa'],['74152-0018'],UR,"$109,950 ",$0 ,"$121,956 ",2/5/2016,"$1,000,000 ",,,,,
+600014553,417 S Jefferson St,"Executive Residential Group, LLC",PO Box 521209,['Tulsa'],['74152-0018'],UR,"$144,210 ",$0 ,"$144,210 ",2/5/2016,"$1,000,000 ",-,-,0,0,0
+600014576,905 W 4th Ave,The Oklahoma Alumni Association of Alpha Gamma Rho Incorporated,5011 W Elk Ave,['Duncan'],['73533-9226'],FR,"$79,500 ",$0 ,"$82,186 ",11/28/2012,"$92,000 ",,,,,
+600014606,301 S Jefferson St,The Oklahoma Alumni Association of Alpha Gamma Rho Incorporated,5708 W Airport Rd,['Stillwater'],['74075-0958'],UR,"$86,540 ","$185,790 ","$273,975 ",4/21/2021,"$472,500 ","2,408 sf",1944,6,2,0
+600014663,1408 S Husband St,"Warden, Jeremy",1206 E 19th Ave,['Stillwater'],['74074-6000'],UR,"$23,000 ","$16,400 ","$39,400 ",6/12/2017,"$2,083 ",743 sf,1935,2,1,0
+600014687,1323 S Duck St,"James, Levii William R & Hall, Melissa L",1323 S Duck St,['Stillwater'],['74074-5718'],UR,"$22,500 ","$54,940 ","$80,068 ",12/20/2019,"$80,000 ",750 sf,1915,2,1,0
+600014819,2109 W 23rd Ave,"Wilson, Michael D",2109 W 23rd Ave,['Stillwater'],['74074-6803'],UR,"$30,000 ","$100,430 ","$130,430 ",8/23/2017,$0 ,"1,118 sf",1980,3,1,1
+600014842,316 W Main St,"J & J Real Property, LLC",PO Box 150,['Glencoe'],['74032-0150'],UC,"$3,200 ","$60,220 ","$63,420 ",3/25/2005,$0 ,"4,794 sf",1930,0,0,0
+600014886,1303 W Osage Dr,"Perry, Mark S & Suzanne H",1303 W Osage Dr,['Stillwater'],['74075-2144'],UR,"$35,000 ","$135,760 ","$179,963 ",7/11/1994,"$86,500 ","1,934 sf",1973,3,2,0
+600014944,1304 W 4th Ave,"1309 Investment Group, LLC",633 N Husband St,['Stillwater'],['74075-5244'],UC,"$200,820 ","$415,180 ","$616,000 ",10/8/2020,"$1,800,000 ","8,018 sf",1977,0,14,0
+600014968,1315 W 3rd Ave,"1309 Investment Group, LLC",633 N Husband St,['Stillwater'],['74075-5244'],UC,"$303,930 ","$955,430 ","$1,259,360 ",10/8/2020,"$1,800,000 ","8,994 sf",1978,0,12,0
+600015028,502 S Jefferson St,"Orange State Properties, LLC",PO Box 1155,['Guymon'],['73942-1155'],UR,"$70,310 ","$61,260 ","$131,570 ",5/29/2014,"$135,000 ","1,138 sf",1935,3,1,1
+600015162,506 E Phillips St,"Varble, James A Jr & Lois D",205 E Dolan,['Ripley'],['74062-2001'],UR,"$2,250 ",$0 ,"$3,681 ",9/21/2018,"$5,500 ",704 sf,1900,1,1,0
+600015354,4006 W 15th Ave,"Conway, Kenneth E",4006 W 15th Ave,['Stillwater'],['74074-1644'],UR,"$35,000 ","$134,910 ","$169,910 ",5/17/2013,"$144,500 ","1,582 sf",1986,3,2,0
+600015416,1702 S Berkshire Dr,"Harms, Kenneth D & Recilla K",1702 S Berkshire Dr,['Stillwater'],['74074-1611'],UR,"$35,000 ","$165,200 ","$200,465 ",4/9/2002,"$126,500 ","2,124 sf",1980,3,2,0
+600015459,1521 S Berkshire Dr,"Nguyen, Kimha",5914 Trenton Ave,['Stillwater'],['74074-1161'],UR,"$35,000 ","$126,790 ","$164,138 ",10/10/2013,"$125,000 ","1,494 sf",1984,3,2,0
+600015504,4007 W Yorkshire Dr,"Beck, Kenneth W & Jill I",5001 S Western Rd,['Stillwater'],['74074-2418'],UR,"$35,000 ","$125,550 ","$160,550 ",9/28/2015,"$128,000 ","1,575 sf",1974,3,2,0
+600015518,4017 W Yorkshire Dr,"Beck, Kenneth W & Jill I",5001 S Western Rd,['Stillwater'],['74074-2418'],UR,"$35,000 ","$122,310 ","$157,310 ",2/5/2014,$0 ,"1,608 sf",1976,3,2,0
+600015548,4002 W Yorkshire Dr,"Beck, Kenneth W & Jill I CO-TTEE",5001 S Western Rd,['Stillwater'],['74074-2418'],UR,"$35,000 ","$122,800 ","$157,800 ",7/29/2015,$0 ,"1,530 sf",1978,3,2,0
+600015601,4002 W Westbrook Dr,"Harris, Ronald C & Mandie Leigh Eck",4002 Westbrook Dr,['Stillwater'],['74074-1630'],UR,"$35,000 ","$131,040 ","$166,597 ",9/30/1997,"$75,000 ","1,649 sf",1979,3,2,0
+600015714,120 E Miller Ave,"Sharon, Kyle T & Jennifer R",17 Hermitage Dr,['Destrehan'],['70047-3701'],UR,"$23,000 ","$77,760 ","$102,305 ",12/18/2017,"$119,000 ","1,238 sf",1951,3,1,0
+600015780,9016 E Main St,"Anderson, Michael E & Redonna L",1000 S Pine Crest Ln,['Cushing'],['74023-2360'],RC,"$6,500 ","$79,230 ","$92,070 ",2/26/2004,"$35,000 ","2,400 sf",2004,0,0,0
+600015782,E Main St,"Anderson, Michael E & Redonna L",1000 S Pine Crest Ln,['Cushing'],['74023-2360'],RR,"$4,350 ",$0 ,"$4,350 ",2/26/2004,"$35,000 ",-,-,0,0,0
+600015784,E Main St,"Anderson, Michael E & Redonna L",1000 S Pine Crest Ln,['Cushing'],['74023-2360'],RR,"$5,000 ",$0 ,"$5,000 ",2/26/2004,"$35,000 ",-,-,0,0,0
+600015832,139 S Husband St,"Orange State Properties, LLC",PO Box 1155,['Guymon'],['73942-1155'],UC,"$60,820 ","$194,700 ","$255,520 ",11/16/2012,"$375,000 ","3,170 sf",2006,6,6,0
+600015866,139 S Main St,"Star Max Investments, Inc",4806 N Perkins Rd,['Stillwater'],['74075-1710'],UC,"$90,160 ","$146,200 ","$236,360 ",10/14/2010,$0 ,"3,006 sf",1965,0,0,0
+600015989,1020 W Will Rogers Dr,"Strecker, Brian N & Kimberly I",1020 W Will Rogers Dr,['Stillwater'],['74075-2733'],UR,"$45,000 ","$145,020 ","$192,737 ",10/16/1998,$0 ,"2,224 sf",1961,3,2,0
+600015998,1124 W Will Rogers Dr,"Chase, Charles E & Cida S Trust",1124 W Will Rogers Dr,['Stillwater'],['74075-2735'],UR,"$45,000 ","$172,660 ","$217,660 ",7/15/1999,$0 ,"2,634 sf",1962,3,3,0
+600016004,1101 W Graham Ave,"Kelly, Steven L & Brenda J",2030 W Sherwood Ave,['Stillwater'],['74074-2517'],UR,"$45,000 ","$172,640 ","$221,889 ",7/13/2012,"$175,000 ","2,815 sf",1962,4,3,0
+600016148,1917 W State Ln,"Bosma, Kenneth & Theresa L",5 Preston Cir,['Stillwater'],['74075-2030'],UR,"$30,000 ","$226,890 ","$256,890 ",3/1/2012,"$161,000 ","3,086 sf",1976,8,4,0
+600016168,112 N Griffith Ave,"Lacy, John L",112 Griffith Ave,['Drumright'],['74030-5908'],UR,"$7,250 ","$59,040 ","$66,864 ",5/6/2015,"$54,000 ","1,461 sf",1965,4,2,0
+600016176,N Griffith Ave,"McDade, Pam & Johnson, Rhonda M & James, Andrew Z",2058 S Highway 99,['Jennings'],['74038-2423'],UR,"$6,500 ",$0 ,"$6,500 ",4/23/2014,$500 ,-,-,0,0,0
+600016184,5 Preston Cir,"Bosma, Kenneth & Theresa L",5 Preston Cir,['Stillwater'],['74075-2030'],UR,"$30,000 ","$142,200 ","$174,308 ",6/15/2000,"$115,500 ","2,098 sf",1969,3,1,1
+600016238,N Griffith Ave,"Johnson, Rhonda M & James, Andrew Z",2058 S Highway 99,['Jennings'],['74038-2423'],UR,"$7,250 ",$0 ,"$7,250 ",4/23/2014,$500 ,-,-,0,0,0
+600016328,"1400 N Perkins Rd, Unit H-62","Burkhart, Logan T & Betty A","5604 Saddlebag Lake Rd, # 32QW",['Lake'],['33898-9665'],UR,"$12,000 ","$42,600 ","$54,600 ",8/16/1989,"$24,500 ","1,260 sf",1971,3,1,1
+600016416,1206 E 19th Ave,"Warden, Jeremy",1206 E 19th Ave,['Stillwater'],['74074-6000'],UR,"$18,800 ","$49,790 ","$122,845 ",12/12/2011,$0 ,884 sf,1940,2,1,0
+600016418,1208 E 19th Ave,"Warden, Jeremy",1206 E 19th Ave,['Stillwater'],['74074-6000'],UR,"$20,630 ","$45,740 ","$71,829 ",7/27/2020,"$50,500 ","1,376 sf",1953,3,1,0
+600016510,1602 S Aetna St,"Miller, Stephanie James",2404 N Glenwood Dr,['Stillwater'],['74075-2671'],UR,"$20,000 ","$61,780 ","$83,756 ",6/20/2018,$0 ,"1,387 sf",1940,3,1,0
+600016730,302 W 29th Ave,"Anderson, Robert & Gracie",302 W 29th Ave,['Stillwater'],['74074-6917'],UR,"$11,000 ","$102,305 ","$119,636 ",11/5/2004,"$104,000 ","1,533 sf",1973,3,1,1
+600016758,423 W 29th Ave,"Myers, Natalie",1711 S Muskogee Pl,['Claremore'],['74019-3540'],UR,"$11,000 ","$86,060 ","$98,073 ",12/14/2004,"$65,500 ","1,215 sf",1977,3,1,1
+600016769,3119 W 31st Ct,"Smith, Linda D",3119 W 31st Ct,['Stillwater'],['74074-2366'],UR,"$35,000 ","$133,030 ","$169,178 ",7/9/2008,"$130,000 ","1,599 sf",1986,3,2,0
+600016902,2823 S Pioneer Trl,"Brown, Richard D & Ina Carlene",2823 S Pioneer Trl,['Stillwater'],['74074-2233'],UR,"$45,500 ","$210,810 ","$269,739 ",-,-,"3,500 sf",1976,5,4,0
+600016998,7 Pecan Dr,"Edwards, Jeff & Natalie",7 Pecan Dr,['Stillwater'],['74075-3825'],UR,"$35,000 ","$151,960 ","$191,164 ",6/25/2004,"$157,000 ","2,304 sf",1970,3,2,0
+600017006,210 S Husband St,"Orange State Properties, LLC",PO Box 1155,['Guymon'],['73942-1155'],UC,"$473,200 ","$676,660 ","$1,149,860 ",4/29/2013,"$1,052,000 ","5,382 sf",2006,0,12,0
+600017183,4504 N Brookside Ct,"Molloy, Janice M & Hays, Sandra M & Parks, Kenneth S CO-TTEE",4504 Brookside Ct,['Stillwater'],['74075-1636'],UR,"$35,000 ","$187,350 ","$222,350 ",2/10/2016,$0 ,"2,648 sf",1987,3,2,1
+600017256,924 W Cantwell Ave,"Walden, Brooks S & Walden, John A Jr & Walden, Joshua (D&C)",924 W Cantwell Ave,['Stillwater'],['74075-4601'],UR,"$40,000 ","$154,030 ","$194,030 ",6/6/2016,$0 ,"1,908 sf",1974,4,2,0
+600017278,114 E Marie Dr,"Miller, Eugene L & Betty C",114 E Marie Dr,['Stillwater'],['74075-1686'],UR,"$35,000 ","$126,470 ","$161,470 ",2/1/1993,"$78,000 ","1,765 sf",1981,3,1,1
+600017350,4509 N Davis Ct,"Brinker, Brian M & Susan",4509 N Davis Ct,['Stillwater'],['74075-1648'],UR,"$35,000 ","$121,630 ","$157,012 ",3/11/2004,"$122,000 ","1,740 sf",1983,3,1,1
+600017354,4520 N Davis Ct,"Carlson, Aaron C",PO Box 1134,['Stillwater'],['74076-1134'],UR,"$35,000 ","$137,880 ","$172,880 ",10/15/2014,"$110,000 ","1,688 sf",1979,4,2,0
+600017383,2004 W 11th Pl,"Brown, Hazel M Ponce & Robert A Jr",2004 W 11th Pl,['Stillwater'],['74074-5118'],UR,"$28,000 ","$110,740 ","$140,745 ",4/26/2019,"$144,000 ","1,326 sf",1959,3,2,0
+600017442,4806 N Perkins Rd,"Star Max Investments, Inc",4806 N Perkins Rd,['Stillwater'],['74075-1710'],UC,"$54,000 ","$481,320 ","$552,940 ",10/14/2010,$0 ,"8,019 sf",1974,0,0,0
+600017611,107 S Stallard St,"Marcum Land & Investments, LLC",8911 Coit Rd,['Frisco'],['75035-5845'],UR,"$35,230 ","$116,360 ","$153,253 ",4/6/2012,$0 ,"1,486 sf",1950,3,1,1
+600017658,607 N Griffith Ave,"Wittman, John B & Sharon K",780593 S 3460 Rd,['Agra'],['74824-6344'],RR,"$12,080 ","$30,450 ","$47,396 ",11/6/2017,$0 ,"1,391 sf",1938,3,2,0
+600017773,720 N Oak Grove,"Stephens, Ronnie C & Alma L",720 N Oak Grove Rd,['Drumright'],['74030-5691'],RR,"$23,520 ","$21,580 ","$79,491 ",12/6/2006,$0 ,"1,890 sf",1979,3,1,1
+600017853,3602 N Star Dr,Stover Family Limited Partnership,PO Box 2056,['Stillwater'],['74076-2056'],UC,"$154,200 ","$483,310 ","$683,440 ",12/29/1994,$0 ,"9,000 sf",1973,0,0,2
+600017914,9000 E Texaco,"Jackson, James G",9000 E Texaco Rd,['Cushing'],['74023-6565'],RA,"$11,700 ","$130,150 ","$159,445 ",1/25/2001,$0 ,"1,280 sf",1997,3,1,1
+600017938,226 S Lewis St,"Puckette, James Owen & Jennifer Sue",4020 Yorkshire Dr,['Stillwater'],['74074-1636'],UR,"$30,000 ","$17,130 ","$48,584 ",12/13/2016,$0 ,856 sf,1918,2,1,0
+600017971,220 S Main St,"Cash, Mary Angela",220 S Main St,['Stillwater'],['74074-3520'],UC,"$147,200 ","$81,420 ","$228,620 ",10/6/2010,$0 ,"2,516 sf",1950,0,0,0
+600018019,2024 S Country Side Dr,"Fishbein, Mark & Greer, Lane",2024 S Country Side Dr,['Stillwater'],['74074-2132'],UR,"$50,000 ","$210,590 ","$261,605 ",7/22/2010,$0 ,"2,787 sf",1968,3,2,0
+600018036,231 N Duck St,"First Christian Church of Stw OK, Inc.(Disciples of Christ)",411 W Matthews Ave,['Stillwater'],['74075-7517'],CH,"$103,520 ",$0 ,"$125,756 ",1/16/1993,"$160,000 ",-,-,0,0,0
+600018039,227 N Duck St,"First Christian Church of Stw OK, Inc.(Disciples of Christ)",411 W Matthews Ave,['Stillwater'],['74075-7517'],CH,"$207,000 ",$0 ,"$246,494 ",1/16/1993,"$160,000 ",,,,,
+600018051,228 N Duncan St,"Miller, Joseph A & Rodgers, Maria C",1701 Parkwood Dr,['Duncan'],['73533-1200'],UR,"$60,590 ","$26,570 ","$87,160 ",11/17/2005,$0 ,"1,534 sf",1931,4,2,0
+600018104,1414 S Hickory Ct,"Smith, Steven Craig & Donna Rae",1414 S Hickory Ct,['Stillwater'],['74074-1527'],UR,"$35,000 ","$153,580 ","$190,707 ",2/8/1996,"$122,000 ","1,764 sf",1994,3,2,0
+600018237,7317 E Main St,"Smith, William P & Linda C",709 Manvel Ave,['Chandler'],['74834-2842'],RR,"$17,080 ","$164,750 ","$196,247 ",11/28/2003,$0 ,"1,937 sf",1957,3,1,1
+600018264,115 W Virginia Ave,"Orange State Properties, LLC",PO Box 1155,['Guymon'],['73942-1155'],UR,"$59,930 ","$35,840 ","$96,582 ",12/21/2017,"$90,000 ",770 sf,1930,2,1,0
+600018267,123 W Virginia Ave,"Orange State Properties, LLC",PO Box 1155,['Guymon'],['73942-1155'],UC,"$90,560 ","$478,910 ","$569,470 ",8/31/2015,"$630,000 ","6,460 sf",1982,0,12,0
+600018562,2414 N Perkins Rd,"Star Max Investments, Inc",4806 N Perkins Rd,['Stillwater'],['74075-1710'],UC,"$276,000 ","$206,140 ","$488,736 ",10/14/2010,$0 ,"3,094 sf",1976,0,0,0
+600018927,N Prarie Dr,"Spire, Mark D & Rebecca K",112 N Harrison Ave,['Cushing'],['74023-3342'],RR,"$19,000 ",$0 ,"$19,000 ",-,-,-,-,0,0,0
+600018929,N Prarie Dr,"Spire, Mark D & Rebecca K",112 N Harrison Ave,['Cushing'],['74023-3342'],RR,"$19,010 ",$0 ,"$19,010 ",-,-,-,-,0,0,0
+600018930,N Prarie Dr,"Spire, Mark D & Rebecca K",112 N Harrison Ave,['Cushing'],['74023-3342'],RR,"$15,830 ",$0 ,"$15,830 ",-,-,-,-,0,0,0
+600018933,N Prarie Dr,"Spire, Mark D & Rebecca K",112 N Harrison Ave,['Cushing'],['74023-3342'],RR,"$19,440 ",$0 ,"$19,440 ",-,-,-,-,0,0,0
+600018988,3818 E Scenic Dr,"Smith, Robert T Jr & Mary J Henderson",3818 E Scenic Dr,['Cushing'],['74023-4715'],RR,"$22,400 ","$198,350 ","$222,592 ",3/25/1992,"$55,500 ","2,527 sf",1982,3,2,1
+600019132,1514 S Fern St,"Davis, Carla Sue TTEE",220 W 26th Ave,['Stillwater'],['74074-6975'],UR,"$33,500 ","$27,770 ","$62,894 ",7/20/2015,$0 ,828 sf,1930,2,1,0
+600019205,503 S Arrington Dr,"Johnson, Chris & Lisa",1330 Lowrie Ln,['Oklahoma'],['73159-7712'],UR,"$28,000 ","$56,840 ","$84,840 ",5/6/2013,"$82,000 ","1,240 sf",1940,3,1,1
+600019263,1405 S Fern St,"Jenkins, Leroy LLC",6205 Plum Thicket Rd,['Oklahoma'],['73162-3424'],UR,"$26,500 ","$59,310 ","$86,604 ",5/26/2016,"$93,000 ",959 sf,1920,3,1,0
+600019346,521 E 13th Ave,"Proctor, Joann Farmer",1306 W 11th Ave,['Stillwater'],['74074-5432'],UR,"$23,000 ","$37,180 ","$61,412 ",11/25/2019,$0 ,863 sf,1940,2,1,0
+600019414,1213 E Arrington Pl,"Rember, William Andrew",1213 Arrington Pl,['Stillwater'],['74074-3857'],UR,"$28,000 ","$71,140 ","$99,140 ",1/2/2018,"$90,000 ","1,166 sf",1957,3,1,0
+600019522,6215 N Fairgrounds Rd,"Troy, Thomas J & Melanie S",6215 N Fairgrounds Rd,['Glencoe'],['74032-1209'],RR,"$56,300 ","$143,550 ","$223,135 ",8/25/2013,$0 ,"2,089 sf",1972,3,2,0
+600019575,7100 N Brush Creek Rd,"Double E Development, LLC",PO Box 2355,['Stillwater'],['74076-2355'],RA,"$14,750 ","$302,620 ","$328,760 ",8/5/2019,"$182,500 ","2,813 sf",2020,4,2,1
+600019889,1024 S Jefferson St,"Johnson, Chris L & Lisa",1330 Lowrie Ln,['Oklahoma'],['73159-7712'],UR,"$12,500 ","$73,560 ","$86,723 ",6/26/2020,"$95,000 ","1,045 sf",1920,3,2,0
+600020177,102 S Arrington Dr,"Owens, Richard T & Mary E TTEE",102 S Arrington Dr,['Stillwater'],['74074-3827'],UR,"$28,000 ","$79,210 ","$107,210 ",9/6/2005,$0 ,"1,180 sf",1963,3,1,1
+600020197,826 S Hall St,St James Orthodox Christian Church,118 W 7th Ave,['Stillwater'],['74074-4035'],CH,"$22,450 ","$174,210 ","$196,660 ",6/17/2013,"$58,330 ","3,102 sf",1960,0,0,0
+600020372,19210 E 44th St,"Harrison, John E & Miriam",19210 E 44th St,['Yale'],['74085-6646'],RA,"$9,610 ","$91,710 ","$162,882 ",12/19/2003,"$110,000 ","1,850 sf",1981,3,1,1
+600020376,E 44th St,"Harrison, John E & Miriam",19210 E 44th St,['Yale'],['74085-6646'],RA,"$7,010 ",$0 ,"$7,010 ",10/7/2005,"$12,000 ",-,-,0,0,0
+600020438,2512 N Lincoln St,"Fleming-Miller, Mary K",2512 N Lincoln St,['Stillwater'],['74075-2178'],UR,"$28,000 ","$93,940 ","$123,986 ",12/19/2008,"$85,500 ","1,640 sf",1961,3,1,1
+600020465,723 W Ute Ave,"Miller, William J & Julie B",723 W Ute Ave,['Stillwater'],['74075-1211'],UR,"$35,000 ","$116,530 ","$152,649 ",2/27/1996,"$71,000 ","2,006 sf",1958,3,1,1
+600020468,711 W Ute Ave,"Bennett, Andrew C & Sharon L",711 W Ute Ave,['Stillwater'],['74075-1211'],UR,"$35,000 ","$147,730 ","$188,132 ",7/22/2016,"$153,000 ","1,710 sf",1962,3,1,1
+600021072,702 S McDonald St,"Kirksey, James L TTEE of Liahona Enterprises",11578 Airway Blvd,['Roanoke'],['76262-5739'],UR,"$32,000 ","$70,990 ","$103,098 ",8/20/2015,"$79,000 ","1,001 sf",1946,3,1,0
+600021096,S Logan,"McCaleb, Neal A TTEE ETAL",2905 S Broken Bow Rd,['Edmond'],['73013-7817'],RA,"$10,020 ",$0 ,"$10,020 ",12/8/2005,$0 ,-,-,0,0,0
+600021109,E 6th St,"Johnson, Johnny Ray & Monica K",PO Box 12,['Yale'],['74085-0012'],RA,"$8,320 ",$0 ,"$8,320 ",-,-,-,-,0,0,0
+600021243,802 S Western Rd,"5J Properties, LLC",4101 W Pheasant Rdg,['Stillwater'],['74074-5034'],UR,"$40,000 ",$0 ,"$40,000 ",11/28/2017,"$200,000 ",,,,,
+600021309,2302 W 8th Ave,"5J Properties, LLC",4101 W Pheasant Rdg,['Stillwater'],['74074-5034'],UR,"$32,500 ","$163,580 ","$196,080 ",11/20/2016,$0 ,"2,789 sf",1920,5,2,0
+600021328,702 S Western Rd,"8240 Property Management, LLC","2323 W 7th Ave, Ste 5",['Stillwater'],['74074-1904'],UC,"$725,280 ","$1,304,290 ","$2,081,240 ",12/19/2017,"$1,400,000 ","7,500 sf",1973,0,0,0
+600021417,1324 E 4th Ave,"Smith, Mary G",PO Box 1213,['Stillwater'],['74076-1213'],UR,"$20,000 ","$99,970 ","$119,970 ",4/19/2021,"$137,000 ","1,284 sf",1977,3,2,0
+600021478,3607 N Council Valley Rd,"Moebius, Gordon E & Minnie C ETAL",4416 Odom Dr,['Duncan'],['73533-5228'],RA,"$19,860 ","$1,930 ","$22,250 ",2/12/2014,$0 ,"1,440 sf",1900,3,1,1
+600021500,E Airport Rd,"Moebius, Gordon E & Minnie C ETAL",4416 Odom Dr,['Duncan'],['73533-5228'],RA,"$15,410 ",$0 ,"$15,410 ",4/24/2009,$0 ,-,-,0,0,0
+600021527,1805 W Sunset Dr,"Higgins, Todd H & Delano, Stacy",1805 W Sunset Ave,['Stillwater'],['74074-2632'],UR,"$55,000 ","$83,240 ","$138,240 ",8/24/2004,$0 ,"1,487 sf",1941,3,2,0
+600021561,110 W Hall of Fame Ave,"Ward, James C & Linda L",PO Box 1178,['Stillwater'],['74076-3003'],UC,"$77,280 ","$190,650 ","$271,766 ",11/29/2017,$0 ,"5,255 sf",1984,0,0,0
+600021592,219 N Manning St,"Law, Anthony W & Tammy M",219 N Manning St,['Stillwater'],['74075-7912'],UR,"$23,000 ","$204,880 ","$229,645 ",3/21/2013,"$180,000 ","2,887 sf",2008,4,2,1
+600021662,1105 S Kings St,"Todd, Vivian C",1105 S Kings St,['Stillwater'],['74074-5125'],UR,"$52,000 ","$102,600 ","$155,795 ",10/14/2011,"$87,000 ","1,658 sf",1960,3,1,1
+600021913,2218 W 3rd Ave,"J L B Properties, LLC",4112 Depel Dr,['Edmond'],['73034-7100'],UR,"$50,000 ","$126,440 ","$177,147 ",7/31/2000,"$103,000 ","1,696 sf",1953,3,2,0
+600021913,2218 W 3rd Ave,"J L B Properties, LLC",4112 Depel Dr,['Edmond'],['73034-7100'],UR,"$50,000 ","$126,440 ","$177,147 ",7/31/2000,"$103,000 ","1,696 sf",1953,3,2,0
+600022011,W 56th St,"Myers, Marilyn R (TOD) & Miller, Ivan (TOD)",22661 V Ave,['Eldora'],['50627-8012'],RA,"$4,830 ",$0 ,"$4,830 ",11/21/2016,$0 ,-,-,0,0,0
+600022048,1306 W 11th Ave,"Proctor, Joann Farmer",1306 W 11th Ave,['Stillwater'],['74074-5432'],UR,"$28,750 ","$95,530 ","$125,568 ",11/25/2019,$0 ,"1,587 sf",1968,3,1,1
+600022058,1013 S Stanley St,"Vargas, Alma T",714 Shamrock Ln,['Stillwater'],['74075-0992'],UR,"$28,750 ","$126,040 ","$157,032 ",2/28/2013,"$127,500 ","1,873 sf",1925,4,2,0
+600022207,1324 N Drury St,"Jardot Evergreen, LLC",Lot 1818 Taman Raya,['Sungai'],['45300'],UR,"$12,000 ",$0 ,"$12,000 ",7/6/2017,$0 ,-,-,0,0,0
+600022279,1023 E Redbud Dr,"Colvin, William E & Veta B",1023 E Redbud Dr,['Stillwater'],['74075-5916'],UR,"$25,000 ","$98,010 ","$125,137 ",6/20/2019,$0 ,"1,279 sf",1978,3,1,1
+600022287,1402 N Drury St,"Jardot Evergreen, LLC",Lot 1818 Taman Raya,['Sungai'],['45300'],UR,"$12,000 ",$0 ,"$12,000 ",7/6/2017,$0 ,-,-,0,0,0
+600022288,1414 N Drury St,"Jardot Evergreen, LLC",Lot 1818 Taman Raya,['Sungai'],['45300'],UR,"$12,000 ",$0 ,"$12,000 ",7/6/2017,$0 ,-,-,0,0,0
+600022289,1424 N Drury St,"Jardot Evergreen, LLC",Lot 1818 Taman Raya,['Sungai'],['45300'],UR,"$12,000 ",$0 ,"$12,000 ",7/6/2017,$0 ,-,-,0,0,0
+600022409,917 E Franklin Ave,"Turner, Jane T",917 E Franklin Ave,['Stillwater'],['74075-2909'],UR,"$25,000 ","$80,190 ","$105,802 ",4/5/1996,$0 ,"1,062 sf",1980,3,1,1
+600022467,916 E Swim Ave,Eastridge Homeowners Association,6837 N Wilderness Trl,['Owasso'],['74055-8276'],NA,$0 ,$0 ,$0 ,3/29/2021,$0 ,-,-,0,0,0
+600022543,2022 N Briarwood Dr,"Marquardt, Richard E & Mary E Trustees","823 S Range Rd, Apt 115",['Stillwater'],['74074-1942'],UR,"$25,000 ","$148,940 ","$173,940 ",6/30/2003,"$121,000 ","1,595 sf",2003,3,2,0
+600022566,2201 N Manning St,"Marquardt, Richard E & Mary E Trustees","823 S Range Rd, Apt 115",['Stillwater'],['74074-1942'],UR,"$25,000 ","$136,620 ","$161,620 ",9/14/2017,$0 ,"1,393 sf",1999,3,1,1
+600022625,2117 N Burdick St,"Griffith, Matthew & Julie TTEE",4591 King Rd,['Williams'],['95987-5503'],UR,"$25,000 ","$152,530 ","$180,877 ",1/13/2021,$0 ,"1,692 sf",1999,3,2,0
+600022635,2208 N Manning St,"Holmes, Nicholas & Purcell, Anthony",2208 N Manning St,['Stillwater'],['74075-2999'],UR,"$25,000 ","$139,140 ","$167,487 ",5/22/2015,"$148,500 ","1,397 sf",1999,3,2,0
+600022843,204 S Duck St,"Stillwater Family Young Men's Christian Assoc Foundation, Inc",204 S Duck St,['Stillwater'],['74074-3216'],CI,"$677,020 ","$3,399,350 ","$4,499,550 ",1/1/2017,$0 ,"22,917 sf",1956,0,0,0
+600022881,1408 N Berry Ct,"Miller, Candice M",1408 N Berry Ct,['Stillwater'],['74075-5904'],UR,"$25,000 ","$86,040 ","$111,040 ",7/15/2011,"$75,000 ",954 sf,1978,2,1,0
+600022883,1412 N Berry Ct,"Brown, Daniel & Andrea",2910 W 15th Ave,['Stillwater'],['74074-1826'],UR,"$25,000 ","$107,910 ","$135,023 ",9/30/2016,"$105,000 ","1,256 sf",1978,3,1,1
+600022967,219 S Washington St,"B C & C Properties, LLC",205 W 9th Ave,['Stillwater'],['74074-4406'],UC,"$155,620 ","$626,030 ","$807,000 ",7/24/1998,"$155,000 ","8,236 sf",1971,0,0,0
+600023045,101 S Knoblock St,"B C & C Properties, LLC",205 W 9th Ave,['Stillwater'],['74074-4406'],UC,"$132,440 ","$130,540 ","$302,300 ",1/22/2001,$0 ,"2,355 sf",1930,0,0,0
+600023049,217 W 5th Ave,"Gothic Limited Partnership, An Okla Limited Partnership",916 N Main St,['Stillwater'],['74075-3621'],UC,"$66,940 ","$514,710 ","$581,650 ",2/18/2004,"$234,000 ","6,724 sf",1969,0,0,0
+600023054,511 S Duncan St,"Gothic Limited Partnership, An Okla Limited Partnership",916 N Main St,['Stillwater'],['74075-3621'],UC,"$84,430 ",$0 ,"$146,523 ",8/31/2015,"$215,000 ",-,-,0,0,0
+600023238,312 S Duck St,"Gothic Limited Partnership, An Okla Limited Partnership",916 N Main St,['Stillwater'],['74075-3621'],UC,"$155,250 ","$271,940 ","$430,640 ",3/30/1998,$0 ,"2,883 sf",1978,0,0,0
+600023360,602 W 10th Ave,"Chambers, Almetrice M",108 W Greenlee St,['Cushing'],['74023-2126'],UR,"$11,500 ",$0 ,"$11,500 ",1/22/2014,$0 ,-,-,0,0,0
+600023474,1109 E Knapp Ave,"Thomas, Kennedy & Cheri & Thomas, Christopher",1109 E Knapp Ave,['Stillwater'],['74075-5910'],UR,"$25,000 ","$77,600 ","$103,725 ",5/28/2020,"$110,000 ","1,078 sf",1978,2,1,0
+600023604,120 W Miller Ave,"Dunkin, Mary M & Stephen L",1915 S Iba Dr,['Stillwater'],['74074-1334'],UR,"$60,980 ","$178,540 ","$239,520 ",8/26/2004,"$100,000 ","3,328 sf",1965,8,4,0
+600023631,1202 E Will Rogers Dr,"Hornberger, William L",1202 E Will Rogers Dr,['Stillwater'],['74075-5926'],UR,"$25,000 ","$91,500 ","$125,783 ",4/2/2004,$0 ,"1,131 sf",1977,3,1,1
+600023767,417 S Orchard St,"Buchanan, Richard W & Cheryl D CO-TTEE",417 S Orchard St,['Stillwater'],['74074-2930'],UR,"$57,490 ","$114,630 ","$172,530 ",2/23/2018,$0 ,"1,962 sf",1942,3,1,1
+600023772,1406 E Will Rogers Dr,"Blalack, Loyd D & Sharon K",1406 E Will Rogers Dr,['Stillwater'],['74075-6936'],UR,"$25,000 ","$126,560 ","$152,131 ",6/6/1988,"$56,500 ","1,702 sf",1979,3,2,0
+600023826,1401 E Sunrise Ave,"Moore, James P & Lisa R",1401 E Sunrise Dr,['Stillwater'],['74075-6925'],UR,"$25,000 ","$109,690 ","$134,690 ",12/13/2018,"$120,000 ","1,378 sf",1972,3,2,0
+600023844,1423 E Sunrise Ave,"Edwards, Sharon Fay (TOD)",1423 E Sunrise Dr,['Stillwater'],['74075-6904'],UR,"$25,000 ","$132,230 ","$171,033 ",4/28/2021,$0 ,"1,581 sf",1972,4,2,0
+600023850,1505 E Sunrise Ave,"Freshley, Thomas A",1505 E Sunrise Dr,['Stillwater'],['74075-6927'],UR,"$25,000 ","$166,990 ","$209,014 ",4/13/2012,"$184,000 ","2,356 sf",1972,3,2,1
+600023957,609 E Detroit Ave,"C & M Property Management, LLC",2800 Underwood Rd,['Yale'],['74085'],UR,"$2,080 ","$40,170 ","$42,250 ",7/26/2018,$0 ,"1,440 sf",1920,3,1,1
+600024059,331 N E St,"JSK Real Estate, LLC",21721 E 6th St,['Yale'],['74085-6475'],UR,"$1,730 ","$22,930 ","$25,537 ",1/9/2020,$0 ,960 sf,1920,2,1,0
+600024067,301 N E St,"C & M Property Management, LLC",2800 UNDERWOOD Rd,['Yale'],['74085'],UR,"$2,320 ","$44,950 ","$47,270 ",7/26/2018,$0 ,"1,186 sf",1936,3,1,1
+600024405,810 E Erie Ave,"Yale Village Apartments, Limited Partnership",PO Box 153,['Inola'],['74036-0153'],UC,"$5,880 ","$202,910 ","$225,070 ",7/15/1998,$0 ,"4,818 sf",1984,15,8,0
+600024546,920 S Greystone St,"Belfrod, Sandra L & Davis, Holly A & Belford, William R",920 Greystone St,['Stillwater'],['74074-1205'],UR,"$30,000 ","$229,710 ","$259,710 ",12/8/2015,$0 ,"2,757 sf",1982,3,2,1
+600024591,837 W Moore Ave,"Spencer, Robert & Glenda",4607 Sherman Lake Dr,['Stillwater'],['74074-9589'],UR,"$25,000 ","$57,300 ","$82,300 ",7/9/2015,"$56,000 ","1,066 sf",1950,3,1,0
+600024600,823 W Moore Ave,"McKeown, Linda Sue",823 W Moore Ave,['Stillwater'],['74075-3319'],UR,"$25,000 ","$65,050 ","$92,587 ",12/14/1994,$0 ,"1,104 sf",1956,3,1,1
+600024625,802 W Beaumont Ave,"Frick, Larry R & Linda L TTEE",816 W Beaumont Ave,['Yale'],['74085-4504'],UR,"$3,040 ","$38,320 ","$44,486 ",12/26/2005,$0 ,980 sf,1947,2,1,0
+600024629,816 W Beaumont Ave,"Frick, Larry R & Linda L TTEE",816 W Beaumont Ave,['Yale'],['74085-4504'],UR,"$1,960 ","$44,060 ","$63,849 ",12/26/2005,$0 ,"1,282 sf",1930,3,1,1
+600024637,S 9th St,"Frick, Larry R & Linda L TTEE",816 W Beaumont Ave,['Yale'],['74085-4504'],UR,"$1,600 ","$16,700 ","$20,187 ",12/26/2005,$0 ,749 sf,1915,2,1,0
+600024640,W Broadway Ave,"Frick, Larry R & Linda L TTEE",816 W Beaumont Ave,['Yale'],['74085-4504'],UR,"$4,480 ",$0 ,"$29,864 ",12/26/2005,$0 ,,,,,
+600024642,820 W Moore Ave,"Rhamy, Martie A & Carla D Co-TTEE",8516 W 116th St,['Coyle'],['73027-4302'],UR,"$25,000 ","$72,860 ","$97,860 ",6/28/2019,$0 ,"1,073 sf",1955,3,1,0
+600024654,830 W Moore Ave,"Brown, Donald R & Brown, Terry N & Brown, Pamela U",5025 Loper Ave,['Stillwater'],['74074-1343'],UR,"$12,500 ",$0 ,"$12,500 ",6/25/2008,"$112,500 ",-,-,0,0,0
+600024691,811 W Brooke Ave,"Reid, Shannon C L & Keley",811 W Brooke Ave,['Stillwater'],['74075-3344'],UR,"$25,000 ","$79,660 ","$104,660 ",1/29/2015,"$73,000 ","1,341 sf",1955,3,1,0
+600024833,617 S Ramsey St,"Associates of Internal Medicine, DI Therapy, Inc",608 S Hester St,['Stillwater'],['74074-4516'],UR,"$37,000 ","$64,460 ","$102,286 ",11/30/1999,$0 ,"1,167 sf",1954,3,1,1
+600024852,1718 N Washington St,"Lane, Jimmy C Jr & Jayne A",1720 N Washington St,['Stillwater'],['74075-3338'],UR,"$26,680 ",$0 ,"$26,680 ",8/15/1995,"$10,000 ",-,-,0,0,0
+600024875,1016 W Brooke Ave,"Conner, Ralph W & Leda C",1016 W Brooke Ave,['Stillwater'],['74075-2966'],UR,"$40,000 ","$214,390 ","$271,126 ",6/17/1992,"$151,000 ","2,621 sf",1988,3,2,1
+600025078,541 E Boston Ave,"C & M Property Management, LLC",2800 UNDERWOOD Rd,['Yale'],['74085'],UR,"$2,140 ","$33,210 ","$36,703 ",7/26/2018,$0 ,"1,275 sf",1920,3,1,1
+600025081,537 E Boston Ave,"C & M Property Management, LLC",2800 UNDERWOOD Rd,['Yale'],['74085'],UR,"$1,600 ","$17,480 ","$20,526 ",7/26/2018,$0 ,691 sf,1920,2,1,0
+600025112,808 E Tyler Ave,"Joseph, Matthew G & David A",808 E Tyler Ave,['Stillwater'],['74075-7219'],UR,"$30,000 ","$108,040 ","$139,805 ",5/30/2014,"$115,000 ","1,402 sf",1971,3,2,0
+600025119,816 E Tyler Ave,"Hardy, David W & Grace J Revoc Living Trust",PO Box 36,['Stillwater'],['74076-0036'],UR,"$30,000 ","$134,600 ","$167,457 ",3/4/2013,"$125,000 ","1,908 sf",1972,3,2,0
+600025125,113 S D St,"Thomas, Charles & Pearl",107 S D St,['Yale'],['74085-7011'],UR,"$1,600 ",$0 ,"$1,600 ",-,-,,,,,
+600025126,107 S D St,"Thomas, Charles & Pearl",107 S D St,['Yale'],['74085-7011'],UR,"$1,600 ","$27,020 ","$34,829 ",11/6/2006,"$10,000 ","1,196 sf",1920,3,1,1
+600025221,2208 E Crestwood Dr,"Miller, Gina Marie",2208 E Crestwood,['Stillwater'],['74075'],UR,"$17,500 ","$75,710 ","$93,210 ",3/4/2021,"$108,000 ","1,153 sf",1984,3,1,0
+600025253,407 E Boston Ave,"Ferguson, Charles",405 E Boston Ave,['Yale'],['74085-3503'],UR,$930 ,$0 ,$930 ,5/23/2012,$0 ,-,-,0,0,0
+600025257,405 E Boston Ave,"Ferguson, Charles",14515 E Richmond Rd,['Glencoe'],['74032-3158'],UR,"$1,150 ","$28,570 ","$32,158 ",5/23/2012,"$45,000 ",966 sf,1920,2,1,0
+600025288,1102 W Brown Ave,"Crutcher, Billy J & Linda R",1102 Brown Ave,['Stillwater'],['74075-1109'],UR,"$28,000 ","$143,760 ","$173,991 ",-,-,"1,767 sf",1966,3,2,1
+600025305,322 E Chicago Ave,"C & M Property Management, LLC",2800 UNDERWOOD Rd,['Yale'],['74085'],UR,"$1,600 ","$51,430 ","$53,242 ",7/26/2018,$0 ,"1,877 sf",1920,3,1,1
+600025316,1124 W Brown Ave,"Burton, Robert M & Karen S Co-TTEE",2723 N Husband St,['Stillwater'],['74075-2612'],UR,"$28,000 ","$160,040 ","$188,040 ",1/22/2019,$0 ,"2,252 sf",1966,3,2,1
+600025364,1002 S Main St,Huang Family Limited Partnership,PO Box 101087,['Denver'],['80250-1087'],UC,"$49,090 ","$236,890 ","$285,980 ",4/27/2015,$0 ,"10,131 sf",1930,0,0,0
+600025398,910 W Brown Ave,"Collins, David B",910 Brown Ave,['Stillwater'],['74075-1105'],UR,"$28,000 ","$156,730 ","$190,409 ",1/11/2019,"$171,000 ","1,701 sf",1997,3,2,0
+600025418,41 W Brentwood Dr,"Dunn, William M & Barbara C",41 Brentwood Dr,['Stillwater'],['74075-3740'],UR,"$20,000 ","$109,960 ","$129,960 ",6/25/2003,"$87,000 ","1,500 sf",1968,3,2,0
+600025585,113 E 9th Ave,"Davis, Thomas M & Kathyryn A",401 W 7th St,['Stroud'],['74079-3235'],UC,"$55,650 ","$126,430 ","$182,080 ",12/27/2018,$0 ,"8,235 sf",1920,0,0,0
+600025809,1210 N Payne St,"Goad, David W & Carla L",1210 N Payne St,['Stillwater'],['74075-6910'],UR,"$40,000 ","$140,690 ","$192,279 ",10/4/2004,"$175,000 ","2,006 sf",1963,3,1,1
+600025814,111 E Broadway,"Johnson, Gregory L",7203 E 72nd St,['Tulsa'],['74133-2747'],UC,"$1,870 ","$59,700 ","$63,954 ",10/22/2015,"$5,000 ","2,900 sf",1918,0,0,0
+600025920,123 E 8th Ave,"L & C Downtown Properties, LLC",902 S Blue Ridge St,['Stillwater'],['74074-1415'],UC,"$111,840 ","$162,910 ","$274,750 ",10/10/2005,$0 ,"2,808 sf",1934,0,0,0
+600026068,323 S Washington St,"McLaughlin, Charles & Mary CO-TTEES",7106 Edinburgh Ct,['Tulsa'],['74132-2124'],UC,"$103,030 ","$192,310 ","$295,340 ",8/22/2008,$0 ,"3,485 sf",1920,0,0,0
+600026103,1002 E Moore Ave,"M & N Investments, LLC",3206 Redbird Ln,['Enid'],['73703-1537'],UR,"$25,000 ","$85,330 ","$110,330 ",4/2/2010,"$96,670 ","1,136 sf",1979,3,1,1
+600026184,301 W 7th Ave,"Stillwater Museum Association, Inc",301 7TH Ave,['Stillwater'],['74074'],CO,"$178,500 ","$499,050 ","$677,550 ",9/13/1989,$0 ,"5,124 sf",1945,0,0,0
+600026481,524 S Main St,"J J & D Properties, LLC",524 S Main St,['Stillwater'],['74074-4057'],UC,"$238,000 ","$38,220 ","$366,281 ",12/27/2012,$0 ,"1,602 sf",1960,0,0,0
+600026583,409 S Main St,"Stillwater Foundation For Progress, Inc",409 S Main St,['Stillwater'],['74074-3524'],UC,"$147,200 ","$430,740 ","$577,940 ",-,-,"4,649 sf",1979,0,0,0
+600026734,1301 S Lewis St,"Allen, Crystal J & Michael J",1301 S Lewis St,['Stillwater'],['74074-5830'],UR,"$23,000 ","$50,880 ","$74,911 ",4/10/2006,"$72,500 ","1,877 sf",1928,3,1,1
+600026757,1307 S Husband Pl,"Warden, Jeremy & Wendy",1206 E 19th Ave,['Stillwater'],['74074-6000'],UR,"$23,000 ","$22,020 ","$54,930 ",11/22/1995,"$3,500 ","1,236 sf",1920,3,1,1
+600026808,240 S Lewis St,"Banks, Michael D Trustee","215 W McElroy Rd, Ste 4",['Stillwater'],['74075-3537'],UC,"$23,000 ","$185,000 ","$208,000 ",12/23/1997,$0 ,"1,792 sf",1940,4,2,0
+600026809,236 S Lewis St,"Banks, Michael D Trustee","215 W McElroy Rd, Ste 4",['Stillwater'],['74075-3537'],UR,"$23,000 ","$74,880 ","$97,880 ",10/6/2005,$0 ,"1,995 sf",1946,3,1,1
+600043993,N Brooke Hollow Ct,Brooke Hollow Homeowners Association,1916 N Brooke Hollow Ct,['Stillwater'],['74075-2161'],NA,$0 ,$0 ,$0 ,2/21/2003,$0 ,-,-,0,0,0
+600043996,1017 W Brooke Hollow Ct,"Beeby, Craig C & Leila M",1017 W Brooke Hollow Ct,['Stillwater'],['74075-2162'],UR,"$40,000 ","$214,330 ","$254,330 ",12/12/1996,"$187,000 ","2,519 sf",1995,3,2,1
+600044090,1219 S Greystone St,"Norman, Richard L & Mary K TTEE",1219 Greystone St,['Stillwater'],['74074-1217'],UR,"$30,000 ","$178,900 ","$208,900 ",8/27/2012,$0 ,"1,787 sf",1997,3,2,0
+600045391,4716 W 8th Ave,"Copeland, Stephen P & Vickie",4716 W 8th Ave,['Stillwater'],['74074-1400'],UR,"$35,000 ","$200,700 ","$236,077 ",9/30/2020,"$239,000 ","1,983 sf",1997,3,2,0
+600045507,2614 S Husband St,"Brown, Robert C",2614 S Husband St,['Stillwater'],['74074-7124'],UR,"$27,640 ","$59,040 ","$89,970 ",1/13/2021,$0 ,"1,568 sf",1930,3,1,1
+600046040,9519 E Meadowbrook Ln,"Ramsey, Kit C & Jenyle O Revocable Tr",9519 E Meadow Brook Ln,['Stillwater'],['74075-8832'],RR,"$63,510 ","$210,330 ","$316,909 ",4/25/2019,$0 ,"1,876 sf",2001,3,2,0
+600046084,S Rosebud,"S & J Properties, LLC",110 W Lakehurst Dr,['Stillwater'],['74075-2622'],RA,"$8,830 ",$0 ,"$8,830 ",12/29/1994,$0 ,-,-,0,0,0
+600046112,N Smith Ave,"Ward, Steven L & Cooper, Shirley K",501 N Smith,['Cushing'],['74023-3002'],UR,"$4,730 ",$0 ,"$4,730 ",10/24/2002,"$73,000 ",-,-,0,0,0
+600046112,N Smith Ave,"Ward, Steven L & Cooper, Shirley K",501 N Smith,['Cushing'],['74023-3002'],UR,"$4,730 ",$0 ,"$4,730 ",10/24/2002,"$73,000 ",-,-,0,0,0
+600046112,N Smith Ave,"Ward, Steven L & Cooper, Shirley K",501 N Smith,['Cushing'],['74023-3002'],UR,"$4,730 ",$0 ,"$4,730 ",10/24/2002,"$73,000 ",-,-,0,0,0
+600046140,N Wedgewood Dr,Wedgewood Homeowners' Association,PO Box 2562,['Stillwater'],['74076-2562'],NA,$0 ,$0 ,$0 ,4/10/2002,$0 ,-,-,0,0,0
+600047226,815 S Stoney Brook St,"Bryant, Jeffery G & Amy C",815 S Stoneybrook St,['Stillwater'],['74074-1223'],UR,"$30,000 ","$214,100 ","$273,631 ",7/15/2001,"$167,832 ","2,223 sf",1996,3,2,1
+600047232,820 S Stoney Brook St,"Longan, Stanley C & Sherry S",820 S Stoneybrook St,['Stillwater'],['74074-1222'],UR,"$30,000 ","$186,650 ","$216,650 ",6/30/1997,"$132,000 ","1,892 sf",1996,3,2,0
+600049014,S Pine Crest Ln,"Anderson, Michael E & Redonna L",1000 S Pine Crest Ln,['Cushing'],['74023-2360'],RR,"$7,090 ",$0 ,"$8,123 ",8/29/1996,"$6,500 ",-,-,0,0,0
+600049350,1307 N Jardot Rd,"Williams, Wendell & Alma & Andrews, Sharon F",1307 N Jardot Rd,['Stillwater'],['74075-8531'],UR,"$25,000 ","$140,420 ","$168,145 ",9/6/2016,$0 ,"1,467 sf",1997,3,2,0
+600049350,1307 N Jardot Rd,"Williams, Wendell & Alma & Andrews, Sharon F",1307 N Jardot Rd,['Stillwater'],['74075-8531'],UR,"$25,000 ","$140,420 ","$168,145 ",9/6/2016,$0 ,"1,467 sf",1997,3,2,0
+600049685,2521 S Trophy Ln,"Bailey, William T & Julie A TTEE",2521 Trophy Ln,['Stillwater'],['74074-1077'],RR,"$125,000 ","$826,850 ","$951,850 ",4/22/2021,"$1,077,000 ","6,215 sf",1999,5,5,0
+600049824,5625 N Hunters Rdg,"Miller, Marie R & Jeff D",5625 N Hunters Rdg,['Stillwater'],['74075-1227'],UR,"$60,000 ","$465,670 ","$548,941 ",2/24/2011,"$440,000 ","4,037 sf",1998,5,4,0
+600050490,0 N Twin Mounds,"Boyd, David L & Lisa B",519 Riverdale Dr,['Mulvane'],['67110-1401'],RA,"$11,350 ",$0 ,"$11,350 ",8/9/2018,$0 ,-,-,0,0,0
+600052450,4103 W Deer Crossing Dr,"Bailey, William T & Julie A TTEE",2521 Trophy Ln,['Stillwater'],['74074-1077'],UR,"$90,000 ","$418,500 ","$508,500 ",10/30/2018,$0 ,"3,455 sf",2000,3,3,0
+600052922,1919 S Walking Trail Dr,"Brown, David W & Karen B TTEE",2205 W Arrowhead Dr,['Stillwater'],['74074-2512'],UR,"$60,000 ","$572,060 ","$635,686 ",5/15/2020,"$647,000 ","5,461 sf",2000,5,3,2
+600052977,W Mesa Cir,Hidden Oaks homeowners Association,PO Box 1051,['Stillwater'],['74076-1051'],UR,"$35,000 ",$0 ,"$48,510 ",3/27/2018,$0 ,,,,,
+600054098,4710 W Village Ct,"Miller, Martha P & Terry P TTEE",4710 W Village Ct,['Stillwater'],['74074-1435'],UR,"$35,000 ","$221,980 ","$256,980 ",6/30/1999,$0 ,"2,199 sf",2001,3,2,1
+600054430,5903 W Chateau Dr,"Shanahan, Michael T & Almeda S",1518 Westland Rd,['Sapulpa'],['74066-7291'],RR,"$42,000 ",$0 ,"$42,000 ",11/24/2015,"$80,500 ",-,-,0,0,0
+600054433,4901 W Crestview Ave,"Camerer, Bradley S & Marilee",2624 W Summerlin Ct,['Stillwater'],['74074-2384'],UR,"$60,000 ","$322,620 ","$382,620 ",1/5/2021,"$405,000 ","2,940 sf",2000,4,2,1
+600054538,S Brush Creek Rd,"Miller, Steven A & Carolyn J TTEE",5003 S Brush Creek Rd,['Stillwater'],['74074-8575'],RA,$320 ,$0 ,"$7,918 ",4/19/2016,$0 ,,,,,
+600055380,3815 W Fox Ledge Ct,"Youngblood, Russell L & Lynn R CO-TTEE",3815 W Fox Ledge Ln,['Stillwater'],['74074-1743'],UR,"$90,000 ","$453,350 ","$545,583 ",5/1/2017,$0 ,"3,260 sf",2007,4,3,0
+600055551,5820 W 7th Ave,"Carpenter, Suzanne Fenton TTEE",PO Box 2257,['Stillwater'],['74076-2257'],UR,"$35,000 ","$202,500 ","$237,500 ",1/17/2020,$0 ,"2,790 sf",2000,6,4,0
+600055569,1109 S Pecan Hill St,"Smith, Lee R & Lisa L",1109 Pecan Hill St,['Stillwater'],['74074-2074'],UR,"$35,000 ","$206,880 ","$243,367 ",9/17/2004,"$204,000 ","2,107 sf",2000,4,2,0
+600055569,1109 S Pecan Hill St,"Smith, Lee R & Lisa L",1109 Pecan Hill St,['Stillwater'],['74074-2074'],UR,"$35,000 ","$206,880 ","$243,367 ",9/17/2004,"$204,000 ","2,107 sf",2000,4,2,0
+600055579,5723 W Pecan Hill Ct,"Collier, Bradley C  & Cheryl N",5723 Pecan Hill Ct,['Stillwater'],['74074-2073'],UR,"$35,000 ","$345,800 ","$384,567 ",10/9/2017,"$358,000 ","3,596 sf",2003,4,3,1
+600055594,1104 S Pecan Lake Ct,"Bailey, Bill D & Lambert, Lisa S",1104 Pecan Lake Ct,['Stillwater'],['74074-1180'],UR,"$35,000 ","$317,050 ","$352,050 ",4/16/2018,"$334,500 ","3,301 sf",2002,4,3,1
+600055644,5901 W 7th Ave,"Norman, Richard L & Mary K TTEE",1219 Greystone St,['Stillwater'],['74074-1217'],UR,"$35,000 ","$202,500 ","$237,500 ",10/31/2014,$0 ,"2,791 sf",2001,6,4,0
+600055644,5901 W 7th Ave,"Norman, Richard L & Mary K TTEE",1219 Greystone St,['Stillwater'],['74074-1217'],UR,"$35,000 ","$202,500 ","$237,500 ",10/31/2014,$0 ,"2,791 sf",2001,6,4,0
+600055748,7322 E 19th St,"Stephens, Vicki Jo",11500 Prairie Bell Rd,['Okmulgee'],['74447-9498'],RA,"$19,040 ","$159,120 ","$178,160 ",9/12/2017,"$105,000 ","1,624 sf",2019,2,1,1
+600055815,N Hunters Rdg,"Miller, Jeff D & Marie R",5625 N Hunters Rdg,['Stillwater'],['74075-1227'],RA,$920 ,$0 ,$920 ,2/9/2017,"$155,000 ",-,-,0,0,0
+600055948,S Brush Creek Rd,"Miller, Steven A & Carolyn J TTEE",5003 S Brush Creek Rd,['Stillwater'],['74074-8575'],RA,$260 ,$0 ,"$261,016 ",4/19/2016,$0 ,-,-,0,0,0
+600055949,5011 S Brush Creek Rd,"Miller, Steven A & Carolyn J TTEE",5003 S Brush Creek Rd,['Stillwater'],['74074-8575'],RA,"$8,010 ",$0 ,"$163,262 ",4/19/2016,$0 ,-,-,0,0,0
+600055950,S Longview Dr,"Miller, Steven A & Carolyn J TTEE",5003 S Brush Creek Rd,['Stillwater'],['74074-8575'],RA,$260 ,$0 ,"$2,962 ",4/19/2016,$0 ,-,-,0,0,0
+600055951,S Longview Dr,"Miller, Steven A & Carolyn J TTEE",5003 S Brush Creek Rd,['Stillwater'],['74074-8575'],RA,$270 ,$0 ,$270 ,4/19/2016,$0 ,-,-,0,0,0
+600055952,S Longview Dr,"Miller, Steven A & Carolyn J TTEE",5003 S Brush Creek Rd,['Stillwater'],['74074-8575'],RA,$280 ,$0 ,$280 ,4/19/2016,$0 ,-,-,0,0,0
+600055953,S Longview Dr,"Miller, Steven A & Carolyn J TTEE",5003 S Brush Creek Rd,['Stillwater'],['74074-8575'],RA,$290 ,$0 ,$290 ,4/19/2016,$0 ,-,-,0,0,0
+600055954,S Longview Dr,"Miller, Steven A & Carolyn J TTEE",5003 S Brush Creek Rd,['Stillwater'],['74074-8575'],RA,$280 ,$0 ,$280 ,4/19/2016,$0 ,-,-,0,0,0
+600055955,S Longview Dr,"Miller, Steven A & Carolyn J TTEE",5003 S Brush Creek Rd,['Stillwater'],['74074-8575'],RA,$290 ,$0 ,$290 ,4/19/2016,$0 ,-,-,0,0,0
+600055956,S Longview Dr,"Miller, Steven A & Carolyn J TTEE",5003 S Brush Creek Rd,['Stillwater'],['74074-8575'],RA,$300 ,$0 ,$300 ,4/19/2016,$0 ,-,-,0,0,0
+600055957,S Longview Dr,"Miller, Steven A & Carolyn J TTEE",5003 S Brush Creek Rd,['Stillwater'],['74074-8575'],RA,$310 ,$0 ,$310 ,4/19/2016,$0 ,-,-,0,0,0
+600056562,1900 N Jardot Rd,"Belk, Troy 1/2 Int & Roberts, Thomas 1/2 Int",PO Box 1973,['Sapulpa'],['74067-1973'],UC,"$71,330 ","$1,079,130 ","$1,150,460 ",4/10/2018,"$1,250,000 ","30,000 sf",2009,0,0,0
+600057462,2615 S Susan Pl,"Diaz, Jose",2615 S Susan Pl,['STILLWATER'],['74074'],RR,"$23,630 ",$0 ,"$31,061 ",4/1/2021,"$14,500 ",,,,,
+600057487,2700 S Gregory Ln,"Johnson, Amanda",2700 Gregory Ln,['Stillwater'],['74074'],RA,"$5,900 ","$64,050 ","$78,101 ",5/18/2018,"$110,000 ","1,860 sf",2015,4,2,0
+600057491,2800 S Gregory Ln,"Ochoa, Juan Jose Torres",1418 N Ramsey St,['Stillwater'],['74075-3323'],RR,"$27,000 ","$27,540 ","$59,994 ",4/19/2021,"$16,000 ","1,280 sf",1996,3,1,1
+600057561,6886 S Oak Forest Cir,"Citizen, Charles & Gonzalez, Alma",6886 Oak Forrest Cir,['Stillwater'],['74074-6181'],RR,"$31,640 ",$0 ,"$53,741 ",10/2/2014,"$8,000 ",,,,,
+600057691,1103 S Thompson Ave,"Brown, Carl R & Gail J Trust",PO Box 48,['Cushing'],['74023-0048'],UR,"$27,340 ","$177,930 ","$214,302 ",5/10/2000,"$8,500 ","2,254 sf",2000,3,2,0
+600058162,1709 S Hidden Oaks,"Noles, Jared P & Natalie R",1709 Hidden Oaks Dr,['Stillwater'],['74074-1081'],UR,"$35,000 ","$282,580 ","$317,580 ",12/19/2020,"$325,000 ","2,683 sf",2016,4,3,0
+600058792,407 S Council Valley Rd,"Brown, David D Sr & Karen F",407 S Council Vly,['Yale'],['74085-6873'],RR,"$38,430 ","$29,910 ","$72,731 ",12/12/2000,"$12,000 ","1,232 sf",2001,3,1,1
+600059278,3909 W Glencoe Rd,"Smith, Steven C & Janet L",3909 W Glencoe Rd,['Stillwater'],['74075-1907'],RA,"$12,970 ","$232,540 ","$290,774 ",5/9/2007,"$288,000 ","2,474 sf",2002,4,3,0
+600059287,1600 W Dunkin Rd,"Patterson, Barry J & Karla A",1600 W Dunkin Rd,['Cushing'],['74023-2390'],RR,"$64,430 ","$115,670 ","$204,271 ",4/24/2001,$0 ,"2,080 sf",1960,3,1,1
+600059598,2401 S Melissa Ln,"Brown, Andrue & Natalie R",2401 Melissa Ln,['Stillwater'],['74074-8624'],RR,"$14,000 ","$191,940 ","$211,544 ",7/10/2020,"$220,000 ","1,825 sf",2015,4,2,0
+600059624,4910 E Haley Ln,"Hall, Troy Lee",4910 Haley Ln,['Stillwater'],['74074-8619'],RR,"$14,000 ","$167,440 ","$188,382 ",5/5/2010,$0 ,"1,622 sf",2004,3,2,0
+600059649,4920 E Pinto Rd,"Smith, Kelly N & LPRK Family, LLC",4920 Pinto Dr,['Stillwater'],['74074-8603'],RR,"$14,000 ","$138,240 ","$160,496 ",3/1/2010,"$95,000 ","2,040 sf",2003,3,2,0
+600059741,602 N Burdick St,"Buchanan, Richard W & Cheryl D CO-TTEE",417 S Orchard St,['Stillwater'],['74074-2930'],UR,"$35,000 ","$177,970 ","$212,970 ",4/24/2015,$0 ,"1,804 sf",2005,3,2,0
+600059766,1106 E Connell Ave,"Hume, Natalie",1106 E Connell Ave,['Stillwater'],['74075-7944'],UR,"$35,000 ","$219,190 ","$254,190 ",3/14/2012,"$208,000 ","2,033 sf",2011,4,2,0
+600059845,0 E McElroy,724 N Perkins Rd. LLC,PO Box 1569,['Stillwater'],['74076-1569'],UC,"$350,870 ",$0 ,"$364,150 ",11/30/2010,$0 ,-,-,0,0,0
+600059861,W Live Oak Ln,"Smith, Robert A & Geraldine",3404 Live Oak Ln,['Stillwater'],['74075-9309'],RR,"$41,930 ",$0 ,"$41,930 ",2/28/1999,$0 ,-,-,0,0,0
+600066885,8315 S Mt Vernon Rd,"Thompson, Alma R D & Oborny, R Michael & Cheatwood, Chris CO-TTEE",2432 NW Grand Cir,['Nichols'],['73116-4118'],RA,"$23,440 ","$210,230 ","$255,926 ",8/27/2014,$0 ,"1,998 sf",2012,4,2,0
+600066989,5521 W Creekside Dr,"Patton, Jon Barry Trust","1120 N Duck St, Ste B",['Stillwater'],['74075-3648'],UR,"$87,000 ","$678,640 ","$799,830 ",6/26/2013,$0 ,"5,366 sf",2005,5,4,0
+600066999,W Creekside Dr,"The Greater Boulder Creek Owners Association, Inc",2218 S Walking Trail Dr,['Stillwater'],['74074-1329'],NA,$0 ,$0 ,$0 ,1/8/2016,$0 ,-,-,0,0,0
+600067166,10100 N Fairgrounds Rd,"Hale, William & Barbara",10100 N Fairgrounds Rd,['Glencoe'],['74032-1175'],RA,"$14,240 ","$19,550 ","$113,756 ",3/28/2003,"$26,000 ","1,135 sf",1977,3,2,0
+600068188,3601 W Woodland Trails Ave,"Woodland Trails Homeowners Association, Inc",PO Box 633,['Stillwater'],['74076-0633'],NA,$0 ,$0 ,$0 ,7/23/2007,$0 ,-,-,0,0,0
+600068188,3601 W Woodland Trails Ave,"Woodland Trails Homeowners Association, Inc",PO Box 633,['Stillwater'],['74076-0633'],NA,$0 ,$0 ,$0 ,7/23/2007,$0 ,-,-,0,0,0
+600068189,3614 W Forest Trail Ct,"Woodland Trails Homeowners Association, Inc",PO Box 633,['Stillwater'],['74076-0633'],NA,$0 ,$0 ,$0 ,7/23/2007,$0 ,-,-,0,0,0
+600068189,3614 W Forest Trail Ct,"Woodland Trails Homeowners Association, Inc",PO Box 633,['Stillwater'],['74076-0633'],NA,$0 ,$0 ,$0 ,7/23/2007,$0 ,-,-,0,0,0
+600068226,1627 W Teal Ct,Elk Creek Limited Partnership,4705 S Hunters Cir,['Stillwater'],['74074-7617'],UR,"$25,000 ","$212,500 ","$237,500 ",5/18/2011,"$165,000 ","3,021 sf",2007,6,4,0
+600068271,1143 E St Andrews Cir,"Thackray, Richard F III & Marie D",1149 Saint Andrews Cir,['Cushing'],['74023-6785'],RR,"$20,580 ",$0 ,"$20,580 ",4/25/2018,"$18,000 ",,,,,
+600068272,1149 E St Andrews Cir,"Thackray, Richard F III & Marie D",1149 Saint Andrews Cir,['Cushing'],['74023-6785'],RR,"$22,400 ","$353,050 ","$375,450 ",10/13/2017,"$355,500 ","3,445 sf",2017,3,2,1
+600068413,1514 S Fiddlers Hill St,"Fiddlers Hill Homeowners Association, Inc",1722 Fiddlers Hl,['Stillwater'],['74074'],NA,$0 ,$0 ,$0 ,10/30/2018,$0 ,-,-,0,0,0
+600068414,1819 S Fiddlers Hill St,"Fiddlers Hill Homeowners Association, Inc",1722 Fiddlers Hl,['Stillwater'],['74074'],NA,$0 ,$0 ,$0 ,10/30/2018,$0 ,-,-,0,0,0
+600068705,1106 E Lauren Ln,"Marquardt, Richard E & Mary E Trustees","823 S Range Rd, Apt 115",['Stillwater'],['74074-1942'],UR,"$25,000 ","$139,100 ","$164,100 ",8/18/2004,"$114,500 ","1,414 sf",2004,3,2,0
+600068724,1211 E Lauren Ln,"Marquardt, Richard E & Mary E Trustees","823 S Range Rd, Apt 115",['Stillwater'],['74074-1942'],UR,"$25,000 ","$142,310 ","$167,310 ",8/18/2004,"$126,000 ","1,382 sf",2004,3,1,1
+600068743,3815 W Eagle Creek Ave,"Brown, Tracie J L & James R",6120 S Perkins Rd,['Stillwater'],['74074-8243'],UR,"$45,000 ","$297,280 ","$342,280 ",3/4/2010,"$150,000 ","2,768 sf",2010,4,3,0
+600068769,3715 W Woodland Trails Ave,"Woodland Trails Homeowners Association, Inc",PO Box 633,['Stillwater'],['74076-0633'],NA,$0 ,$0 ,$0 ,7/23/2007,$0 ,-,-,0,0,0
+600068784,S Country Club Dr,Country Club Vistas Homeowners Association,919 Country Club Dr,['Cushing'],['74023-8812'],NA,$0 ,$0 ,$0 ,9/9/2019,$0 ,-,-,0,0,0
+600068972,W 92nd St,"Oyler, J Mack & Mary J Revo Trust",PO Box 452528,['Grove'],['74345-2528'],RA,$50 ,$0 ,$50 ,4/20/2004,$0 ,-,-,0,0,0
+600069330,5204 W 4th Ave,"Fluty, Natalie Kay",5204 W 4th Ave,['Stillwater'],['74074-6958'],UR,"$35,000 ","$168,080 ","$203,080 ",9/2/2020,$0 ,"1,818 sf",2005,3,2,0
+600069619,1212 E Emma Ln,"Griffith, Matthew & Julie TTEE",4591 King Rd,['Williams'],['95987-5503'],UR,"$25,000 ","$138,280 ","$163,280 ",12/18/2019,$0 ,"1,346 sf",2005,3,2,0
+600069680,107 S Perkins Rd,Campbell Properties Limited Partnership,"1415 Lilac Dr N, Ste 280",['Minneapolis'],['55422-4526'],UC,"$441,130 ","$659,530 ","$1,106,525 ",7/8/2008,"$1,770,000 ","6,814 sf",2008,0,0,0
+600069789,3603 S Scissortail Dr,"Harrison, William H & Norma G TTEE",3603 S Scissortail Dr,['Stillwater'],['74074-7669'],UR,"$45,000 ","$386,090 ","$431,090 ",8/12/2014,$0 ,"3,470 sf",2014,4,3,0
+600069805,S Scissortail Dr,"Woodland Trails Homeowners Association, Inc",PO Box 633,['Stillwater'],['74076-0633'],NA,$0 ,$0 ,$0 ,7/23/2007,$0 ,-,-,0,0,0
+600069964,E 56th St,"Taylor, Michael & Brenda",624 N Shallow Brk,['Stillwater'],['74075-8824'],RA,"$6,800 ",$0 ,"$6,800 ",2/25/2021,"$175,000 ",-,-,0,0,0
+600070062,3200 W Charleston Ct,Berry Creek Community Association Inc,PO Box 2341,['Stillwater'],['74076-2341'],NA,$0 ,$0 ,$0 ,7/3/2017,$0 ,-,-,0,0,0
+600071297,4303 E Burris Rd,"Johnson, Justin K & Christina M",4303 E Burris Rd,['Glencoe'],['74032-1208'],RR,"$14,700 ","$186,140 ","$202,187 ",2/18/2005,$0 ,"1,881 sf",2005,3,2,0
+600071787,1599 S Boulder Creek Dr,"The Greater Boulder Creek Owners Association, Inc",2218 S Walking Trail Dr,['Stillwater'],['74074-1329'],NA,$0 ,$0 ,$0 ,1/8/2016,$0 ,-,-,0,0,0
+600071787,1599 S Boulder Creek Dr,"The Greater Boulder Creek Owners Association, Inc",2218 S Walking Trail Dr,['Stillwater'],['74074-1329'],NA,$0 ,$0 ,$0 ,1/8/2016,$0 ,-,-,0,0,0
+600071788,5808 W Garden Pointe Dr,"The Greater Boulder Creek Owners Association, Inc",2218 S Walking Trail Dr,['Stillwater'],['74074-1329'],NA,$0 ,$0 ,$0 ,1/8/2016,$0 ,-,-,0,0,0
+600071788,5808 W Garden Pointe Dr,"The Greater Boulder Creek Owners Association, Inc",2218 S Walking Trail Dr,['Stillwater'],['74074-1329'],NA,$0 ,$0 ,$0 ,1/8/2016,$0 ,-,-,0,0,0
+600071789,5799 W Garden Pointe Dr,"The Greater Boulder Creek Owners Association, Inc",2218 S Walking Trail Dr,['Stillwater'],['74074-1329'],NA,$0 ,$0 ,"$5,922 ",1/8/2016,$0 ,-,-,0,0,0
+600071790,W Creekside Dr,"The Greater Boulder Creek Owners Association, Inc",2218 S Walking Trail Dr,['Stillwater'],['74074-1329'],NA,$0 ,$0 ,$0 ,1/8/2016,$0 ,,,,,
+600072254,801 Carnes Cir,"Williams, Kenneth A & Barbara E TTEE",801 Carnes Cir,['Perkins'],['74059-5901'],UR,"$25,000 ","$168,010 ","$196,336 ",5/24/2019,$0 ,"1,791 sf",2016,3,2,0
+600074053,N Perkins Rd,"Canyons Homeowners Association, Inc",424 Westpark Ct,['Stillwater'],['74074-1554'],NA,$0 ,$0 ,$0 ,12/11/2015,$0 ,-,-,0,0,0
+600074054,551 E Amethyst Ave,"Canyons Homeowners Association, Inc",424 Westpark Ct,['Stillwater'],['74074-1554'],NA,$0 ,$0 ,$0 ,1/6/2016,$0 ,-,-,0,0,0
+600074190,S Twin Mounds,"Todd, Russell L & Susan J",1732 N Little Ave,['Cushing'],['74023-1922'],RR,"$58,320 ",$0 ,"$63,961 ",12/30/2005,$0 ,,,,,
+600074608,W Briarcreek Dr,Briarcreek Homeowners Assoc Inc,5117 W Briarcreek Dr,['Stillwater'],['74074-2028'],NA,$0 ,$0 ,$0 ,12/29/2015,$0 ,-,-,0,0,0
+600074609,4811 W Briarcreek Dr,"Selman, Justin & Serita",4811 W Briarcreek Dr,['Stillwater'],['74074-2084'],RR,"$88,000 ","$375,650 ","$546,507 ",8/13/2009,"$390,000 ","3,434 sf",2007,4,4,0
+600074610,4817 W Briarcreek Dr,"Kmowles, James G & Nancy S",4817 W Briarcreek Dr,['Stillwater'],['74074'],RR,"$55,000 ","$361,370 ","$424,334 ",7/9/2018,"$388,000 ","2,566 sf",2018,4,3,0
+600074611,4909 W Briarcreek Dr,"Fix, Dustin D & Diane L",PO Box 2194,['Stillwater'],['74076-2194'],RR,"$5,710 ",$0 ,"$5,710 ",11/23/2020,"$59,000 ",-,-,0,0,0
+600074612,4915 W Briarcreek Dr,"Kenny, James T & Peppi M TTEE",4915 W Briarcreek,['Stillwater'],['74074'],RR,"$5,710 ",$0 ,"$5,710 ",3/11/2021,"$554,000 ",-,-,0,0,0
+600074613,4921 W Briarcreek Dr,"Harris, Christopher & Emily",4921 W Briarcreek Dr,['Stillwater'],['74074-2092'],RR,"$55,000 ","$463,970 ","$528,760 ",6/12/2015,"$452,500 ","3,622 sf",2008,5,4,0
+600074614,5007 W Briarcreek Dr,"Chilton, Gary L & Karen J",10151 Meriweather Grove Ave,['Las'],['89166-5265'],RR,"$55,000 ",$0 ,"$55,000 ",11/20/2020,"$51,000 ",-,-,0,0,0
+600074615,5019 W Briarcreek Dr,"Storey, Anna J Webb & Ricky L",5003 W 4th Ave,['Stillwater'],['74074-6956'],RR,"$55,000 ",$0 ,"$55,000 ",12/3/2019,"$50,000 ",-,-,0,0,0
+600074616,5105 W Briarcreek Dr,"Krzmarzick, Jessica J & Mark J",5117 W Briarcreek Dr,['Stillwater'],['74074'],RR,"$55,000 ",$0 ,"$55,000 ",2/21/2018,"$41,000 ",-,-,0,0,0
+600074617,5117 W Briarcreek Dr,"Krzmarzick, Mark J & Jessica J",5117 W Briarcreek Dr,['Stillwater'],['74074-2028'],RR,"$55,000 ","$516,950 ","$588,846 ",10/11/2013,"$490,000 ","4,014 sf",2008,5,4,1
+600074618,5118 W Briarcreek Dr,"Marks, Steven K & Janet A Revoc Trust",5118 W Briarcreek Dr,['Stillwater'],['74074-2028'],RR,"$55,000 ","$601,640 ","$755,333 ",5/19/2016,$0 ,"4,932 sf",2008,5,4,0
+600074619,W Briarcreek Dr,"Marks, Steven K & Janet A Revoc Trust",5118 W Briarcreek Dr,['Stillwater'],['74074-2028'],RR,"$41,250 ",$0 ,"$41,250 ",4/20/2018,"$62,000 ",-,-,0,0,0
+600074620,4208 S Briarcreek Ter,"Horrocks, Robert S & Susan L TTEE HH Living Trust",4208 Briarcreek Ter,['Stillwater'],['74074-2089'],RR,"$55,000 ","$686,900 ","$773,393 ",9/30/2015,$0 ,"5,298 sf",2011,4,5,0
+600074621,4205 S Briarcreek Ter,"Dillon, Jeffrey B",4205 Briarcreek Ter,['Stillwater'],['74074-2089'],RR,"$55,000 ","$594,600 ","$654,287 ",11/30/2020,"$580,000 ","4,774 sf",2008,5,3,1
+600074622,4213 S Briarcreek Ter,"Yan, Shu & Yang, Xiaolan",4213 Briarcreek Ter,['Stillwater'],['74074-2089'],RR,"$55,000 ","$613,520 ","$668,520 ",4/11/2014,"$55,000 ","5,025 sf",2016,5,4,0
+600074623,4221 S Briarcreek Ter,"Kluver, Alan R & Pamela J",5917 Chateau Dr,['Stillwater'],['74075-1259'],RR,"$55,000 ","$661,810 ","$716,810 ",1/18/2019,"$57,000 ","5,182 sf",2020,5,4,0
+600074624,5004 W Briarcreek Dr,"Horrocks, Robert S III, Somer J",5004 W Briarcreek Dr,['Stillwater'],['74074-2679'],RR,"$55,000 ","$679,700 ","$741,618 ",6/4/2012,"$50,000 ","5,315 sf",2015,5,4,0
+600074690,3425 W Lapoint Ct,"Murray, Cody J & Nataly",4019 Timberline Dr,['Stillwater'],['74074-9263'],UR,"$35,000 ","$222,370 ","$257,370 ",7/25/2013,"$229,500 ","2,034 sf",2013,3,2,0
+600074746,1703 S Ashton Ave,"Johnson, Jill M & William C Jr",1703 S Ashton Ave,['Stillwater'],['74074-1886'],UR,"$65,000 ","$365,460 ","$436,350 ",5/17/2013,"$385,000 ","3,085 sf",2012,4,4,0
+600074875,4604 E White Oak Dr,"Coan, Jerry A & Patricia N",4604 White Oak Dr,['Stillwater'],['74074-8535'],RR,"$25,000 ","$268,420 ","$293,420 ",7/10/2017,"$264,000 ","2,127 sf",2017,4,2,0
+600077337,3908 S Harvest Ln,"Wright, Jeffrey B & Tracy R",3908 S Harvest Ln,['Stillwater'],['74074-1239'],RR,"$37,500 ","$248,190 ","$289,054 ",2/11/2008,"$36,500 ","2,237 sf",2008,3,2,1
+600078324,5714 E Saddle Brook Dr,"Mitchell, Jennifer E & Matthew J",5714 E Saddlebrook Dr,['Stillwater'],['74075-8903'],RR,"$36,740 ","$338,780 ","$375,520 ",4/8/2016,"$25,000 ","2,999 sf",2017,4,3,1
+600078827,1603 S Old Pond Dr,"Giles, Kristopher L & Johnson, Christine A",1603 S Old Pond Dr,['Stillwater'],['74074-2586'],UR,"$60,000 ","$407,220 ","$467,220 ",7/20/2012,"$68,000 ","3,172 sf",2013,3,3,0
+600079368,2416 S Teal St,"Almack, Benjamin J",13151 Bronco,['Perry'],['73077-8819'],UR,"$25,000 ","$212,500 ","$237,500 ",3/15/2019,"$231,500 ","2,551 sf",2008,6,4,0
+600080641,W 104th St,"White, Jeffery L & Stacie S",10402 W 104th St,['Coyle'],['73027-3012'],RA,"$7,450 ",$0 ,"$7,450 ",5/23/2008,"$43,500 ",-,-,0,0,0
+600081083,6008 N Canyon Ct,"White, Julia Ann",6008 Canyon Ct,['Stillwater'],['74075-1895'],UR,"$38,000 ","$199,610 ","$241,072 ",7/30/2018,"$229,000 ","1,559 sf",2016,3,2,0
+600081229,826 E Baker Ct,"Cox, Charles B & Natalie G TTEE",7214 E 6th Ave,['Stillwater'],['74074-7430'],UR,"$30,000 ","$186,650 ","$221,943 ",8/4/2015,$0 ,"1,715 sf",2012,3,2,0
+600081259,4810 S Aloysius Cir,"Diaz, Joseph A & Karen E",4810 Aloysius Dr,['Stillwater'],['74074-5065'],RR,"$40,000 ","$271,140 ","$311,140 ",3/26/2015,"$277,000 ","2,104 sf",2014,3,2,1
+600082265,1218 W Stonecrest Ave,"Cook, Donis & Volturo, Natalie J",1316 SE Delaware Ave,['Bartlesville'],['74003-5918'],UR,"$24,500 ","$137,040 ","$164,744 ",10/22/2013,"$150,000 ","1,311 sf",2010,3,1,1
+600082281,1115 W Stonecrest Ave,"Norman, Richard L & Mary K TTEE",1219 Greystone St,['Stillwater'],['74074-1217'],UR,"$24,500 ","$190,960 ","$215,460 ",2/10/2014,"$194,000 ","1,999 sf",2011,3,2,0
+600082281,1115 W Stonecrest Ave,"Norman, Richard L & Mary K TTEE",1219 Greystone St,['Stillwater'],['74074-1217'],UR,"$24,500 ","$190,960 ","$215,460 ",2/10/2014,"$194,000 ","1,999 sf",2011,3,2,0
+600082315,1021 N Sheena Pl,"Bueno, Melisa Sarai Ortega",1021 Sheena Rd,['Glencoe'],['74032-3268'],RR,"$26,380 ",$0 ,"$45,626 ",2/17/2017,"$32,500 ",,,,,
+600083548,S LJ Dr,"Greenfield, Almyra M",10104 W Eseco,['Agra'],['74824-6401'],RR,"$70,650 ",$0 ,"$70,650 ",-,-,-,-,0,0,0
+600083804,19 Arbor Cir,"Rohwer, Natalie",19 Arbor Cir,['Stillwater'],['74074-1882'],UR,"$30,000 ","$253,450 ","$283,450 ",12/14/2018,"$295,000 ","2,292 sf",2014,3,2,1
+600083884,N Hunters Rdg,"Miller, Jeff D & Marie R",5625 N Hunters Rdg,['Stillwater'],['74075-1227'],UR,"$45,000 ",$0 ,"$52,814 ",10/25/2012,$0 ,,,,,
+600084417,N Washington Rd,"Miller, Mark S & Paula J  Revoc Tr",1307 Cielo Vista Dr,['Keller'],['76248-5725'],RA,"$2,670 ",$0 ,"$2,670 ",6/14/2017,$0 ,-,-,0,0,0
+600084624,S Frontier Lndg,"Beeby, Dee Ann (Dunivan) Rev Inter Vivos Trust",3130 N Madison Ct,['Stillwater'],['74075-1123'],RA,"$2,170 ",$0 ,"$2,170 ",10/30/2013,$0 ,,,,,
+600085144,W Main St,"Poole, Edwina & John",818 N Parotte,['Ripley'],['74062-6353'],RR,"$38,180 ",$0 ,"$38,180 ",10/1/2014,$0 ,-,-,0,0,0
+600085144,W Main St,"Poole, Edwina & John",818 N Parotte,['Ripley'],['74062-6353'],RR,"$38,180 ",$0 ,"$38,180 ",10/1/2014,$0 ,-,-,0,0,0
+600087437,6820 S Pelican Pl,"Noles, Natalie & Jared",750177 S 3357 Rd,['Perkins'],['74059-5919'],RA,"$1,530 ",$0 ,"$1,530 ",11/12/2015,"$40,000 ",-,-,0,0,0
+600087458,4525 S Country Club Rd,"Huskerson, Adam & Natalie",2108 NW 25th St,['Oklahoma'],['73107-2502'],RR,"$90,940 ","$403,570 ","$499,080 ",6/24/2016,"$100,000 ","3,529 sf",2017,5,4,1
+600087851,5801 W Lakeview Rd,"Ambrose, Kyle & Natalie",1511 E Sunrise Dr,['Stillwater'],['74075-6927'],RA,"$1,000 ",$0 ,"$1,000 ",1/8/2020,"$96,000 ",-,-,0,0,0
+600088045,W 56th St,"Anderson, Donald M & Lisa O",13504 W 56th St,['Mulhall'],['73063-2707'],RA,"$9,190 ",$0 ,"$9,190 ",-,-,,,,,
+600088140,N Little Ave,"Kirkpatrick, John L R & Diana C",10503 E 142nd St N,['Collinsville'],['74021-3761'],RA,"$1,110 ",$0 ,"$1,110 ",9/18/2008,$0 ,-,-,0,0,0
+600088568,3815 W Fox Ledge Ct,"Youngblood, Russell L & Lynn R CO-TTEE",3815 W Fox Ledge Ln,['Stillwater'],['74074-1743'],UR,"$54,000 ",$0 ,"$54,000 ",5/1/2017,$0 ,,,,,
+600088690,S Country Club Rd,"Huskerson, Adam & Natalie",4525 S Country Club Rd,['Stillwater'],['74074-2011'],RA,$190 ,$0 ,$190 ,10/11/2017,"$30,000 ",,,,,
+600088757,5508 N Sangre Rd,"Ortega, Luis A & Emily",PO Box 573,['Stillwater'],['74076-0573'],RA,"$1,280 ",$0 ,"$1,280 ",8/13/2020,$0 ,,,,,
+600088849,4911 E Clayton Ln,"Aldridge, Diana G & James R",4911 Clayton Ln,['Stillwater'],['74075-3039'],RR,"$52,240 ","$136,650 ","$215,912 ",11/22/2019,"$187,500 ","1,798 sf",2017,4,2,0
+600089017,3723 E 56th St,"Stemm, John Donald & Kimberly DeAnn",3002 N Lincoln St,['Stillwater'],['74075-1114'],RR,"$60,420 ","$298,030 ","$365,740 ",5/21/2018,$0 ,"2,616 sf",2018,4,2,1
+600089039,E 16th Ave,"Miller, Stephanie James",2404 N Glenwood Dr,['Stillwater'],['74075-2671'],UR,"$20,000 ",$0 ,"$20,000 ",6/20/2018,$0 ,,,,,
+600089161,615 N Rockys Ln,"Diaz-Torres, Jose M",615 Rockys Ln,['Stillwater'],['74075-8909'],RR,"$32,640 ",$0 ,"$49,980 ",11/13/2017,"$30,000 ",,,,,
+600089161,615 N Rockys Ln,"Diaz-Torres, Jose M",615 Rockys Ln,['Stillwater'],['74075-8909'],RR,"$32,640 ",$0 ,"$49,980 ",11/13/2017,"$30,000 ",,,,,
+600089716,626 E Kinder Wells Blvd,"Rausch Coleman Homes OKC, LLC",PO Box 10560,['Fayetteville'],['72703-0044'],UR,"$1,450 ",$0 ,"$1,450 ",3/19/2021,"$768,000 ",-,-,0,0,0
+600089717,622 E Kinder Wells Blvd,"Rausch Coleman Homes OKC, LLC",PO Box 10560,['Fayetteville'],['72703-0044'],UR,"$1,450 ",$0 ,"$1,450 ",3/19/2021,"$768,000 ",-,-,0,0,0
+600089718,618 E Kinder Wells Blvd,"Rausch Coleman Homes OKC, LLC",PO Box 10560,['Fayetteville'],['72703-0044'],UR,"$1,450 ",$0 ,"$1,450 ",3/19/2021,"$768,000 ",-,-,0,0,0
+600089719,614 E Kinder Wells Blvd,"Rausch Coleman Homes OKC, LLC",PO Box 10560,['Fayetteville'],['72703-0044'],UR,"$1,450 ",$0 ,"$1,450 ",3/19/2021,"$768,000 ",-,-,0,0,0
+600089720,610 E Kinder Wells Blvd,"Rausch Coleman Homes OKC, LLC",PO Box 10560,['Fayetteville'],['72703-0044'],UR,"$1,450 ",$0 ,"$1,450 ",3/19/2021,"$768,000 ",-,-,0,0,0
+600089721,606 E Kinder Wells Blvd,"Rausch Coleman Homes OKC, LLC",PO Box 10560,['Fayetteville'],['72703-0044'],UR,"$1,450 ",$0 ,"$1,450 ",3/19/2021,"$768,000 ",-,-,0,0,0
+600089722,602 E Kinder Wells Blvd,"Rausch Coleman Homes OKC, LLC",PO Box 10560,['Fayetteville'],['72703-0044'],UR,"$1,450 ",$0 ,"$1,450 ",3/19/2021,"$768,000 ",-,-,0,0,0
+600089724,529 E Kinder Wells Blvd,"Rausch Coleman Homes OKC, LLC",PO Box 10560,['Fayetteville'],['72703-0044'],UR,"$1,450 ",$0 ,"$1,450 ",3/19/2021,"$768,000 ",-,-,0,0,0
+600089725,525 E Kinder Wells Blvd,"Rausch Coleman Homes OKC, LLC",PO Box 10560,['Fayetteville'],['72703-0044'],UR,"$1,450 ",$0 ,"$1,450 ",3/19/2021,"$768,000 ",-,-,0,0,0
+600089726,521 E Kinder Wells Blvd,"Rausch Coleman Homes OKC, LLC",PO Box 10560,['Fayetteville'],['72703-0044'],UR,"$1,450 ",$0 ,"$1,450 ",3/19/2021,"$768,000 ",-,-,0,0,0
+600089727,517 E Kinder Wells Blvd,"Rausch Coleman Homes OKC, LLC",PO Box 10560,['Fayetteville'],['72703-0044'],UR,"$1,450 ",$0 ,"$1,450 ",3/19/2021,"$768,000 ",-,-,0,0,0
+600089728,513 E Kinder Wells Blvd,"Rausch Coleman Homes OKC, LLC",PO Box 10560,['Fayetteville'],['72703-0044'],UR,"$1,450 ",$0 ,"$1,450 ",3/19/2021,"$768,000 ",-,-,0,0,0
+600089729,509 E Kinder Wells Blvd,"Rausch Coleman Homes OKC, LLC",PO Box 10560,['Fayetteville'],['72703-0044'],UR,"$1,450 ",$0 ,"$1,450 ",3/19/2021,"$768,000 ",-,-,0,0,0
+600089730,505 E Kinder Wells Blvd,"Rausch Coleman Homes OKC, LLC",PO Box 10560,['Fayetteville'],['72703-0044'],UR,"$1,450 ",$0 ,"$1,450 ",3/19/2021,"$768,000 ",-,-,0,0,0
+600089731,501 E Kinder Wells Blvd,"Rausch Coleman Homes OKC, LLC",PO Box 10560,['Fayetteville'],['72703-0044'],UR,"$1,450 ",$0 ,"$1,450 ",3/19/2021,"$768,000 ",-,-,0,0,0
+600089732,534 E Kinder Wells Blvd,"Rausch Coleman Homes OKC, LLC",PO Box 10560,['Fayetteville'],['72703-0044'],UR,"$1,450 ",$0 ,"$1,450 ",3/19/2021,"$768,000 ",-,-,0,0,0
+600089733,530 E Kinder Wells Blvd,"Rausch Coleman Homes OKC, LLC",PO Box 10560,['Fayetteville'],['72703-0044'],UR,"$1,450 ",$0 ,"$1,450 ",3/19/2021,"$768,000 ",-,-,0,0,0
+600089734,526 E Kinder Wells Blvd,"Rausch Coleman Homes OKC, LLC",PO Box 10560,['Fayetteville'],['72703-0044'],UR,"$1,450 ",$0 ,"$1,450 ",3/19/2021,"$768,000 ",-,-,0,0,0
+600089735,522 E Kinder Wells Blvd,"Rausch Coleman Homes OKC, LLC",PO Box 10560,['Fayetteville'],['72703-0044'],UR,"$1,450 ",$0 ,"$1,450 ",3/19/2021,"$768,000 ",-,-,0,0,0
+600089736,518 E Kinder Wells Blvd,"Rausch Coleman Homes OKC, LLC",PO Box 10560,['Fayetteville'],['72703-0044'],UR,"$1,450 ",$0 ,"$1,450 ",3/19/2021,"$768,000 ",-,-,0,0,0
+600089737,514 E Kinder Wells Blvd,"Rausch Coleman Homes OKC, LLC",PO Box 10560,['Fayetteville'],['72703-0044'],UR,"$1,450 ",$0 ,"$1,450 ",3/19/2021,"$768,000 ",-,-,0,0,0
+600089940,3404 E Miller Ests,"Jones, Brian & Caroline",1101 Reynolds Ave,['Perkins'],['74059-9113'],RR,"$33,990 ",$0 ,"$33,990 ",7/24/2020,"$16,500 ",,,,,
+600090080,3717 E Cannon Run,"Johnson, William C Jr & Jill",1703 S Ashton Ave,['Stillwater'],['74074-1886'],RA,$400 ,$0 ,$400 ,8/10/2020,$0 ,-,-,0,0,0
